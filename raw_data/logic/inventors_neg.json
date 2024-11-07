@@ -1,0 +1,1626 @@
+[
+    {
+        "statement": "Edwin Herbert Hall did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Emile Berliner did not live in Russia.",
+        "label": 1
+    },
+    {
+        "statement": "Frederick Walton did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "William Congreve did not live in Canada.",
+        "label": 1
+    },
+    {
+        "statement": "Gustaf Dal\u00e9n did not live in Sweden.",
+        "label": 0
+    },
+    {
+        "statement": "Evangelista Torricelli did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "George Pullman did not live in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Marvin Camras did not live in France.",
+        "label": 1
+    },
+    {
+        "statement": "William Sturgeon did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Frederick Walton did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Clarence Birdseye did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Gideon Sundback did not live in Sweden/the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "John Shepherd-Barron did not live in Scotland.",
+        "label": 0
+    },
+    {
+        "statement": "Edwin Link did not live in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Chester Carlson did not live in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Whitcomb Judson did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Joseph Glidden did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Rudolf Diesel did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Charles Wheatstone did not live in France.",
+        "label": 1
+    },
+    {
+        "statement": "John Callcott Horsley did not live in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Charles Goodyear did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Lloyd Groff Copeman did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Herbert Akroyd Stuart did not live in England.",
+        "label": 0
+    },
+    {
+        "statement": "Herbert Saffir did not live in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "August Horch did not live in Russia.",
+        "label": 1
+    },
+    {
+        "statement": "Joseph Marie Jacquard did not live in the Netherlands.",
+        "label": 1
+    },
+    {
+        "statement": "David Edward Hughes did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Yoshua Bengio did not live in Canada.",
+        "label": 0
+    },
+    {
+        "statement": "Ferdinand Carr\u00e9 did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Rudolf K\u00e1lm\u00e1n did not live in Hungary.",
+        "label": 0
+    },
+    {
+        "statement": "Charles Fritts did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Narinder Singh Kapany did not live in India.",
+        "label": 0
+    },
+    {
+        "statement": "Archimedes did not live in Ancient Greece.",
+        "label": 0
+    },
+    {
+        "statement": "Gottlieb Daimler did not live in France.",
+        "label": 1
+    },
+    {
+        "statement": "Fritz Pfleumer did not live in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Arthur Fry did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Fridtjof Nansen did not live in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Semyon Kirlian did not live in Russia.",
+        "label": 0
+    },
+    {
+        "statement": "Ignazio Porro did not live in Italy.",
+        "label": 0
+    },
+    {
+        "statement": "Paul Gottlieb Nipkow did not live in Denmark.",
+        "label": 1
+    },
+    {
+        "statement": "Edwin H. Land did not live in Sweden.",
+        "label": 1
+    },
+    {
+        "statement": "Lester Wire did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "L\u00e1szl\u00f3 B\u00edr\u00f3 did not live in Hungary.",
+        "label": 0
+    },
+    {
+        "statement": "George Eastman did not live in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Galileo Galilei did not live in Italy.",
+        "label": 0
+    },
+    {
+        "statement": "John Atanasoff did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Benjamin Franklin did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Sir Sandford Fleming did not live in Canada.",
+        "label": 0
+    },
+    {
+        "statement": "Robert Moog did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "George Washington Carver did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "James Clerk Maxwell did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Hans Lippershey did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Fridtjof Nansen did not live in Norway.",
+        "label": 0
+    },
+    {
+        "statement": "Sir Sandford Fleming did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Willis Carrier did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Joseph-Armand Bombardier did not live in Canada.",
+        "label": 0
+    },
+    {
+        "statement": "Earle Dickson did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Luther George Simjian did not live in Turkey/the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Herbert Saffir did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Ignazio Porro did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Wallace Carothers did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "John Wesley Hyatt did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "James Dyson did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Candace Pert did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "David Schwarz did not live in France.",
+        "label": 1
+    },
+    {
+        "statement": "Walter Hunt did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Samuel Morse did not live in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Yvonne Brill did not live in Canada.",
+        "label": 0
+    },
+    {
+        "statement": "Guglielmo Marconi did not live in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Shinya Yamanaka did not live in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Carl Sontheimer did not live in Switzerland.",
+        "label": 1
+    },
+    {
+        "statement": "Sergey Brin and Larry Page did not live in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Percy Spencer did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Henry Bessemer did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Ruth Handler did not live in the Netherlands.",
+        "label": 1
+    },
+    {
+        "statement": "Richard Leach Maddox did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Alfred Nobel did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Thomas Wedgwood did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Frank Bunker Gilbreth did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Benjamin Holt did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Josephine Cochrane did not live in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Godfrey Hounsfield did not live in Denmark.",
+        "label": 1
+    },
+    {
+        "statement": "Antoine Lavoisier did not live in France.",
+        "label": 0
+    },
+    {
+        "statement": "Carlos Glidden did not live in Scotland.",
+        "label": 1
+    },
+    {
+        "statement": "Maria Telkes did not live in Hungary/the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Robert Adler did not live in Austria/the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "James Watt did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Edwin Link did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Igor Sikorsky did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Sir Humphry Davy did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Nikolai Basov did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Edwin H. Land did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Cai Lun did not live in Italy.",
+        "label": 1
+    },
+    {
+        "statement": "Mary Walton did not live in France.",
+        "label": 1
+    },
+    {
+        "statement": "Joseph Aspdin did not live in Switzerland.",
+        "label": 1
+    },
+    {
+        "statement": "James Watt did not live in Scotland.",
+        "label": 0
+    },
+    {
+        "statement": "Ernest Swinton did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Jean-Bernard-L\u00e9on Foucault did not live in France.",
+        "label": 0
+    },
+    {
+        "statement": "Gordon Gould did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Leonardo da Vinci did not live in Poland/France.",
+        "label": 1
+    },
+    {
+        "statement": "Ernesto Blanco did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "George Cayley did not live in Canada.",
+        "label": 1
+    },
+    {
+        "statement": "John von Neumann did not live in Hungary/the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Gideon Sundback did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Ruth Benerito did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Robert Moog did not live in Austria/the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Luther George Simjian did not live in Norway.",
+        "label": 1
+    },
+    {
+        "statement": "Ralph H. Baer did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "John Gorrie did not live in Italy.",
+        "label": 1
+    },
+    {
+        "statement": "Michael Faraday did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Lloyd Groff Copeman did not live in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Philo Farnsworth did not live in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Alan Turing did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Elisha Gray did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "\u00c9douard-L\u00e9on Scott de Martinville did not live in France.",
+        "label": 0
+    },
+    {
+        "statement": "Zhores Alferov did not live in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Leon Theremin did not live in Russia.",
+        "label": 0
+    },
+    {
+        "statement": "Rudolf Diesel did not live in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Elisha Otis did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "L\u00e1szl\u00f3 B\u00edr\u00f3 did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Valdemar Poulsen did not live in Denmark.",
+        "label": 0
+    },
+    {
+        "statement": "James Murray Spangler did not live in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Joseph Aspdin did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Hans Berger did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Philo Farnsworth did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Ralph Benjamin did not live in Italy.",
+        "label": 1
+    },
+    {
+        "statement": "Florence Parpart did not live in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Marvin Camras did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Charles Babbage did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Charles Francis Richter did not live in France.",
+        "label": 1
+    },
+    {
+        "statement": "Ami Argand did not live in Switzerland.",
+        "label": 0
+    },
+    {
+        "statement": "Kwolek did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Richard Gatling did not live in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Luther Simjian did not live in Turkey/the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Joseph Bramah did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Hans Geiger did not live in Austria/the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Alexander Graham Bell did not live in Scotland/Canada/the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Blaise Pascal did not live in Poland/France.",
+        "label": 1
+    },
+    {
+        "statement": "Charles Macintosh did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Narinder Singh Kapany did not live in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Bette Nesmith Graham did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "\u00c9douard-L\u00e9on Scott de Martinville did not live in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Orville and Wilbur Wright did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Richard Leach Maddox did not live in Austria.",
+        "label": 1
+    },
+    {
+        "statement": "Hans Oersted did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Charles Cros did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "R. Buckminster Fuller did not live in Scotland.",
+        "label": 1
+    },
+    {
+        "statement": "Willis Carrier did not live in Italy.",
+        "label": 1
+    },
+    {
+        "statement": "Charles Cros did not live in France.",
+        "label": 0
+    },
+    {
+        "statement": "Thomas Savery did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Bartolomeo Cristofori did not live in Italy.",
+        "label": 0
+    },
+    {
+        "statement": "Louis Pasteur did not live in France.",
+        "label": 0
+    },
+    {
+        "statement": "Frederick G. Creed did not live in Sweden.",
+        "label": 1
+    },
+    {
+        "statement": "Alexander Fleming did not live in France.",
+        "label": 1
+    },
+    {
+        "statement": "Florence Parpart did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Henri Giffard did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Paul Gottlieb Nipkow did not live in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Hippolyte M\u00e8ge-Mouri\u00e8s did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Josephine Cochrane did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Mary Anderson did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Otis Boykin did not live in France.",
+        "label": 1
+    },
+    {
+        "statement": "John Callcott Horsley did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Jack Kilby did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Samuel Fox did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Hans Berger did not live in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Ernest Swinton did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Andr\u00e9-Jacques Garnerin did not live in France.",
+        "label": 0
+    },
+    {
+        "statement": "Alexander Fleming did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Hans Goldschmidt did not live in the Netherlands.",
+        "label": 1
+    },
+    {
+        "statement": "Willem Einthoven did not live in France.",
+        "label": 1
+    },
+    {
+        "statement": "Garrett Morgan did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Richard Trevithick did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Georges Claude did not live in Italy.",
+        "label": 1
+    },
+    {
+        "statement": "Sir Isaac Newton did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "William Kelly did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Thomas Wedgwood did not live in Finland.",
+        "label": 1
+    },
+    {
+        "statement": "Nils Bohlin did not live in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Albert Ghiorso did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "George de Mestral did not live in Switzerland.",
+        "label": 0
+    },
+    {
+        "statement": "Carlos Glidden did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "William Congreve did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "John Logie Baird did not live in Japan.",
+        "label": 1
+    },
+    {
+        "statement": "Edouard Benedictus did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Alec Jeffreys did not live in France.",
+        "label": 1
+    },
+    {
+        "statement": "Arthur Pitney did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Giovanni Caselli did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "John Gorrie did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Robert Chesebrough did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Johannes Gutenberg did not live in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Maria Telkes did not live in Hungary.",
+        "label": 1
+    },
+    {
+        "statement": "Yoshiro Nakamatsu did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Chester Carlson did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "George Pullman did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "George Cayley did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "John Bardeen did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Orville and Wilbur Wright did not live in France.",
+        "label": 1
+    },
+    {
+        "statement": "Archimedes did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Johannes Gutenberg did not live in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "George Eastman did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Hans Lippershey did not live in the Netherlands.",
+        "label": 0
+    },
+    {
+        "statement": "Carl Elsener did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "John Boyd Dunlop did not live in France.",
+        "label": 1
+    },
+    {
+        "statement": "Heinrich Hertz did not live in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Leonardo da Vinci did not live in Italy.",
+        "label": 0
+    },
+    {
+        "statement": "Nikolai Basov did not live in the Soviet Union.",
+        "label": 0
+    },
+    {
+        "statement": "Wilhelm Conrad R\u00f6ntgen did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Guglielmo Marconi did not live in Italy.",
+        "label": 0
+    },
+    {
+        "statement": "Christian Huygens did not live in the Netherlands.",
+        "label": 0
+    },
+    {
+        "statement": "Robert Adler did not live in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "John Walker did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Grace Hopper did not live in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "James West did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Charles Townes did not live in Russia.",
+        "label": 1
+    },
+    {
+        "statement": "Sir Frank Whittle did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "John Ambrose Fleming did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Gottlieb Daimler did not live in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Frederick McKinley Jones did not live in Japan.",
+        "label": 1
+    },
+    {
+        "statement": "William Sturgeon did not live in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Igor Tamm did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Frank Julian Sprague did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "George Antheil did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "William Kelly did not live in France.",
+        "label": 1
+    },
+    {
+        "statement": "Alva J. Fisher did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Louis Pasteur did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Thomas Edison did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Joseph Glidden did not live in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Tim Berners-Lee did not live in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Carl Wilhelm Siemens did not live in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Ralph Benjamin did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "George Devol did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Igor Tamm did not live in Russia.",
+        "label": 0
+    },
+    {
+        "statement": "Philipp Reis did not live in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Edmund Cartwright did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Heinrich G\u00f6bel did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Yoshua Bengio did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "John Kay did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Marie Curie did not live in Poland/France.",
+        "label": 0
+    },
+    {
+        "statement": "Mary Phelps Jacob did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Valdemar Poulsen did not live in Scotland.",
+        "label": 1
+    },
+    {
+        "statement": "John Harrison did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "John Ericsson did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "James Starley did not live in Sweden/the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Charles Tellier did not live in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Fritz Pfleumer did not live in Canada/the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Clyde Tombaugh did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Nicolas Appert did not live in Russia.",
+        "label": 1
+    },
+    {
+        "statement": "Felix Hoffmann did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Joseph Henry did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Alexander Graham Bell did not live in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Robert Noyce did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Charles Francis Richter did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Hans Oersted did not live in Denmark.",
+        "label": 0
+    },
+    {
+        "statement": "Nils Bohlin did not live in Sweden.",
+        "label": 0
+    },
+    {
+        "statement": "Alec Jeffreys did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "John T. Parsons did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Otis Boykin did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Charles Strite did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Alessandro Volta did not live in Italy.",
+        "label": 0
+    },
+    {
+        "statement": "Ruth Handler did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Georges Claude did not live in France.",
+        "label": 0
+    },
+    {
+        "statement": "Hedy Lamarr did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Alfred Nobel did not live in Sweden.",
+        "label": 0
+    },
+    {
+        "statement": "John Ambrose Fleming did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Charles Strite did not live in Italy.",
+        "label": 1
+    },
+    {
+        "statement": "John Ericsson did not live in Sweden.",
+        "label": 0
+    },
+    {
+        "statement": "Elisha Otis did not live in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Gordon Gould did not live in Canada.",
+        "label": 1
+    },
+    {
+        "statement": "Christopher Cockerell did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Sir Charles Parsons did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Henry Ford did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Rudolf K\u00e1lm\u00e1n did not live in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Joseph Swan did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Richard Gatling did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Ferdinand von Zeppelin did not live in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Karl Benz did not live in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "James Starley did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "August Horch did not live in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Charles Macintosh did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Heinrich G\u00f6bel did not live in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Marie Curie did not live in Hungary.",
+        "label": 1
+    },
+    {
+        "statement": "Igor Sikorsky did not live in Ukraine/the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Gustaf Dal\u00e9n did not live in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Eli Whitney did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Hippolyte M\u00e8ge-Mouri\u00e8s did not live in France.",
+        "label": 0
+    },
+    {
+        "statement": "Ada Lovelace did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Spencer Silver did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Leon Theremin did not live in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Emile Berliner did not live in Germany/the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Charles Wheatstone did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Birut\u00e9 Galdikas did not live in France.",
+        "label": 1
+    },
+    {
+        "statement": "Samuel Fox did not live in France.",
+        "label": 1
+    },
+    {
+        "statement": "Grace Hopper did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Birut\u00e9 Galdikas did not live in Canada.",
+        "label": 0
+    },
+    {
+        "statement": "Daisuke Inoue did not live in Japan.",
+        "label": 0
+    },
+    {
+        "statement": "Albert Ghiorso did not live in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Karl Landsteiner did not live in Austria.",
+        "label": 0
+    },
+    {
+        "statement": "Joseph Henry did not live in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Galileo Galilei did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Linus Torvalds did not live in Finland.",
+        "label": 0
+    },
+    {
+        "statement": "Ami Argand did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Andr\u00e9-Jacques Garnerin did not live in the Netherlands.",
+        "label": 1
+    },
+    {
+        "statement": "Levi Strauss did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Alessandro Volta did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Edouard Benedictus did not live in France.",
+        "label": 0
+    },
+    {
+        "statement": "Arthur Fry did not live in France.",
+        "label": 1
+    },
+    {
+        "statement": "Charles Townes did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Ralph H. Baer did not live in France.",
+        "label": 1
+    },
+    {
+        "statement": "Reginald Fessenden did not live in Canada/the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Antoine Lavoisier did not live in Austria.",
+        "label": 1
+    },
+    {
+        "statement": "Joseph Engelberger did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Karl Landsteiner did not live in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Reginald Fessenden did not live in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "John Shepherd-Barron did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Frank Bunker Gilbreth did not live in Russia.",
+        "label": 1
+    },
+    {
+        "statement": "Daisuke Inoue did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "John Kay did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Tim Berners-Lee did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Charles Francis Jenkins did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Jean-Bernard-L\u00e9on Foucault did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Wilhelm Conrad R\u00f6ntgen did not live in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Christian Huygens did not live in Scotland.",
+        "label": 1
+    },
+    {
+        "statement": "Ada Lovelace did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Philo Taylor Farnsworth did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Sergey Brin and Larry Page did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Hans Geiger did not live in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Evangelista Torricelli did not live in Italy.",
+        "label": 0
+    },
+    {
+        "statement": "Herbert Akroyd Stuart did not live in Russia.",
+        "label": 1
+    },
+    {
+        "statement": "Daniel Fahrenheit did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Shinya Yamanaka did not live in Japan.",
+        "label": 0
+    },
+    {
+        "statement": "Giovanni Caselli did not live in Italy.",
+        "label": 0
+    },
+    {
+        "statement": "Charles Francis Jenkins did not live in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Hedy Lamarr did not live in Austria/the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Frederick McKinley Jones did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "James Hargreaves did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "David Schwarz did not live in Croatia.",
+        "label": 0
+    },
+    {
+        "statement": "Konrad Zuse did not live in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Jacob Perkins did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Arthur Pitney did not live in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "John Boyd Dunlop did not live in Scotland.",
+        "label": 0
+    },
+    {
+        "statement": "Charles Babbage did not live in Hungary/the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Hans von Ohain did not live in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "John von Neumann did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Christopher Cockerell did not live in France.",
+        "label": 1
+    },
+    {
+        "statement": "R. Buckminster Fuller did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Thomas Tompion did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Vint Cerf did not live in Italy.",
+        "label": 1
+    },
+    {
+        "statement": "Nicolas Appert did not live in France.",
+        "label": 0
+    },
+    {
+        "statement": "Wallace Carothers did not live in Denmark.",
+        "label": 1
+    },
+    {
+        "statement": "Carl Sontheimer did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Karl Benz did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Konrad Zuse did not live in Poland/France.",
+        "label": 1
+    },
+    {
+        "statement": "James Clerk Maxwell did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Nikola Tesla did not live in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "James Murray Spangler did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "John Wesley Hyatt did not live in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Hans Goldschmidt did not live in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Carl Elsener did not live in Switzerland.",
+        "label": 0
+    },
+    {
+        "statement": "Vint Cerf did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Charles Tellier did not live in France.",
+        "label": 0
+    },
+    {
+        "statement": "Elisha Gray did not live in Austria/the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "George de Mestral did not live in Canada.",
+        "label": 1
+    },
+    {
+        "statement": "Sir Charles Parsons did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Henry Bessemer did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "James Dyson did not live in Canada.",
+        "label": 1
+    },
+    {
+        "statement": "Jack Kilby did not live in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Joseph Marie Jacquard did not live in France.",
+        "label": 0
+    },
+    {
+        "statement": "Carl Wilhelm Siemens did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Sir Humphry Davy did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Philipp Reis did not live in Finland.",
+        "label": 1
+    },
+    {
+        "statement": "Samuel Colt did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Bartolomeo Cristofori did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Mary Walton did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Felix Hoffmann did not live in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Lester Wire did not live in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Frederick G. Creed did not live in Canada.",
+        "label": 0
+    },
+    {
+        "statement": "Hans von Ohain did not live in Canada.",
+        "label": 1
+    },
+    {
+        "statement": "Elihu Thomson did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Yvonne Brill did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Pierre Curie did not live in France.",
+        "label": 0
+    },
+    {
+        "statement": "James Hargreaves did not live in Sweden.",
+        "label": 1
+    },
+    {
+        "statement": "Nikolay Slavyanov did not live in Russia.",
+        "label": 0
+    },
+    {
+        "statement": "Dr. Robert Gallo did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Charles Goodyear did not live in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Samuel Morse did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Daniel Fahrenheit did not live in Poland/Germany.",
+        "label": 0
+    },
+    {
+        "statement": "John Logie Baird did not live in Scotland.",
+        "label": 0
+    },
+    {
+        "statement": "Henri Giffard did not live in France.",
+        "label": 0
+    },
+    {
+        "statement": "Eugene Polley did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Zhores Alferov did not live in Russia.",
+        "label": 0
+    },
+    {
+        "statement": "Ferdinand Carr\u00e9 did not live in France.",
+        "label": 0
+    },
+    {
+        "statement": "Richard Trevithick did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Edmund Cartwright did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "John Walker did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Semyon Kirlian did not live in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Blaise Pascal did not live in France.",
+        "label": 0
+    },
+    {
+        "statement": "Mary Phelps Jacob did not live in Ukraine/the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Luther Simjian did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Benjamin Rubin did not live in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Willem Einthoven did not live in the Netherlands.",
+        "label": 0
+    },
+    {
+        "statement": "Godfrey Hounsfield did not live in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Yoshiro Nakamatsu did not live in Japan.",
+        "label": 0
+    },
+    {
+        "statement": "Sir Isaac Newton did not live in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Ferdinand von Zeppelin did not live in France.",
+        "label": 1
+    },
+    {
+        "statement": "Auguste and Louis Lumi\u00e8re did not live in France.",
+        "label": 0
+    },
+    {
+        "statement": "Thomas Edison did not live in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Cai Lun did not live in China.",
+        "label": 0
+    }
+]

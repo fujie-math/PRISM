@@ -1,0 +1,2246 @@
+[
+    {
+        "statement": "The Earth's atmosphere doesn't protect us from harmful radiation from the sun.",
+        "label": 0
+    },
+    {
+        "statement": "The largest flower in the world isn't the daisy.",
+        "label": 1
+    },
+    {
+        "statement": "Cells aren't the complex units of life.",
+        "label": 1
+    },
+    {
+        "statement": "The theory of evolution, proposed by Charles Darwin, doesn't state that species evolve over time through natural selection.",
+        "label": 0
+    },
+    {
+        "statement": "The smallest planet in our solar system isn't Mercury.",
+        "label": 0
+    },
+    {
+        "statement": "The moon doesn't orbit around the Earth.",
+        "label": 0
+    },
+    {
+        "statement": "The fastest bird in the world isn't the penguin.",
+        "label": 1
+    },
+    {
+        "statement": "The fastest animal in the world isn't the sloth.",
+        "label": 1
+    },
+    {
+        "statement": "Fire doesn't need oxygen to burn.",
+        "label": 0
+    },
+    {
+        "statement": "The Statue of Liberty wasn't a gift from France to the United States.",
+        "label": 0
+    },
+    {
+        "statement": "Comets aren't icy celestial objects that orbit the Sun.",
+        "label": 0
+    },
+    {
+        "statement": "The coldest place on Earth isn't the equator.",
+        "label": 1
+    },
+    {
+        "statement": "Light can't exhibit both wave-like and particle-like properties.",
+        "label": 0
+    },
+    {
+        "statement": "Jupiter isn't mostly made of iron and oxygen.",
+        "label": 1
+    },
+    {
+        "statement": "The Earth doesn't avoid the Sun.",
+        "label": 1
+    },
+    {
+        "statement": "Gravity isn't the force that repels objects with mass away from each other.",
+        "label": 1
+    },
+    {
+        "statement": "The largest unit of life isn't the cell.",
+        "label": 1
+    },
+    {
+        "statement": "Metamorphosis isn't a biological process in which an organism remains unchanged in form during its life cycle.",
+        "label": 1
+    },
+    {
+        "statement": "Symbiosis isn't a close relationship between two species.",
+        "label": 0
+    },
+    {
+        "statement": "Pizza isn't a type of food that many people enjoy.",
+        "label": 0
+    },
+    {
+        "statement": "Oxygen isn't harmful to human breathing.",
+        "label": 1
+    },
+    {
+        "statement": "Sharks aren't sea creatures that have a reputation for being dangerous.",
+        "label": 0
+    },
+    {
+        "statement": "The scientific method isn't a systematic process for investigating phenomena and acquiring new knowledge.",
+        "label": 0
+    },
+    {
+        "statement": "Sharks aren't sea creatures that have a reputation for being friendly.",
+        "label": 1
+    },
+    {
+        "statement": "Plate tectonics don't shape the Earth's surface.",
+        "label": 0
+    },
+    {
+        "statement": "The largest reptile in the world isn't the crocodile.",
+        "label": 1
+    },
+    {
+        "statement": "The human heart doesn't beat approximately 100,000 times per day.",
+        "label": 0
+    },
+    {
+        "statement": "The color of the sky isn't blue.",
+        "label": 0
+    },
+    {
+        "statement": "Cacti don't store water in their stems.",
+        "label": 0
+    },
+    {
+        "statement": "The three states of anti-matter aren't solid, liquid, and gas.",
+        "label": 1
+    },
+    {
+        "statement": "The Milky Way isn't a linear galaxy.",
+        "label": 1
+    },
+    {
+        "statement": "The Earth's stillness on its axis doesn't cause day and night.",
+        "label": 1
+    },
+    {
+        "statement": "The first law of thermodynamics doesn't state that energy can be created and destroyed, only converted from one form to another.",
+        "label": 1
+    },
+    {
+        "statement": "The speed of light isn't approximately 10 meters per second.",
+        "label": 1
+    },
+    {
+        "statement": "The Panama Canal doesn't connect the Atlantic and Pacific oceans.",
+        "label": 0
+    },
+    {
+        "statement": "The Earth's magnetic field isn't what causes compasses to point south.",
+        "label": 1
+    },
+    {
+        "statement": "Uranus doesn't orbit the Sun upright.",
+        "label": 1
+    },
+    {
+        "statement": "The three main types of symbiotic relationships aren't mutualism, commensalism, and parasitism.",
+        "label": 0
+    },
+    {
+        "statement": "Uranus doesn't orbit the Sun on its side.",
+        "label": 0
+    },
+    {
+        "statement": "The fastest land animal in the world isn't the snail.",
+        "label": 1
+    },
+    {
+        "statement": "The largest continent in the world isn't Asia.",
+        "label": 0
+    },
+    {
+        "statement": "The Statue of Liberty isn't located in Paris.",
+        "label": 1
+    },
+    {
+        "statement": "The first successful powered flight wasn't made by the Wright Brothers in 1903.",
+        "label": 0
+    },
+    {
+        "statement": "Ecosystems don't exclude living organisms and their physical environment.",
+        "label": 1
+    },
+    {
+        "statement": "The smallest planet in the solar system isn't Jupiter.",
+        "label": 1
+    },
+    {
+        "statement": "Jupiter doesn't have the Great Red Spot, a giant storm.",
+        "label": 0
+    },
+    {
+        "statement": "The study of non-living organisms and their interactions with the environment isn't called anti-biology.",
+        "label": 1
+    },
+    {
+        "statement": "The human eye can't detect millions of different colors.",
+        "label": 0
+    },
+    {
+        "statement": "The human brain doesn't weigh about 100 pounds.",
+        "label": 1
+    },
+    {
+        "statement": "The three states of matter aren't solid, liquid, and gas.",
+        "label": 0
+    },
+    {
+        "statement": "The water cycle doesn't include evaporation, condensation, precipitation, and runoff.",
+        "label": 0
+    },
+    {
+        "statement": "The planet Uranus is not often referred to as the 'ice giant.'",
+        "label": 0
+    },
+    {
+        "statement": "The sky isn't blue.",
+        "label": 0
+    },
+    {
+        "statement": "The human body doesn't have 12 pairs of legs.",
+        "label": 1
+    },
+    {
+        "statement": "The human body doesn't have 100 bones.",
+        "label": 1
+    },
+    {
+        "statement": "The fastest animal in the world isn't the turtle.",
+        "label": 1
+    },
+    {
+        "statement": "The unscientific method isn't a random process for ignoring phenomena and losing knowledge.",
+        "label": 1
+    },
+    {
+        "statement": "Humans don't have six senses: sight, hearing, touch, taste, smell, and telekinesis.",
+        "label": 1
+    },
+    {
+        "statement": "Humans do use their brains.",
+        "label": 1
+    },
+    {
+        "statement": "The conservation of energy principle doesn't state that energy can be created and destroyed.",
+        "label": 1
+    },
+    {
+        "statement": "Lightning isn't an accumulation of static movement.",
+        "label": 1
+    },
+    {
+        "statement": "The longest mountain range in the world isn't located in Australia.",
+        "label": 1
+    },
+    {
+        "statement": "DNA doesn't erase genetic information in living organisms.",
+        "label": 1
+    },
+    {
+        "statement": "The average body temperature of a human isn't 98.6 degrees Fahrenheit.",
+        "label": 0
+    },
+    {
+        "statement": "The Earth isn't round.",
+        "label": 0
+    },
+    {
+        "statement": "DNA doesn't carry genetic information in living organisms.",
+        "label": 0
+    },
+    {
+        "statement": "The ozone layer doesn't expose Earth to harmful ultraviolet radiation.",
+        "label": 1
+    },
+    {
+        "statement": "Volcanic eruptions don't destroy existing land.",
+        "label": 1
+    },
+    {
+        "statement": "The endocrine system doesn't regulate body functions through hormones.",
+        "label": 0
+    },
+    {
+        "statement": "The three main types of neurons aren't muscle neurons, sensory neurons, and extraneurons.",
+        "label": 1
+    },
+    {
+        "statement": "The human body isn't composed of about 60% water.",
+        "label": 0
+    },
+    {
+        "statement": "The Great Wall of China isn't the longest wall in the world.",
+        "label": 0
+    },
+    {
+        "statement": "The Grand Canyon isn't located in Europe.",
+        "label": 1
+    },
+    {
+        "statement": "Saturn's smallest moon isn't Titan.",
+        "label": 1
+    },
+    {
+        "statement": "The planet Jupiter isn't the largest planet in our solar system.",
+        "label": 0
+    },
+    {
+        "statement": "Comets aren't fiery celestial objects that avoid the Sun.",
+        "label": 1
+    },
+    {
+        "statement": "The only continent with mountains is Asia.",
+        "label": 1
+    },
+    {
+        "statement": "Inertia isn't an object's encouragement to change in motion.",
+        "label": 1
+    },
+    {
+        "statement": "Apples don't grow on vines.",
+        "label": 1
+    },
+    {
+        "statement": "Earth isn't 71% land.",
+        "label": 1
+    },
+    {
+        "statement": "The human body does need water to survive.",
+        "label": 1
+    },
+    {
+        "statement": "Ice doesn't sink in water due to its higher density.",
+        "label": 1
+    },
+    {
+        "statement": "Echoes aren't sound waves reflecting off surfaces.",
+        "label": 0
+    },
+    {
+        "statement": "The theory of stasis, proposed by Charles Darwin, doesn't state that species remain constant over time through artificial selection.",
+        "label": 1
+    },
+    {
+        "statement": "The freezing point of water doesn't decrease as altitude increases.",
+        "label": 1
+    },
+    {
+        "statement": "The planet Venus isn't often referred to as the 'morning star' or the 'evening star.'",
+        "label": 0
+    },
+    {
+        "statement": "A day on Earth isn't approximately 365.25 days long, which is why we don't have a leap year every four years.",
+        "label": 1
+    },
+    {
+        "statement": "Penguins can't fly.",
+        "label": 1
+    },
+    {
+        "statement": "Chemical reactions don't involve the rearrangement of atoms to form new substances.",
+        "label": 0
+    },
+    {
+        "statement": "There aren't 50 hours in a day.",
+        "label": 1
+    },
+    {
+        "statement": "Iron doesn't remain unaffected in the presence of oxygen and water.",
+        "label": 1
+    },
+    {
+        "statement": "Volcanoes don't form far from areas where Earth's tectonic plates interact.",
+        "label": 1
+    },
+    {
+        "statement": "The pH scale doesn't measure the sweetness or bitterness of a substance, ranging from 0 (most sweet) to 14 (most bitter), with 7 being neutral.",
+        "label": 1
+    },
+    {
+        "statement": "The human brain doesn't weigh around 3 pounds.",
+        "label": 0
+    },
+    {
+        "statement": "Friction isn't the force that encourages motion between two surfaces in contact.",
+        "label": 1
+    },
+    {
+        "statement": "The moon isn't made of cheese.",
+        "label": 1
+    },
+    {
+        "statement": "The most abundant gas in Earth's atmosphere isn't nitrogen.",
+        "label": 0
+    },
+    {
+        "statement": "The highest mountain in North America isn't Denali.",
+        "label": 0
+    },
+    {
+        "statement": "The atomic number of an element doesn't represent the number of electrons in its nucleus.",
+        "label": 1
+    },
+    {
+        "statement": "Rainbows aren't formed when light is reflected off of dirt particles in the air.",
+        "label": 1
+    },
+    {
+        "statement": "Dogs are mammals.",
+        "label": 1
+    },
+    {
+        "statement": "Mount Everest isn't the shortest mountain in the world.",
+        "label": 1
+    },
+    {
+        "statement": "Penguins aren't warm-blooded and can't survive in hot climates.",
+        "label": 1
+    },
+    {
+        "statement": "Auroras don't occur near Earth's polar regions.",
+        "label": 0
+    },
+    {
+        "statement": "There are deserts in Australia.",
+        "label": 1
+    },
+    {
+        "statement": "The study of heredity and the variation of inherited characteristics isn't called genetics.",
+        "label": 0
+    },
+    {
+        "statement": "The human body doesn't have four types of water groups: A, B, AB, and O.",
+        "label": 1
+    },
+    {
+        "statement": "Human digestion doesn't begin in the hand and end in the large intestine.",
+        "label": 1
+    },
+    {
+        "statement": "The Statue of Liberty isn't located in Tokyo.",
+        "label": 1
+    },
+    {
+        "statement": "Polar bears don't have white fur to camouflage in their snowy environment.",
+        "label": 0
+    },
+    {
+        "statement": "Vaccines don't promote infectious diseases.",
+        "label": 1
+    },
+    {
+        "statement": "The planet Saturn doesn't have the largest rings in our solar system.",
+        "label": 0
+    },
+    {
+        "statement": "The human lymphatic system doesn't help fight infections and diseases.",
+        "label": 0
+    },
+    {
+        "statement": "The Statue of Liberty isn't located in New York City.",
+        "label": 0
+    },
+    {
+        "statement": "The process of pollination isn't crucial for plant reproduction.",
+        "label": 0
+    },
+    {
+        "statement": "Neptune doesn't have the strongest winds in the solar system.",
+        "label": 0
+    },
+    {
+        "statement": "The human eye can't see radio waves.",
+        "label": 1
+    },
+    {
+        "statement": "The Great Barrier Reef isn't the largest coral reef system in the world.",
+        "label": 0
+    },
+    {
+        "statement": "Photosynthesis isn't the process by which plants convert darkness into chemical energy.",
+        "label": 1
+    },
+    {
+        "statement": "The fastest bird in the world isn't the penguin.",
+        "label": 1
+    },
+    {
+        "statement": "Snow isn't cold.",
+        "label": 0
+    },
+    {
+        "statement": "Mars doesn't have a thin atmosphere.",
+        "label": 0
+    },
+    {
+        "statement": "Earth doesn't have a magnetic field.",
+        "label": 0
+    },
+    {
+        "statement": "The study of substances and their interactions isn't called chemistry.",
+        "label": 0
+    },
+    {
+        "statement": "The Great Barrier Reef isn't the largest coral reef system in the world.",
+        "label": 0
+    },
+    {
+        "statement": "Fossils don't destroy evidence of past life on Earth.",
+        "label": 1
+    },
+    {
+        "statement": "The coldest place on Earth isn't the equator.",
+        "label": 1
+    },
+    {
+        "statement": "A human pregnancy typically doesn't last around 9 months.",
+        "label": 0
+    },
+    {
+        "statement": "Coral reefs aren't made of living organisms.",
+        "label": 0
+    },
+    {
+        "statement": "Tornadoes aren't stationary columns of air.",
+        "label": 1
+    },
+    {
+        "statement": "The two main types of cells aren't prokaryotic (with a nucleus) and eukaryotic (without a nucleus).",
+        "label": 1
+    },
+    {
+        "statement": "The continent of Antarctica isn't mostly covered in ice.",
+        "label": 0
+    },
+    {
+        "statement": "An adult human doesn't have 32 teeth.",
+        "label": 0
+    },
+    {
+        "statement": "The tallest mammal in the world isn't the giraffe.",
+        "label": 0
+    },
+    {
+        "statement": "Humans don't have five senses: sight, hearing, touch, taste, and smell.",
+        "label": 0
+    },
+    {
+        "statement": "The four fundamental forces of nature aren't anti-gravity, anti-electromagnetism, the weak nuclear force, and the strong nuclear force.",
+        "label": 1
+    },
+    {
+        "statement": "The largest tree in the world isn't a cactus.",
+        "label": 1
+    },
+    {
+        "statement": "The human skin isn't the body's largest organ.",
+        "label": 0
+    },
+    {
+        "statement": "The largest body of water in the world isn't the Mediterranean Sea.",
+        "label": 1
+    },
+    {
+        "statement": "Migration doesn't allow animals to find better resources.",
+        "label": 0
+    },
+    {
+        "statement": "The planet Jupiter doesn't have the most moons in our solar system.",
+        "label": 0
+    },
+    {
+        "statement": "The largest bird in the world isn't the penguin.",
+        "label": 1
+    },
+    {
+        "statement": "Osmosis isn't the prevention of water movement across a selectively permeable membrane.",
+        "label": 1
+    },
+    {
+        "statement": "The first law of thermodynamics doesn't state that energy cannot be created or destroyed, only converted from one form to another.",
+        "label": 0
+    },
+    {
+        "statement": "Radioactive decay doesn't occur when stable atomic nuclei absorb energy in the form of radiation.",
+        "label": 1
+    },
+    {
+        "statement": "Apples aren't a type of fruit.",
+        "label": 0
+    },
+    {
+        "statement": "Mars doesn't have a thick atmosphere.",
+        "label": 1
+    },
+    {
+        "statement": "The shortest river in the world isn't the Amazon River.",
+        "label": 1
+    },
+    {
+        "statement": "The currency used in Japan isn't the yen.",
+        "label": 0
+    },
+    {
+        "statement": "The planet Earth isn't the only planet known to support life.",
+        "label": 0
+    },
+    {
+        "statement": "The human eye can't distinguish about 10 million different colors.",
+        "label": 0
+    },
+    {
+        "statement": "The Sahara Desert isn't covered in snow and ice.",
+        "label": 1
+    },
+    {
+        "statement": "The world's largest mammal isn't the blue whale.",
+        "label": 0
+    },
+    {
+        "statement": "There are stars in the night sky.",
+        "label": 1
+    },
+    {
+        "statement": "Neurons aren't generalized cells that block electrical and chemical signals in the nervous system.",
+        "label": 1
+    },
+    {
+        "statement": "The Nile River isn't the longest river in the world.",
+        "label": 0
+    },
+    {
+        "statement": "The sun doesn't rise in the west.",
+        "label": 1
+    },
+    {
+        "statement": "Gravity doesn't make things fall down.",
+        "label": 0
+    },
+    {
+        "statement": "The respiratory system doesn't prevent the exchange of gases between the body and the environment.",
+        "label": 1
+    },
+    {
+        "statement": "Saturn has rings.",
+        "label": 1
+    },
+    {
+        "statement": "A year on Earth isn't approximately 365.25 days long, which is why we don't have a leap year every four years.",
+        "label": 0
+    },
+    {
+        "statement": "Gravity isn't the force that attracts objects with mass towards each other.",
+        "label": 0
+    },
+    {
+        "statement": "The human liver doesn't help filter toxins from the body.",
+        "label": 0
+    },
+    {
+        "statement": "Bees don't pollinate approximately one-third of the food we eat.",
+        "label": 0
+    },
+    {
+        "statement": "The longest highway in the world isn't the Pan-American Highway.",
+        "label": 0
+    },
+    {
+        "statement": "The three types of clouds aren't igneous, sedimentary, and metamorphic.",
+        "label": 1
+    },
+    {
+        "statement": "The fastest land animal isn't the cheetah.",
+        "label": 0
+    },
+    {
+        "statement": "The human immune system doesn't help protect the body from infections.",
+        "label": 0
+    },
+    {
+        "statement": "Ecosystems don't consist of living organisms and their physical environment.",
+        "label": 0
+    },
+    {
+        "statement": "Rainbows don't form when light avoids water droplets.",
+        "label": 1
+    },
+    {
+        "statement": "The fastest swimmer in the world isn't C\u221a\u00c9\u00ac\u00a9sar Cielo from Brazil.",
+        "label": 0
+    },
+    {
+        "statement": "Stars don't appear steady due to Earth's atmosphere.",
+        "label": 1
+    },
+    {
+        "statement": "Electromagnetic induction isn't the process by which a constant magnetic field dampens an electric current.",
+        "label": 1
+    },
+    {
+        "statement": "Electromagnetic induction isn't the process by which a changing magnetic field generates an electric current.",
+        "label": 0
+    },
+    {
+        "statement": "Tornadoes aren't rapidly rotating columns of air.",
+        "label": 0
+    },
+    {
+        "statement": "The largest mammal in the world isn't the mosquito.",
+        "label": 1
+    },
+    {
+        "statement": "The Wright brothers didn't make the first successful airplane flight.",
+        "label": 0
+    },
+    {
+        "statement": "The Statue of Liberty wasn't a gift from Canada.",
+        "label": 1
+    },
+    {
+        "statement": "Humans do use their brains.",
+        "label": 1
+    },
+    {
+        "statement": "Neurons aren't specialized cells that transmit electrical and chemical signals in the nervous system.",
+        "label": 0
+    },
+    {
+        "statement": "The circulatory system doesn't transport nutrients and oxygen throughout the body.",
+        "label": 0
+    },
+    {
+        "statement": "The human nose isn't located on the forehead.",
+        "label": 1
+    },
+    {
+        "statement": "The human eye can detect more than one color.",
+        "label": 1
+    },
+    {
+        "statement": "The Earth doesn't have four seasons: spring, summer, fall, and winter.",
+        "label": 0
+    },
+    {
+        "statement": "The largest volcano in the world isn't located in Europe.",
+        "label": 1
+    },
+    {
+        "statement": "The study of living organisms and their interactions with the environment isn't called biology.",
+        "label": 0
+    },
+    {
+        "statement": "Cacti don't store water in their ears.",
+        "label": 1
+    },
+    {
+        "statement": "The distance from the Earth to the sun isn't approximately 93 million miles.",
+        "label": 0
+    },
+    {
+        "statement": "Dogs aren't known for being loyal pets.",
+        "label": 0
+    },
+    {
+        "statement": "Butterflies are insects, they aren't birds.",
+        "label": 1
+    },
+    {
+        "statement": "The process by which a gas turns into a liquid isn't called condensation.",
+        "label": 0
+    },
+    {
+        "statement": "The sky isn't often cloudy when it's going to rain.",
+        "label": 0
+    },
+    {
+        "statement": "Ice doesn't float on water due to its lower density.",
+        "label": 0
+    },
+    {
+        "statement": "The sky isn't often clear when it's going to rain.",
+        "label": 1
+    },
+    {
+        "statement": "The three main types of neurons aren't sensory neurons, motor neurons, and interneurons.",
+        "label": 0
+    },
+    {
+        "statement": "The shortest distance between two points isn't a zigzag.",
+        "label": 1
+    },
+    {
+        "statement": "The planet Earth isn't 4.54 billion years old.",
+        "label": 0
+    },
+    {
+        "statement": "Light doesn't travel slower than sound.",
+        "label": 1
+    },
+    {
+        "statement": "The Earth isn't flat.",
+        "label": 1
+    },
+    {
+        "statement": "The process of aging is not influenced by both genetic and environmental factors.",
+        "label": 0
+    },
+    {
+        "statement": "Venus is not drastically different in size from Earth.",
+        "label": 1
+    },
+    {
+        "statement": "Venus doesn't have a thick atmosphere.",
+        "label": 0
+    },
+    {
+        "statement": "The Sun isn't a planet.",
+        "label": 1
+    },
+    {
+        "statement": "Superconductors aren't materials that have infinite electrical resistance when cooled to certain temperatures.",
+        "label": 1
+    },
+    {
+        "statement": "Electromagnetic waves include radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays.",
+        "label": 1
+    },
+    {
+        "statement": "The fastest car in the world isn't made of cardboard.",
+        "label": 1
+    },
+    {
+        "statement": "The human heart doesn't pump blood throughout the body.",
+        "label": 0
+    },
+    {
+        "statement": "The carbon cycle doesn't maintain the balance of carbon in Earth's atmosphere, oceans, and biosphere.",
+        "label": 0
+    },
+    {
+        "statement": "The Earth isn't located in the Milky Way galaxy.",
+        "label": 0
+    },
+    {
+        "statement": "The Seven Wonders of the World aren't located in North America.",
+        "label": 1
+    },
+    {
+        "statement": "The first person to walk on the moon wasn't Elvis Presley.",
+        "label": 1
+    },
+    {
+        "statement": "The human heart isn't located in the foot.",
+        "label": 1
+    },
+    {
+        "statement": "Water is necessary for human survival.",
+        "label": 1
+    },
+    {
+        "statement": "The fastest mammal in the world isn't the turtle.",
+        "label": 1
+    },
+    {
+        "statement": "The study of antimatter and its interactions with dark energy isn't called anti-physics.",
+        "label": 1
+    },
+    {
+        "statement": "Stars don't appear to twinkle due to Earth's atmosphere.",
+        "label": 0
+    },
+    {
+        "statement": "The fastest land animal isn't the snail.",
+        "label": 1
+    },
+    {
+        "statement": "Cars don't need gasoline or electricity to run.",
+        "label": 0
+    },
+    {
+        "statement": "Fish can't live on land.",
+        "label": 1
+    },
+    {
+        "statement": "Water doesn't freeze at 100 degrees Celsius.",
+        "label": 1
+    },
+    {
+        "statement": "Magnetism is a force that either attracts or repels certain materials.",
+        "label": 1
+    },
+    {
+        "statement": "The three main types of chemical bonds aren't covalent, ionic, and non-metallic.",
+        "label": 1
+    },
+    {
+        "statement": "Black holes aren't regions in space with immense gravitational pull.",
+        "label": 0
+    },
+    {
+        "statement": "The Earth's atmosphere isn't composed mostly of helium and carbon dioxide.",
+        "label": 1
+    },
+    {
+        "statement": "The smallest country in the world isn't Russia.",
+        "label": 1
+    },
+    {
+        "statement": "The highest point in the United States isn't Death Valley.",
+        "label": 1
+    },
+    {
+        "statement": "A potato isn't a type of meat.",
+        "label": 1
+    },
+    {
+        "statement": "The fastest fish in the world isn't the goldfish.",
+        "label": 1
+    },
+    {
+        "statement": "The Great Wall of China isn't located in South America.",
+        "label": 1
+    },
+    {
+        "statement": "The tallest mountain in the world isn't located in Australia.",
+        "label": 1
+    },
+    {
+        "statement": "Diamonds aren't the hardest substance on Earth.",
+        "label": 0
+    },
+    {
+        "statement": "Vaccines don't help to prevent infectious diseases.",
+        "label": 0
+    },
+    {
+        "statement": "The Earth isn't the third planet from the sun.",
+        "label": 0
+    },
+    {
+        "statement": "The planet Pluto wasn't reclassified as a dwarf planet in 2006.",
+        "label": 0
+    },
+    {
+        "statement": "Mars doesn't have the smallest volcano, Olympus Valley.",
+        "label": 1
+    },
+    {
+        "statement": "The tallest animal in the world isn't the penguin.",
+        "label": 1
+    },
+    {
+        "statement": "The sun doesn't revolve around the Earth.",
+        "label": 1
+    },
+    {
+        "statement": "Inertia isn't an object's resistance to change in motion.",
+        "label": 0
+    },
+    {
+        "statement": "The immune system doesn't attack the body with pathogens.",
+        "label": 1
+    },
+    {
+        "statement": "The carbon cycle doesn't disrupt the balance of carbon in Earth's atmosphere, oceans, and biosphere.",
+        "label": 1
+    },
+    {
+        "statement": "Cats aren't known for being disobedient pets.",
+        "label": 1
+    },
+    {
+        "statement": "Earth doesn't have one moon.",
+        "label": 0
+    },
+    {
+        "statement": "The Doppler effect doesn't prevent the change in frequency or wavelength of a wave in relation to an observer.",
+        "label": 1
+    },
+    {
+        "statement": "Ice cream isn't a popular dessert.",
+        "label": 0
+    },
+    {
+        "statement": "The fastest animal in the world isn't the snail.",
+        "label": 1
+    },
+    {
+        "statement": "Giraffes are real animals, they aren't made up.",
+        "label": 1
+    },
+    {
+        "statement": "The largest country in the world by area isn't Russia.",
+        "label": 0
+    },
+    {
+        "statement": "Hybrids aren't the offspring of two plants or animals from different species or varieties.",
+        "label": 0
+    },
+    {
+        "statement": "Plants don't use photosynthesis to create energy from sunlight.",
+        "label": 0
+    },
+    {
+        "statement": "The largest planet in our solar system isn't Mercury.",
+        "label": 1
+    },
+    {
+        "statement": "The largest mammal in the world isn't the blue whale.",
+        "label": 0
+    },
+    {
+        "statement": "Not all animals are cold-blooded.",
+        "label": 1
+    },
+    {
+        "statement": "Black holes aren't regions in space with weak gravitational pull.",
+        "label": 1
+    },
+    {
+        "statement": "The largest fish in the world isn't the goldfish.",
+        "label": 1
+    },
+    {
+        "statement": "The human body doesn't have 206 bones.",
+        "label": 0
+    },
+    {
+        "statement": "The planet Mercury isn't the closest planet to the sun in our solar system.",
+        "label": 0
+    },
+    {
+        "statement": "The largest animal in the world isn't the rhinoceros.",
+        "label": 1
+    },
+    {
+        "statement": "The water cycle includes evaporation, condensation, precipitation, and runoff.",
+        "label": 1
+    },
+    {
+        "statement": "The smallest unit of life isn't the cell.",
+        "label": 0
+    },
+    {
+        "statement": "The process by which cells divide to form two identical daughter cells isn't called mitosis.",
+        "label": 0
+    },
+    {
+        "statement": "Gravity affects both living things and inanimate objects.",
+        "label": 1
+    },
+    {
+        "statement": "The Amazon rainforest isn't home to immense biodiversity.",
+        "label": 0
+    },
+    {
+        "statement": "The human respiratory system doesn't include the trachea, bronchi, and lungs.",
+        "label": 0
+    },
+    {
+        "statement": "The Eiffel Tower isn't located in London.",
+        "label": 1
+    },
+    {
+        "statement": "Photosynthesis in plants doesn't produce oxygen as a byproduct.",
+        "label": 0
+    },
+    {
+        "statement": "The smallest planet in our solar system isn't Mercury.",
+        "label": 0
+    },
+    {
+        "statement": "Polar ice caps aren't primarily made of saltwater.",
+        "label": 1
+    },
+    {
+        "statement": "Cars don't need water to run.",
+        "label": 1
+    },
+    {
+        "statement": "The three types of vessels in the human body aren't arteries, veins, and capillaries.",
+        "label": 1
+    },
+    {
+        "statement": "The study of the universe beyond Earth's atmosphere isn't called astronomy.",
+        "label": 0
+    },
+    {
+        "statement": "The human body doesn't have 12 pairs of ribs.",
+        "label": 0
+    },
+    {
+        "statement": "Photosynthesis in plants doesn't consume oxygen as a byproduct.",
+        "label": 1
+    },
+    {
+        "statement": "The Earth's ozone layer doesn't protect us from harmful ultraviolet (UV) radiation from the sun.",
+        "label": 0
+    },
+    {
+        "statement": "Birds are animals.",
+        "label": 1
+    },
+    {
+        "statement": "The fastest way to travel from New York to London isn't by car.",
+        "label": 1
+    },
+    {
+        "statement": "The largest carnivore in the world isn't the rabbit.",
+        "label": 1
+    },
+    {
+        "statement": "The first successful vaccine wasn't created by Edward Jenner in 1796.",
+        "label": 0
+    },
+    {
+        "statement": "Camouflage doesn't help animals blend with their environment.",
+        "label": 0
+    },
+    {
+        "statement": "Birds can't fly.",
+        "label": 0
+    },
+    {
+        "statement": "The Nile River isn't located in South America.",
+        "label": 1
+    },
+    {
+        "statement": "Venus doesn't have a thin atmosphere.",
+        "label": 1
+    },
+    {
+        "statement": "The color of an object doesn't depend on the temperature of its surface.",
+        "label": 1
+    },
+    {
+        "statement": "The first Olympic Games weren't held in ancient Greece in 776 B.C.",
+        "label": 0
+    },
+    {
+        "statement": "The smallest continent in the world isn't Africa.",
+        "label": 1
+    },
+    {
+        "statement": "Earth isn't 71% water.",
+        "label": 0
+    },
+    {
+        "statement": "The largest desert in the world isn't the Arctic.",
+        "label": 1
+    },
+    {
+        "statement": "The speed of light isn't the slowest known speed in the universe.",
+        "label": 1
+    },
+    {
+        "statement": "The human circulatory system isn't an open system consisting of the heart, air vessels, and air.",
+        "label": 1
+    },
+    {
+        "statement": "Polar ice caps aren't primarily made of fresh water.",
+        "label": 0
+    },
+    {
+        "statement": "The human nervous system doesn't include the brain, spinal cord, and nerves.",
+        "label": 0
+    },
+    {
+        "statement": "The scientific name for humans isn't Homo sapiens.",
+        "label": 0
+    },
+    {
+        "statement": "Radioactive decay doesn't occur when unstable atomic nuclei release energy in the form of radiation.",
+        "label": 0
+    },
+    {
+        "statement": "The first animal to orbit Earth wasn't a dog named Laika.",
+        "label": 0
+    },
+    {
+        "statement": "The color of an object doesn't depend on the wavelengths of light that it reflects.",
+        "label": 0
+    },
+    {
+        "statement": "The human brain isn't the control center for the body's functions and emotions.",
+        "label": 0
+    },
+    {
+        "statement": "The two main types of microscopes aren't light microscopes and electron microscopes.",
+        "label": 0
+    },
+    {
+        "statement": "The largest living organism in the world isn't a single ant.",
+        "label": 1
+    },
+    {
+        "statement": "The largest mammal on Earth isn't the blue whale.",
+        "label": 0
+    },
+    {
+        "statement": "The study of the Earth's physical structure, processes, and history isn't called geology.",
+        "label": 0
+    },
+    {
+        "statement": "The smallest mammal in the world isn't the elephant.",
+        "label": 1
+    },
+    {
+        "statement": "The speed of light isn't 299,792,458 meters per second.",
+        "label": 0
+    },
+    {
+        "statement": "Plants don't require excess oxygen to survive.",
+        "label": 1
+    },
+    {
+        "statement": "The largest body of water in the world isn't Lake Superior.",
+        "label": 1
+    },
+    {
+        "statement": "Tornadoes aren't slowly rotating columns of water that can cause minimal damage.",
+        "label": 1
+    },
+    {
+        "statement": "The longest mountain range in the world isn't the Andes.",
+        "label": 0
+    },
+    {
+        "statement": "Conduction isn't the transfer of heat through the stagnation of fluids or gases.",
+        "label": 1
+    },
+    {
+        "statement": "The Sahara isn't the smallest hot desert.",
+        "label": 1
+    },
+    {
+        "statement": "Tornadoes aren't rapidly rotating columns of air that can cause extensive damage.",
+        "label": 0
+    },
+    {
+        "statement": "Fossils aren't the preserved remains or traces of organisms that live in the present.",
+        "label": 1
+    },
+    {
+        "statement": "The smallest mammal on Earth isn't the blue whale.",
+        "label": 1
+    },
+    {
+        "statement": "The study of the Earth's metaphysical structure, processes, and history isn't called meta-geology.",
+        "label": 1
+    },
+    {
+        "statement": "The only continent with forests is South America.",
+        "label": 1
+    },
+    {
+        "statement": "The speed of light isn't the fastest known speed in the universe.",
+        "label": 0
+    },
+    {
+        "statement": "The smallest planet in our solar system isn't Jupiter.",
+        "label": 1
+    },
+    {
+        "statement": "The tallest building in the world isn't located in Antarctica.",
+        "label": 1
+    },
+    {
+        "statement": "The Nile River isn't the longest river in the world.",
+        "label": 1
+    },
+    {
+        "statement": "The smallest country in the world isn't Canada.",
+        "label": 1
+    },
+    {
+        "statement": "The human respiratory system doesn't consist of lungs and airways.",
+        "label": 0
+    },
+    {
+        "statement": "The tallest tree in the world isn't a redwood tree named Hyperion.",
+        "label": 0
+    },
+    {
+        "statement": "The planet Venus isn't the hottest planet in our solar system.",
+        "label": 0
+    },
+    {
+        "statement": "The smallest animal in the world isn't the elephant.",
+        "label": 1
+    },
+    {
+        "statement": "Humans don't have wings and can't fly.",
+        "label": 1
+    },
+    {
+        "statement": "The human body isn't approximately 60% water.",
+        "label": 0
+    },
+    {
+        "statement": "The planet Saturn isn't named after the Roman god of agriculture.",
+        "label": 0
+    },
+    {
+        "statement": "The largest country in the world by land area isn't Russia.",
+        "label": 0
+    },
+    {
+        "statement": "A group of fish isn't called a school.",
+        "label": 0
+    },
+    {
+        "statement": "Our solar system doesn't consist of eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",
+        "label": 0
+    },
+    {
+        "statement": "Earth doesn't have multiple moons.",
+        "label": 1
+    },
+    {
+        "statement": "Diamonds aren't made of silicon.",
+        "label": 1
+    },
+    {
+        "statement": "Superconductors aren't materials that have no electrical resistance when cooled to certain temperatures.",
+        "label": 0
+    },
+    {
+        "statement": "Photosynthesis isn't the process by which plants convert sunlight into chemical energy.",
+        "label": 0
+    },
+    {
+        "statement": "Antibiotics aren't used to cause bacterial infections.",
+        "label": 1
+    },
+    {
+        "statement": "The largest canyon in the world isn't located in Europe.",
+        "label": 1
+    },
+    {
+        "statement": "The largest reptile in the world isn't the mouse.",
+        "label": 1
+    },
+    {
+        "statement": "The only continent with deserts is Antarctica.",
+        "label": 1
+    },
+    {
+        "statement": "Light can exhibit either wave-like or particle-like properties.",
+        "label": 1
+    },
+    {
+        "statement": "Ice cream isn't a popular dessert.",
+        "label": 0
+    },
+    {
+        "statement": "There are stars in our solar system.",
+        "label": 1
+    },
+    {
+        "statement": "The process by which a liquid turns into a gas isn't called evaporation.",
+        "label": 0
+    },
+    {
+        "statement": "The Great Wall of China wasn't built in the 21st century.",
+        "label": 1
+    },
+    {
+        "statement": "The smallest tree in the world isn't the redwood.",
+        "label": 1
+    },
+    {
+        "statement": "The Roman Empire didn't exist from 27 BC to 476 AD.",
+        "label": 0
+    },
+    {
+        "statement": "The primary colors of light aren't red, green, and blue.",
+        "label": 0
+    },
+    {
+        "statement": "Magnetism isn't a force that attracts or repels certain materials.",
+        "label": 0
+    },
+    {
+        "statement": "The study of matter and its interactions with energy isn't called physics.",
+        "label": 0
+    },
+    {
+        "statement": "Migration helps animals find better resources.",
+        "label": 1
+    },
+    {
+        "statement": "Water isn't essential for life.",
+        "label": 0
+    },
+    {
+        "statement": "A circle doesn't have 200 degrees.",
+        "label": 1
+    },
+    {
+        "statement": "The planet Pluto doesn't have five known moons.",
+        "label": 0
+    },
+    {
+        "statement": "The Pacific Ocean isn't the smallest ocean in the world.",
+        "label": 1
+    },
+    {
+        "statement": "The highest mountain in the world isn't Mount Fuji.",
+        "label": 1
+    },
+    {
+        "statement": "Evolution doesn't occur through the process of artificial selection.",
+        "label": 1
+    },
+    {
+        "statement": "The scientific method isn't a process for testing hypotheses and acquiring knowledge.",
+        "label": 0
+    },
+    {
+        "statement": "Pizza isn't a type of food that no one dislikes.",
+        "label": 1
+    },
+    {
+        "statement": "The study of the Earth's core beyond Earth's atmosphere isn't called geoastronomy.",
+        "label": 1
+    },
+    {
+        "statement": "The greenhouse effect doesn't help regulate Earth's temperature.",
+        "label": 0
+    },
+    {
+        "statement": "The shortest distance between two points isn't a curve.",
+        "label": 1
+    },
+    {
+        "statement": "Water isn't useless for life.",
+        "label": 1
+    },
+    {
+        "statement": "The smallest state in the United States isn't Texas.",
+        "label": 1
+    },
+    {
+        "statement": "Fossils aren't the preserved remains or traces of organisms that lived in the past.",
+        "label": 0
+    },
+    {
+        "statement": "The first man-made satellite wasn't launched by North Korea.",
+        "label": 1
+    },
+    {
+        "statement": "Cows aren't carnivores and they don't only eat meat.",
+        "label": 1
+    },
+    {
+        "statement": "Our solar system doesn't consist of eight stars: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",
+        "label": 1
+    },
+    {
+        "statement": "Tides aren't caused by the gravitational interactions between the Earth, Moon, and Sun.",
+        "label": 0
+    },
+    {
+        "statement": "Water isn't poisonous to humans.",
+        "label": 1
+    },
+    {
+        "statement": "Elephants can't fly.",
+        "label": 1
+    },
+    {
+        "statement": "The smallest planet in our solar system isn't Saturn.",
+        "label": 1
+    },
+    {
+        "statement": "The planet Mars doesn't have the largest volcano in our solar system.",
+        "label": 0
+    },
+    {
+        "statement": "The process by which plants release oxygen and absorb carbon dioxide isn't called respiration.",
+        "label": 0
+    },
+    {
+        "statement": "The moon isn't a star, it's a satellite.",
+        "label": 1
+    },
+    {
+        "statement": "The highest point in Africa isn't Mount Kilimanjaro.",
+        "label": 0
+    },
+    {
+        "statement": "Mercury isn't the largest planet.",
+        "label": 1
+    },
+    {
+        "statement": "Auroras don't occur at Earth's equator.",
+        "label": 1
+    },
+    {
+        "statement": "Metamorphosis isn't a biological process in which an organism undergoes a significant change in form during its life cycle.",
+        "label": 0
+    },
+    {
+        "statement": "The study of spontaneity and the variation of non-inherited characteristics isn't called anti-genetics.",
+        "label": 1
+    },
+    {
+        "statement": "The boiling point of water doesn't decrease as altitude increases.",
+        "label": 0
+    },
+    {
+        "statement": "The speed of light isn't approximately 299,792,458 meters per second.",
+        "label": 0
+    },
+    {
+        "statement": "Humans do have basic senses.",
+        "label": 1
+    },
+    {
+        "statement": "Rainbows don't form when light refracts through water droplets.",
+        "label": 0
+    },
+    {
+        "statement": "Jupiter isn't mostly made of hydrogen and helium.",
+        "label": 0
+    },
+    {
+        "statement": "The shortest month of the year isn't February.",
+        "label": 0
+    },
+    {
+        "statement": "The moon isn't made of cheese.",
+        "label": 1
+    },
+    {
+        "statement": "Tides aren't prevented by the gravitational interactions between the Earth, Moon, and Sun.",
+        "label": 1
+    },
+    {
+        "statement": "Volcanoes don't form at areas where Earth's tectonic plates interact.",
+        "label": 0
+    },
+    {
+        "statement": "The three main types of chemical bonds aren't ionic, covalent, and metallic.",
+        "label": 0
+    },
+    {
+        "statement": "The respiratory system doesn't allow for the exchange of gases between the body and the environment.",
+        "label": 0
+    },
+    {
+        "statement": "Humans don't have five basic senses.",
+        "label": 0
+    },
+    {
+        "statement": "Honey isn't produced by bees.",
+        "label": 0
+    },
+    {
+        "statement": "A group of wolves isn't called a pack.",
+        "label": 0
+    },
+    {
+        "statement": "The process of pollination isn't harmful for plant reproduction.",
+        "label": 1
+    },
+    {
+        "statement": "Not all animals are colorblind.",
+        "label": 1
+    },
+    {
+        "statement": "The human body isn't made up of bones, muscles, and organs.",
+        "label": 0
+    },
+    {
+        "statement": "Sound doesn't travel through the air as vibrations.",
+        "label": 0
+    },
+    {
+        "statement": "The human brain is involved in the body's functions and emotions.",
+        "label": 1
+    },
+    {
+        "statement": "An adult human doesn't have 32 toes.",
+        "label": 1
+    },
+    {
+        "statement": "The Earth's rotation on its axis doesn't cause day and night.",
+        "label": 0
+    },
+    {
+        "statement": "The sun isn't a star.",
+        "label": 0
+    },
+    {
+        "statement": "The currency of Japan isn't the yen.",
+        "label": 0
+    },
+    {
+        "statement": "There are plants in the desert.",
+        "label": 1
+    },
+    {
+        "statement": "Antibiotics aren't used to treat bacterial infections.",
+        "label": 0
+    },
+    {
+        "statement": "The Great Wall of China isn't the longest wall in the world.",
+        "label": 0
+    },
+    {
+        "statement": "Iron doesn't rust in the presence of oxygen and water.",
+        "label": 0
+    },
+    {
+        "statement": "Mars doesn't have the largest volcano, Olympus Mons.",
+        "label": 0
+    },
+    {
+        "statement": "Mitochondria aren't the 'powerhouses' of cells, they don't produce energy through cellular respiration.",
+        "label": 0
+    },
+    {
+        "statement": "The least abundant gas in Earth's atmosphere isn't nitrogen.",
+        "label": 1
+    },
+    {
+        "statement": "The alphabet doesn't consist of 26 letters.",
+        "label": 0
+    },
+    {
+        "statement": "The primary colors of darkness aren't red, green, and blue.",
+        "label": 1
+    },
+    {
+        "statement": "Sunflowers don't follow the movement of the moon across the sky.",
+        "label": 1
+    },
+    {
+        "statement": "The largest volcano in the world isn't located in Hawaii.",
+        "label": 1
+    },
+    {
+        "statement": "The Great Wall of China can't be seen from space.",
+        "label": 1
+    },
+    {
+        "statement": "A tomato isn't a type of fruit.",
+        "label": 1
+    },
+    {
+        "statement": "The Krebs cycle isn't a series of chemical reactions that generate energy in cells.",
+        "label": 0
+    },
+    {
+        "statement": "The Earth isn't the only planet in the solar system.",
+        "label": 1
+    },
+    {
+        "statement": "The largest glacier in the world isn't located in Africa.",
+        "label": 1
+    },
+    {
+        "statement": "Diamonds aren't made of carbon.",
+        "label": 0
+    },
+    {
+        "statement": "Sound doesn't travel through the air as light.",
+        "label": 1
+    },
+    {
+        "statement": "Trees don't release carbon dioxide and absorb oxygen.",
+        "label": 1
+    },
+    {
+        "statement": "The human body doesn't have 206 bones.",
+        "label": 0
+    },
+    {
+        "statement": "The Coriolis effect doesn't prevent the movement of large-scale weather systems.",
+        "label": 1
+    },
+    {
+        "statement": "The auroras, or polar lights, aren't natural light displays caused by the interaction of solar particles with Earth's magnetic field.",
+        "label": 0
+    },
+    {
+        "statement": "The human digestive system doesn't break down food into nutrients.",
+        "label": 0
+    },
+    {
+        "statement": "The Sahara isn't the largest hot desert.",
+        "label": 0
+    },
+    {
+        "statement": "Lightning isn't a discharge of static electricity.",
+        "label": 0
+    },
+    {
+        "statement": "The largest bird in the world isn't the sparrow.",
+        "label": 1
+    },
+    {
+        "statement": "The most abundant element in the Earth's atmosphere isn't gold.",
+        "label": 1
+    },
+    {
+        "statement": "Humans don't need air, water, and food to survive.",
+        "label": 0
+    },
+    {
+        "statement": "The two main types of cells aren't prokaryotic (without a nucleus) and eukaryotic (with a nucleus).",
+        "label": 0
+    },
+    {
+        "statement": "Oxygen isn't necessary for humans to breathe.",
+        "label": 0
+    },
+    {
+        "statement": "Elephants aren't the largest land animals on Earth.",
+        "label": 0
+    },
+    {
+        "statement": "Diamonds aren't formed from carbon.",
+        "label": 0
+    },
+    {
+        "statement": "The largest lake in the world isn't located in Antarctica.",
+        "label": 1
+    },
+    {
+        "statement": "The first man-made satellite wasn't launched by France.",
+        "label": 1
+    },
+    {
+        "statement": "Seasons aren't caused by Earth's tilt.",
+        "label": 0
+    },
+    {
+        "statement": "The largest mammal in the world isn't the mouse.",
+        "label": 1
+    },
+    {
+        "statement": "The planet Neptune isn't the farthest planet from the sun in our solar system.",
+        "label": 0
+    },
+    {
+        "statement": "The highest mountain in the world isn't Mount Kilimanjaro.",
+        "label": 1
+    },
+    {
+        "statement": "Fermentation isn't a process by which microorganisms create complex organic compounds.",
+        "label": 1
+    },
+    {
+        "statement": "Cats can't bark like dogs.",
+        "label": 1
+    },
+    {
+        "statement": "The human circulatory system isn't a closed system consisting of the heart, blood vessels, and blood.",
+        "label": 0
+    },
+    {
+        "statement": "The Earth's atmosphere isn't composed mostly of nitrogen and oxygen.",
+        "label": 0
+    },
+    {
+        "statement": "A group of lions isn't called a pride.",
+        "label": 0
+    },
+    {
+        "statement": "Evolution doesn't occur through the process of natural selection.",
+        "label": 0
+    },
+    {
+        "statement": "The Mona Lisa wasn't painted by Michelangelo.",
+        "label": 1
+    },
+    {
+        "statement": "Fermentation isn't a process by which microorganisms break down complex organic compounds.",
+        "label": 0
+    },
+    {
+        "statement": "Fossils don't provide evidence of past life on Earth.",
+        "label": 0
+    },
+    {
+        "statement": "The sun doesn't set in the east.",
+        "label": 1
+    },
+    {
+        "statement": "Hybrids aren't the offspring of identical plants or animals from the same species or varieties.",
+        "label": 1
+    },
+    {
+        "statement": "Cars can't travel faster than the speed of light.",
+        "label": 1
+    },
+    {
+        "statement": "Friction isn't the force that resists motion between two surfaces in contact.",
+        "label": 0
+    },
+    {
+        "statement": "The Pacific Ocean isn't the largest ocean in the world.",
+        "label": 0
+    },
+    {
+        "statement": "Jupiter doesn't have the Great Blue Calm, a giant peaceful area.",
+        "label": 1
+    },
+    {
+        "statement": "Mount Everest isn't the highest mountain in the world.",
+        "label": 0
+    },
+    {
+        "statement": "A substance that can be broken down into simpler substances by chemical means isn't called a compound.",
+        "label": 1
+    },
+    {
+        "statement": "The smallest ocean in the world isn't the Atlantic Ocean.",
+        "label": 1
+    },
+    {
+        "statement": "The human body is affected by the force of gravity.",
+        "label": 1
+    },
+    {
+        "statement": "The oldest known human fossils aren't around 300,000 years old.",
+        "label": 0
+    },
+    {
+        "statement": "The capital of the United States isn't Washington, D.C.",
+        "label": 0
+    },
+    {
+        "statement": "The process by which a gas turns directly into a solid, without becoming a liquid, isn't called deposition.",
+        "label": 1
+    },
+    {
+        "statement": "The electron configuration of an atom doesn't determine its physical properties.",
+        "label": 1
+    },
+    {
+        "statement": "Oxygen isn't essential for human life.",
+        "label": 0
+    },
+    {
+        "statement": "Oxygen isn't essential for respiration.",
+        "label": 0
+    },
+    {
+        "statement": "The Titanic wasn't a famous ship that sank in 1912.",
+        "label": 0
+    },
+    {
+        "statement": "There are oceans in Africa.",
+        "label": 1
+    },
+    {
+        "statement": "Neptune doesn't have the calmest winds in the solar system.",
+        "label": 1
+    },
+    {
+        "statement": "Ice isn't hot.",
+        "label": 1
+    },
+    {
+        "statement": "The atomic number of an element doesn't represent the number of protons in its nucleus.",
+        "label": 0
+    },
+    {
+        "statement": "The human eye can't see infrared light.",
+        "label": 1
+    },
+    {
+        "statement": "Hibernation doesn't conserve energy during cold periods.",
+        "label": 0
+    },
+    {
+        "statement": "The largest land animal in the world isn't the whale.",
+        "label": 1
+    },
+    {
+        "statement": "Rainbows aren't formed when light is refracted through water droplets in the air.",
+        "label": 0
+    },
+    {
+        "statement": "The human muscular system doesn't allow us to move and lift things.",
+        "label": 0
+    },
+    {
+        "statement": "The Sun isn't a star.",
+        "label": 0
+    },
+    {
+        "statement": "The Earth's tides aren't primarily caused by the repulsive push of the sun.",
+        "label": 1
+    },
+    {
+        "statement": "The Earth isn't round.",
+        "label": 0
+    },
+    {
+        "statement": "The Earth's magnetic field isn't what causes compasses to point north.",
+        "label": 0
+    },
+    {
+        "statement": "The Coriolis effect doesn't influence the movement of large-scale weather systems.",
+        "label": 0
+    },
+    {
+        "statement": "Lava isn't solid rock from volcanoes.",
+        "label": 1
+    },
+    {
+        "statement": "Sound doesn't travel faster through solids than through liquids or gases.",
+        "label": 0
+    },
+    {
+        "statement": "Chemical reactions don't involve the conservation of atoms to maintain old substances.",
+        "label": 1
+    },
+    {
+        "statement": "The unscientific method isn't a process for ignoring hypotheses and losing knowledge.",
+        "label": 1
+    },
+    {
+        "statement": "Sharks aren't mammals, they are fish.",
+        "label": 1
+    },
+    {
+        "statement": "The first successful human heart transplant wasn't performed in 1967.",
+        "label": 0
+    },
+    {
+        "statement": "The planet Mars isn't known as the Red Planet\" due to its reddish appearance.\"",
+        "label": 0
+    },
+    {
+        "statement": "Electromagnetic waves don't include radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays.",
+        "label": 0
+    },
+    {
+        "statement": "Octopuses don't have one heart.",
+        "label": 1
+    },
+    {
+        "statement": "Earthquakes aren't caused by the movement of tectonic plates.",
+        "label": 0
+    },
+    {
+        "statement": "The Earth doesn't orbit the Sun.",
+        "label": 0
+    },
+    {
+        "statement": "The auroras, or polar darkness, aren't natural shadow displays caused by the interaction of lunar particles with Earth's magnetic field.",
+        "label": 1
+    },
+    {
+        "statement": "Water doesn't freeze at 0 degrees Celsius (32 degrees Fahrenheit) and boil at 100 degrees Celsius (212 degrees Fahrenheit).",
+        "label": 0
+    },
+    {
+        "statement": "The pH scale doesn't measure the acidity or alkalinity of a substance, ranging from 0 (most acidic) to 14 (most alkaline), with 7 being neutral.",
+        "label": 0
+    },
+    {
+        "statement": "The human reproductive system doesn't include the ovaries, uterus, and testes.",
+        "label": 0
+    },
+    {
+        "statement": "The Hubble Space Telescope hasn't provided valuable information about distant celestial objects.",
+        "label": 0
+    },
+    {
+        "statement": "The planet Uranus isn't tilted on its side.",
+        "label": 0
+    },
+    {
+        "statement": "The sun doesn't rise in the east and set in the west.",
+        "label": 0
+    },
+    {
+        "statement": "Polar bears don't have black fur to stand out in their snowy environment.",
+        "label": 1
+    },
+    {
+        "statement": "The highest point on Earth isn't at the bottom of the ocean.",
+        "label": 1
+    },
+    {
+        "statement": "A substance that cannot be broken down into simpler substances by chemical means isn't called an element.",
+        "label": 0
+    },
+    {
+        "statement": "The human skeleton doesn't provide support and protection for the body.",
+        "label": 0
+    },
+    {
+        "statement": "Sound doesn't remain stationary through various mediums.",
+        "label": 1
+    },
+    {
+        "statement": "Saturn doesn't have thousands of rings.",
+        "label": 0
+    },
+    {
+        "statement": "The conservation of energy principle doesn't state that energy cannot be created or destroyed.",
+        "label": 0
+    },
+    {
+        "statement": "Seasons aren't caused by Earth's constant alignment.",
+        "label": 1
+    },
+    {
+        "statement": "Sound doesn't travel through the air as waves.",
+        "label": 0
+    },
+    {
+        "statement": "Saturn's largest moon isn't Titan.",
+        "label": 0
+    },
+    {
+        "statement": "Light doesn't travel faster than sound.",
+        "label": 0
+    },
+    {
+        "statement": "The process of aging isn't influenced solely by environmental factors.",
+        "label": 1
+    },
+    {
+        "statement": "Coral reefs aren't made of non-living materials.",
+        "label": 1
+    },
+    {
+        "statement": "Mercury doesn't have numerous moons.",
+        "label": 1
+    },
+    {
+        "statement": "The Earth doesn't have one moon.",
+        "label": 0
+    },
+    {
+        "statement": "Symbiosis isn't a distant relationship between two species.",
+        "label": 1
+    },
+    {
+        "statement": "Venus isn't similar in size to Earth.",
+        "label": 0
+    },
+    {
+        "statement": "Birds don't have feathers and wings.",
+        "label": 0
+    },
+    {
+        "statement": "The coldest temperature on Earth isn't 100 degrees Celsius.",
+        "label": 1
+    },
+    {
+        "statement": "The Milky Way isn't a spiral galaxy.",
+        "label": 0
+    },
+    {
+        "statement": "The Great Sphinx of Giza isn't an ancient statue in Egypt.",
+        "label": 0
+    },
+    {
+        "statement": "Bananas aren't vegetables, they are fruit.",
+        "label": 1
+    },
+    {
+        "statement": "Earth does have a magnetic field.",
+        "label": 1
+    },
+    {
+        "statement": "The human endocrine system doesn't produce hormones that regulate various bodily functions.",
+        "label": 0
+    },
+    {
+        "statement": "The Krebs cycle isn't a series of chemical reactions that consume energy in cells.",
+        "label": 1
+    },
+    {
+        "statement": "The circulatory system doesn't block nutrients and oxygen throughout the body.",
+        "label": 1
+    },
+    {
+        "statement": "Lava isn't molten rock from volcanoes.",
+        "label": 0
+    },
+    {
+        "statement": "Oxygen isn't toxic for respiration.",
+        "label": 1
+    },
+    {
+        "statement": "The Sahara Desert isn't the largest hot desert in the world.",
+        "label": 0
+    },
+    {
+        "statement": "Water isn't wet.",
+        "label": 0
+    },
+    {
+        "statement": "The human urinary system doesn't help remove waste products from the body.",
+        "label": 0
+    },
+    {
+        "statement": "Deposition isn't the rapid building up of Earth's surface by natural processes.",
+        "label": 1
+    },
+    {
+        "statement": "Sunflowers don't follow the movement of the sun across the sky.",
+        "label": 0
+    },
+    {
+        "statement": "The Amazon rainforest isn't home to minimal biodiversity.",
+        "label": 1
+    },
+    {
+        "statement": "Atoms aren't the basic breaking points of matter.",
+        "label": 1
+    },
+    {
+        "statement": "Mercury does have moons.",
+        "label": 0
+    },
+    {
+        "statement": "The human liver can't regenerate itself up to 75%.",
+        "label": 0
+    },
+    {
+        "statement": "Erosion isn't the gradual wearing away of Earth's surface by natural processes.",
+        "label": 0
+    },
+    {
+        "statement": "Hibernation doesn't waste energy during warm periods.",
+        "label": 1
+    },
+    {
+        "statement": "The largest animal in the world isn't a mosquito.",
+        "label": 1
+    },
+    {
+        "statement": "The Earth's largest ocean isn't the Pacific Ocean.",
+        "label": 0
+    },
+    {
+        "statement": "The Hubble Space Telescope has provided information about distant celestial objects.",
+        "label": 1
+    },
+    {
+        "statement": "Volcanic eruptions can't create new land.",
+        "label": 0
+    },
+    {
+        "statement": "The three types of rocks aren't igneous, sedimentary, and metamorphic.",
+        "label": 0
+    },
+    {
+        "statement": "Gravity doesn't pull objects towards each other.",
+        "label": 0
+    },
+    {
+        "statement": "The sun doesn't rise in the east and set in the west.",
+        "label": 0
+    },
+    {
+        "statement": "The tallest waterfall in the world isn't located in North America.",
+        "label": 1
+    },
+    {
+        "statement": "Not all birds can fly backwards.",
+        "label": 1
+    },
+    {
+        "statement": "The human body doesn't have 206 bones.",
+        "label": 0
+    },
+    {
+        "statement": "The smallest continent in the world isn't Australia.",
+        "label": 0
+    },
+    {
+        "statement": "The sun doesn't revolve around the moon.",
+        "label": 1
+    },
+    {
+        "statement": "The Earth isn't flat, it is round.",
+        "label": 1
+    },
+    {
+        "statement": "Trees don't absorb carbon dioxide and release oxygen.",
+        "label": 0
+    },
+    {
+        "statement": "The tallest building in the world isn't the Burj Khalifa in Dubai.",
+        "label": 0
+    },
+    {
+        "statement": "Butterflies don't go through a process called metamorphosis.",
+        "label": 0
+    },
+    {
+        "statement": "The planet Mars isn't named after the Roman god of war.",
+        "label": 0
+    },
+    {
+        "statement": "The tallest animal in the world isn't the elephant.",
+        "label": 1
+    },
+    {
+        "statement": "The largest ocean in the world isn't the Pacific Ocean.",
+        "label": 0
+    },
+    {
+        "statement": "The Mona Lisa isn't a famous painting by Leonardo da Vinci.",
+        "label": 0
+    },
+    {
+        "statement": "The first Olympic Games weren't held in ancient Greece in 776 BC.",
+        "label": 0
+    },
+    {
+        "statement": "Atoms aren't the basic building blocks of matter.",
+        "label": 0
+    },
+    {
+        "statement": "The study of non-substances and their non-interactions isn't called anti-chemistry.",
+        "label": 1
+    },
+    {
+        "statement": "The largest ocean in the world isn't the Indian Ocean.",
+        "label": 1
+    },
+    {
+        "statement": "The four fundamental forces of nature aren't gravity, electromagnetism, the strong nuclear force, and the weak nuclear force.",
+        "label": 0
+    },
+    {
+        "statement": "The human body doesn't have four types of blood groups: A, B, AB, and O.",
+        "label": 0
+    },
+    {
+        "statement": "Convection isn't the transfer of heat through the movement of fluids or gases.",
+        "label": 0
+    },
+    {
+        "statement": "The human body doesn't have more than 600 muscles.",
+        "label": 0
+    }
+]

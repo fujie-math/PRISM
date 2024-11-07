@@ -1,0 +1,1418 @@
+[
+    {
+        "statement": "The Spanish word 'con' means 'to speak'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'uno' means 'one'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'tener' means 'to have'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'caliente' means 'hot'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'palabra' means 'word'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'pero' means 'but'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'o' means 'octopus'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'de' means 'now'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'y' means 'and'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'otro' means 'hot'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'hacer' means 'lost'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'tiempo' means 'market'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'decir' means 'order'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'conjunto' means 'son'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'tres' means 'three'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'querer' means 'of'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'aire' means 'silver'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'jugar' means 'to play'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'poner' means 'whale'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'casa' means 'to make'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'leer' means 'to read'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'mano' means 'too'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'grande' means 'large'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'tierra' means 'land'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'grande' means 'to ask'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'alto' means 'space'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'preguntar' means 'to describe'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'hombre' means 'simple'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'luz' means 'week'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'madre' means 'mother'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'mundo' means 'zebra'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'cerca' means 'dog'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'construir' means 'to build'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'padre' means 'special'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'nuevo' means 'always'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'parte' means 'part'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'lugar' means 'place'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'vivir' means 'sheep'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'espalda' means 'back'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'bueno' means 'good'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'dar' means 'before'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'nombre' means 'name'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'muy' means 'temperature'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'pensar' means 'to think'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'ayudar' means 'to help'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'antes' means 'before'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'derecho' means 'summer'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'viejo' means 'old'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'demasiado' means 'too'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'mismo' means 'to write'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'todo' means 'all'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'usar' means 'to fight'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'entonces' means 'corner'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'escribir' means 'to write'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'largo' means 'history'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'hacer' means 'neck'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'cosa' means 'thing'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'ver' means 'to see'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'dos' means 'enemy'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'venir' means 'to know'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'persona' means 'person'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'saber' means 'happy'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'agua' means 'water'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'primero' means 'first'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'lado' means 'equal'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'ahora' means 'now'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'encontrar' means 'person'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'cabeza' means 'head'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'respuesta' means 'bread'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'escuela' means 'school'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'crecer' means 'to grow'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'aprender' means 'light'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'planta' means 'cloud'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'sol' means 'sun'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'cuatro' means 'to imagine'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'ojo' means 'order'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'nunca' means 'to hear'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'ciudad' means 'city'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'cruzar' means 'pig'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'granja' means 'woman'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'historia' means 'office'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'mar' means 'sea'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'dibujar' means 'to draw'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'izquierda' means 'never'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'tarde' means 'hand'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'mientras' means 'while'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'noche' means 'night'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'vida' means 'life'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'norte' means 'north'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'libro' means 'industry'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'llevar' means 'end'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'ciencia' means 'to buy'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'comer' means 'to eat'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'amigo' means 'friend'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'escuchar' means 'market'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'caballo' means 'horse'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'cara' means 'name'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'madera' means 'to have'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'abierto' means 'open'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'parecer' means 'to seem'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'blanco' means 'to think'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'caminar' means 'to walk'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'ejemplo' means 'example'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'papel' means 'paper'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'grupo' means 'group'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'siempre' means 'month'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'carta' means 'nothing'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'coche' means 'car'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'segundo' means 'hello'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'suficiente' means 'enough'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'llano' means 'chair'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'chica' means 'to eat'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'joven' means 'hot'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'listo' means 'ready'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'rojo' means 'red'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'lista' means 'list'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'sentir' means 'to build'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'pronto' means 'to die'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'cuerpo' means 'body'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'perro' means 'dog'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'familia' means 'family'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'directo' means 'to eat'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'medir' means 'to carry'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'negro' means 'black'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'corto' means 'letter'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'clase' means 'class'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'viento' means 'wind'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'medio' means 'large'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'roca' means 'rock'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'orden' means 'old'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'fuego' means 'fire'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'sur' means 'south'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'problema' means 'problem'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'pieza' means 'duck'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'pasar' means 'to pass'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'rey' means 'king'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'multiplicar' means 'to multiply'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'nada' means 'nothing'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'rueda' means 'sister'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'fuerza' means 'force'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'azul' means 'eye'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'decidir' means 'to give'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'luna' means 'letter'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'isla' means 'island'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'pie' means 'lake'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'sistema' means 'nature'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'ocupado' means 'busy'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'prueba' means 'test'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'barco' means 'hello'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'oro' means 'story'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'seco' means 'book'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'maravilla' means 'bell'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'mil' means 'to eat'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'caliente' means 'iron'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'calor' means 'dry'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'pintar' means 'mouth'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'idioma' means 'moment'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'potencia' means 'power'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'volar' means 'to hear'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'caer' means 'to fall'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'oscuro' means 'dark'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'estrella' means 'star'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'belleza' means 'beauty'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'semana' means 'face'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'desarrollar' means 'to develop'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'libre' means 'free'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'fuerte' means 'dress'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'especial' means 'strong'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'cola' means 'name'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'espacio' means 'to measure'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'cinco' means 'five'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'temprano' means 'early'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'oeste' means 'moment'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'suelo' means 'ground'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'cantar' means 'simple'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'seis' means 'to find'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'diez' means 'ten'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'sencilla' means 'simple'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'guerra' means 'example'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'lento' means 'slow'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'amar' means 'teeth'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'dinero' means 'mouth'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'mapa' means 'map'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'gobernar' means 'to eat'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'voz' means 'voice'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'hermano' means 'silver'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'huevo' means 'egg'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'creer' means 'to fly'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'hablar' means 'to speak'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'hielo' means 'ice'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'ola' means 'wave'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'presente' means 'present'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'brazo' means 'arm'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'bosque' means 'forest'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'ventana' means 'half'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'tienda' means 'insect'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'verano' means 'to push'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'tren' means 'train'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'pierna' means 'leg'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'cielo' means 'old'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'invierno' means 'winter'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'vidrio' means 'to hear'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'vaca' means 'cow'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'suave' means 'skin'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'mes' means 'month'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'feliz' means 'second'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'esperanza' means 'hope'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'flor' means 'market'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'viaje' means 'system'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'oficina' means 'direct'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'recibir' means 'time'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'boca' means 'mouth'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'morir' means 'to die'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'semilla' means 'seed'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'aceite' means 'oil'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'sangre' means 'sun'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'mezclar' means 'to mix'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'perdido' means 'test'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'igual' means 'to imagine'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'elegir' means 'to choose'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'guardar' means 'to save'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'matar' means 'bread'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'hijo' means 'son'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'lago' means 'month'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'momento' means 'moment'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'primavera' means 'wave'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'diccionario' means 'dictionary'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'leche' means 'glass'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'pagar' means 'to pay'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'edad' means 'clock'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'vestido' means 'example'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'nube' means 'to write'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'piedra' means 'stone'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'experimento' means 'dark'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'clave' means 'rose'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'hierro' means 'iron'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'veinte' means 'twenty'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'piel' means 'skin'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'sonrisa' means 'smile'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'ocho' means 'too'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'comprar' means 'dry'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'empujar' means 'to govern'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'siete' means 'seven'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'tercero' means 'third'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'describir' means 'to die'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'cocinero' means 'cook'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'piso' means 'set'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'resultado' means 'result'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'quemar' means 'hot'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'seguro' means 'danger'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'gato' means 'cat'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'siglo' means 'large'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'ley' means 'dog'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'frase' means 'paper'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'arena' means 'sand'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'temperatura' means 'hand'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'dedo' means 'finger'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'industria' means 'industry'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'luchar' means 'heat'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'silla' means 'neighbor'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'peligro' means 'danger'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'fruta' means 'goat'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'soldado' means 'soldier'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'proteger' means 'dry'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'moderno' means 'modern'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'estudiante' means 'student'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'esquina' means 'corner'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'anillo' means 'to love'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'insecto' means 'then'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'historia' means 'history'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'hueso' means 'bone'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'imaginar' means 'to imagine'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'mujer' means 'woman'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'adivinar' means 'war'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'agudo' means 'sharp'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'ala' means 'wing'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'vecino' means 'neighbor'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'poema' means 'to win'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'campana' means 'to connect'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'carne' means 'meat'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'famoso' means 'to believe'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'miedo' means 'fear'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'delgado' means 'thin'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'reloj' means 'clock'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'enviar' means 'to send'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'amarillo' means 'land'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'rosa' means 'rose'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'llegar' means 'insect'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'conectar' means 'to connect'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'grasa' means 'new'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'pan' means 'eye'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'oferta' means 'offer'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'esclavo' means 'slave'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'pato' means 'wolf'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'mercado' means 'market'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'enemigo' means 'enemy'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'bebida' means 'train'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'naturaleza' means 'to buy'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'dientes' means 'hope'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'concha' means 'shell'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'cuello' means 'neck'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'temporada' means 'insect'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'plata' means 'silver'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'rama' means 'back'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'higo' means 'fig'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'hermana' means 'sister'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'guiar' means 'age'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'manzana' means 'hand'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'abrigo' means 'coat'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'tarjeta' means 'bear'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'ganar' means 'to use'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'herramienta' means 'tool'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'olor' means 'smell'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'valle' means 'face'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'continuar' means 'coat'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'vender' means 'to sell'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'nadar' means 'to swim'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'opuesta' means 'dress'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'esposa' means 'wife'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'hombro' means 'shoulder'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'nueve' means 'stone'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'ruido' means 'noise'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'lanzar' means 'to throw'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'gris' means 'history'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'sal' means 'horse'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'nariz' means 'giraffe'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'burro' means 'donkey'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'cabra' means 'money'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'cordero' means 'fat'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'caballo' means 'horse'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'cerdo' means 'wave'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'oveja' means 'sheep'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'pato' means 'shoulder'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'toro' means 'bull'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'vaca' means 'cow'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'conejo' means 'rabbit'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'gato' means 'large'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'perro' means 'dog'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'rana' means 'frog'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'anguila' means 'south'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'ballena' means 'whale'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'calamar' means 'squid'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'pulpo' means 'slow'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'lobo' means 'leg'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'oso' means 'bear'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'zorro' means 'shell'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'mariposa' means 'rose'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'tortuga' means 'dry'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'cebra' means 'to imagine'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'elefante' means 'spring'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'jirafa' means 'giraffe'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'tigre' means 'cow'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'hola' means 'hello'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'nuevo' means 'new'.",
+        "label": 1
+    }
+]

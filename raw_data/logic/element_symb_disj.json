@@ -1,0 +1,2002 @@
+[
+    {
+        "statement": "It is the case either that Xenon has the symbol Cr or that it has the symbol F.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Niobium has the symbol Nb or that it has the symbol Cl.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Calcium has the symbol Ba or that it has the symbol P.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Platinum has the symbol Pd or that it has the symbol La.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Tungsten has the symbol B or that it has the symbol Zr.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Molybdenum has the symbol Mo or that it has the symbol In.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Thallium has the symbol Tl or that it has the symbol Co.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Carbon has the symbol C or that it has the symbol Cs.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Calcium has the symbol P or that it has the symbol Eu.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Cobalt has the symbol Sc or that it has the symbol Lu.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Lanthanum has the symbol Po or that it has the symbol Ba.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Osmium has the symbol Np or that it has the symbol Os.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Thallium has the symbol P or that it has the symbol Tl.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Technetium has the symbol B or that it has the symbol Ag.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Cesium has the symbol Cr or that it has the symbol Tc.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Scandium has the symbol Sc or that it has the symbol Pt.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Yttrium has the symbol Dy or that it has the symbol U.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Zinc has the symbol Fr or that it has the symbol P.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Neptunium has the symbol Na or that it has the symbol Tl.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Carbon has the symbol C or that it has the symbol Au.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Silver has the symbol Ag or that it has the symbol Sr.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Palladium has the symbol As or that it has the symbol Nd.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Ytterbium has the symbol Mo or that it has the symbol Nd.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Europium has the symbol Au or that it has the symbol Ga.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Iron has the symbol Fe or that it has the symbol As.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Hydrogen has the symbol Cr or that it has the symbol Pt.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Cadmium has the symbol Np or that it has the symbol Ir.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Beryllium has the symbol Be or that it has the symbol Si.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Manganese has the symbol Gd or that it has the symbol Sr.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Iridium has the symbol Au or that it has the symbol Fe.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Europium has the symbol Eu or that it has the symbol Tm.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Chlorine has the symbol Ag or that it has the symbol Cl.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Tungsten has the symbol Sr or that it has the symbol W.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Lutetium has the symbol Be or that it has the symbol La.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Rhenium has the symbol Re or that it has the symbol Ne.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Uranium has the symbol Re or that it has the symbol Co.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Dysprosium has the symbol U or that it has the symbol Rh.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Neodymium has the symbol Zn or that it has the symbol Ac.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Ytterbium has the symbol Yb or that it has the symbol Pa.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Iodine has the symbol Nb or that it has the symbol K.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Arsenic has the symbol As or that it has the symbol Pt.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Molybdenum has the symbol Os or that it has the symbol Np.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Actinium has the symbol Yb or that it has the symbol Ar.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Cesium has the symbol Tc or that it has the symbol N.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Bismuth has the symbol Bi or that it has the symbol Ba.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Carbon has the symbol C or that it has the symbol Co.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Krypton has the symbol Kr or that it has the symbol Li.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Carbon has the symbol In or that it has the symbol Nb.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Zirconium has the symbol Zr or that it has the symbol Na.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Iridium has the symbol Fe or that it has the symbol Kr.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Bromine has the symbol Ce or that it has the symbol Mo.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Terbium has the symbol Tb or that it has the symbol He.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Selenium has the symbol As or that it has the symbol Se.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Strontium has the symbol Be or that it has the symbol Sr.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Samarium has the symbol Sm or that it has the symbol Co.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Radon has the symbol Re or that it has the symbol H.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Lead has the symbol Pb or that it has the symbol Na.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Hydrogen has the symbol H or that it has the symbol Tb.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Iron has the symbol Tl or that it has the symbol Hf.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Neon has the symbol S or that it has the symbol Lu.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Sodium has the symbol Sb or that it has the symbol Na.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Palladium has the symbol Nd or that it has the symbol Sm.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Osmium has the symbol Ag or that it has the symbol Rn.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Chlorine has the symbol Cl or that it has the symbol O.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Oxygen has the symbol Sb or that it has the symbol Ne.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Cesium has the symbol Pm or that it has the symbol Tc.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Rhodium has the symbol K or that it has the symbol Sn.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Astatine has the symbol Pa or that it has the symbol Mg.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Iridium has the symbol Xe or that it has the symbol Ir.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Iodine has the symbol Nb or that it has the symbol Cd.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Neodymium has the symbol Nd or that it has the symbol Np.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Xenon has the symbol Ta or that it has the symbol Xe.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Krypton has the symbol Nb or that it has the symbol Ba.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Thulium has the symbol Be or that it has the symbol Ne.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Lutetium has the symbol Sb or that it has the symbol Be.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Cesium has the symbol F or that it has the symbol Cs.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Xenon has the symbol Yb or that it has the symbol Xe.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Actinium has the symbol Ar or that it has the symbol H.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Gold has the symbol Ce or that it has the symbol Au.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Thulium has the symbol Ne or that it has the symbol Cl.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Uranium has the symbol Re or that it has the symbol Ac.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Francium has the symbol Sc or that it has the symbol Fr.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Zinc has the symbol Ne or that it has the symbol Zn.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Tin has the symbol Be or that it has the symbol Tc.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Scandium has the symbol Rn or that it has the symbol La.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Iridium has the symbol Fe or that it has the symbol Co.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Carbon has the symbol Na or that it has the symbol C.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Carbon has the symbol Rb or that it has the symbol C.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Cadmium has the symbol Ir or that it has the symbol Rh.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Radium has the symbol N or that it has the symbol Sm.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Titanium has the symbol Co or that it has the symbol B.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Neon has the symbol P or that it has the symbol Ne.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Silicon has the symbol Si or that it has the symbol Pt.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Oxygen has the symbol Pr or that it has the symbol O.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Zinc has the symbol Fe or that it has the symbol Fr.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Molybdenum has the symbol Ac or that it has the symbol Mo.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Fluorine has the symbol C or that it has the symbol N.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Arsenic has the symbol Ar or that it has the symbol Re.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Carbon has the symbol In or that it has the symbol Xe.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Gadolinium has the symbol Gd or that it has the symbol Mg.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Germanium has the symbol Ge or that it has the symbol Po.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Gadolinium has the symbol F or that it has the symbol Hg.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Ytterbium has the symbol Mo or that it has the symbol Ho.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Thorium has the symbol Au or that it has the symbol Se.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Bismuth has the symbol La or that it has the symbol Sb.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Technetium has the symbol Tc or that it has the symbol Fe.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Actinium has the symbol Bi or that it has the symbol Ac.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Niobium has the symbol S or that it has the symbol Nb.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Gold has the symbol Ge or that it has the symbol Au.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Boron has the symbol B or that it has the symbol Zr.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Sodium has the symbol Lu or that it has the symbol N.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Radon has the symbol Rn or that it has the symbol Be.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Neodymium has the symbol Lu or that it has the symbol Ac.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Rhenium has the symbol Re or that it has the symbol Zr.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Thulium has the symbol Ne or that it has the symbol Na.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Yttrium has the symbol Sc or that it has the symbol U.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Thorium has the symbol Th or that it has the symbol Sb.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Argon has the symbol Sc or that it has the symbol Co.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Neodymium has the symbol Ac or that it has the symbol Lu.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Samarium has the symbol Sm or that it has the symbol Pa.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Niobium has the symbol Rh or that it has the symbol Br.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Gallium has the symbol Ga or that it has the symbol Sm.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Lanthanum has the symbol Po or that it has the symbol Sc.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Indium has the symbol As or that it has the symbol Ce.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Calcium has the symbol Na or that it has the symbol Ca.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Boron has the symbol B or that it has the symbol La.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Samarium has the symbol Sm or that it has the symbol O.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Bromine has the symbol Sn or that it has the symbol Br.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Samarium has the symbol Mo or that it has the symbol Sm.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Calcium has the symbol Cl or that it has the symbol P.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Actinium has the symbol Ac or that it has the symbol P.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Carbon has the symbol Al or that it has the symbol C.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Barium has the symbol Sb or that it has the symbol Ba.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Holmium has the symbol N or that it has the symbol Tb.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Potassium has the symbol Dy or that it has the symbol K.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Arsenic has the symbol Re or that it has the symbol Mg.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Radon has the symbol N or that it has the symbol Rn.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Promethium has the symbol Dy or that it has the symbol Pr.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Silicon has the symbol Rn or that it has the symbol La.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Helium has the symbol He or that it has the symbol Pr.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Ruthenium has the symbol Au or that it has the symbol Rh.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Neon has the symbol Lu or that it has the symbol Tl.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Barium has the symbol Sb or that it has the symbol Tb.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Francium has the symbol Fr or that it has the symbol Ho.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Potassium has the symbol K or that it has the symbol Er.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Boron has the symbol Dy or that it has the symbol B.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Rubidium has the symbol Rb or that it has the symbol Np.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Molybdenum has the symbol Mo or that it has the symbol Zr.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Francium has the symbol Br or that it has the symbol Fr.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Carbon has the symbol Na or that it has the symbol In.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Cadmium has the symbol Cd or that it has the symbol Hg.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Ruthenium has the symbol Se or that it has the symbol Ru.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Neodymium has the symbol I or that it has the symbol Nd.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Beryllium has the symbol Be or that it has the symbol Mo.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Iridium has the symbol Ir or that it has the symbol Mn.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Barium has the symbol Sb or that it has the symbol Au.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Promethium has the symbol Pm or that it has the symbol Sc.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Chlorine has the symbol Cr or that it has the symbol Hg.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Selenium has the symbol Cs or that it has the symbol Se.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Rubidium has the symbol Rb or that it has the symbol Os.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Nickel has the symbol Sb or that it has the symbol Ni.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Germanium has the symbol Ir or that it has the symbol Ge.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Tin has the symbol Be or that it has the symbol Cs.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Boron has the symbol Zr or that it has the symbol Pm.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Promethium has the symbol Pm or that it has the symbol Ne.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Silicon has the symbol Na or that it has the symbol Si.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Radon has the symbol Sb or that it has the symbol H.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Aluminum has the symbol Sc or that it has the symbol F.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Ytterbium has the symbol Sb or that it has the symbol Mo.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Niobium has the symbol Hf or that it has the symbol Rh.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Samarium has the symbol Sm or that it has the symbol Mg.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Boron has the symbol Mo or that it has the symbol B.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Tellurium has the symbol Te or that it has the symbol Lu.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Cadmium has the symbol Ir or that it has the symbol C.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Osmium has the symbol Rn or that it has the symbol Ac.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Potassium has the symbol K or that it has the symbol Er.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Sodium has the symbol Mg or that it has the symbol Lu.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Technetium has the symbol Tc or that it has the symbol Gd.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Neptunium has the symbol Sc or that it has the symbol Na.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Neodymium has the symbol Ac or that it has the symbol Ar.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Neptunium has the symbol Na or that it has the symbol Al.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Neptunium has the symbol Na or that it has the symbol Hf.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Strontium has the symbol C or that it has the symbol Sn.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Actinium has the symbol Mo or that it has the symbol Ar.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Lutetium has the symbol Lu or that it has the symbol Tl.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Protactinium has the symbol I or that it has the symbol Pa.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Dysprosium has the symbol Sc or that it has the symbol Dy.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Sulfur has the symbol S or that it has the symbol Co.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Silicon has the symbol Te or that it has the symbol Si.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Aluminum has the symbol Th or that it has the symbol Sc.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Dysprosium has the symbol Dy or that it has the symbol Tc.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Helium has the symbol Xe or that it has the symbol Th.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Terbium has the symbol Sn or that it has the symbol Ta.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Chromium has the symbol Cs or that it has the symbol Cr.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Phosphorus has the symbol P or that it has the symbol Na.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Helium has the symbol He or that it has the symbol Ac.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Selenium has the symbol Pm or that it has the symbol Se.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Radon has the symbol Cr or that it has the symbol Rn.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Oxygen has the symbol Rh or that it has the symbol Ne.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Neon has the symbol La or that it has the symbol Lu.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Tantalum has the symbol Bi or that it has the symbol Cs.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Calcium has the symbol Np or that it has the symbol Ca.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Hydrogen has the symbol Th or that it has the symbol H.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Gadolinium has the symbol Hg or that it has the symbol Al.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Magnesium has the symbol Lu or that it has the symbol Mg.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Holmium has the symbol Pr or that it has the symbol Ho.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Oxygen has the symbol Ne or that it has the symbol Lu.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Cobalt has the symbol Pb or that it has the symbol Lu.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Tungsten has the symbol Zr or that it has the symbol W.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Cobalt has the symbol Sn or that it has the symbol Lu.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Zinc has the symbol Zn or that it has the symbol Pt.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Francium has the symbol Fr or that it has the symbol Gd.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Gold has the symbol Au or that it has the symbol Eu.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Potassium has the symbol Tb or that it has the symbol K.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Thorium has the symbol Mo or that it has the symbol Th.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Rubidium has the symbol Kr or that it has the symbol Au.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Radium has the symbol Eu or that it has the symbol Sm.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Radium has the symbol Sm or that it has the symbol Lu.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Neptunium has the symbol Na or that it has the symbol Tb.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Boron has the symbol Ta or that it has the symbol B.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Ytterbium has the symbol Yb or that it has the symbol Xe.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Chromium has the symbol Ru or that it has the symbol Re.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Palladium has the symbol Ir or that it has the symbol Pd.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Magnesium has the symbol Sm or that it has the symbol Br.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Copper has the symbol Cu or that it has the symbol Np.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Rubidium has the symbol Ca or that it has the symbol Kr.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Chromium has the symbol Po or that it has the symbol Cr.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Tellurium has the symbol O or that it has the symbol Ar.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Protactinium has the symbol Cr or that it has the symbol Pa.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Nickel has the symbol Fe or that it has the symbol Ni.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Boron has the symbol Fr or that it has the symbol B.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Ruthenium has the symbol As or that it has the symbol Au.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Nitrogen has the symbol Cr or that it has the symbol N.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Silver has the symbol La or that it has the symbol Sb.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Antimony has the symbol Cs or that it has the symbol Sb.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Gallium has the symbol Ne or that it has the symbol Ga.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Beryllium has the symbol Be or that it has the symbol Pt.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Terbium has the symbol Tb or that it has the symbol Tl.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Rhodium has the symbol Rh or that it has the symbol Sr.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Sulfur has the symbol Ag or that it has the symbol S.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Technetium has the symbol Rn or that it has the symbol Tc.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Protactinium has the symbol Be or that it has the symbol Ir.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Boron has the symbol Pm or that it has the symbol Cs.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Radon has the symbol Nd or that it has the symbol H.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Terbium has the symbol Ta or that it has the symbol K.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Iron has the symbol Tl or that it has the symbol Nb.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Potassium has the symbol K or that it has the symbol Be.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Rhodium has the symbol Tl or that it has the symbol Rh.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Samarium has the symbol Sm or that it has the symbol Rh.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Krypton has the symbol Nb or that it has the symbol Ne.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Arsenic has the symbol Mo or that it has the symbol As.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Praseodymium has the symbol Cl or that it has the symbol Pr.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Potassium has the symbol Al or that it has the symbol K.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Sulfur has the symbol S or that it has the symbol Cl.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Protactinium has the symbol La or that it has the symbol Pa.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Bismuth has the symbol Rh or that it has the symbol La.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Zinc has the symbol Fr or that it has the symbol H.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Iridium has the symbol Fe or that it has the symbol Ho.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Hafnium has the symbol Nd or that it has the symbol Ho.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Helium has the symbol Tl or that it has the symbol He.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Indium has the symbol Ne or that it has the symbol In.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Silver has the symbol Fr or that it has the symbol Sb.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Chlorine has the symbol As or that it has the symbol Cr.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Gallium has the symbol B or that it has the symbol Ga.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Hydrogen has the symbol Ge or that it has the symbol Pt.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Neon has the symbol Lu or that it has the symbol O.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Argon has the symbol Co or that it has the symbol Sr.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Zinc has the symbol Po or that it has the symbol Zn.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Lead has the symbol K or that it has the symbol Na.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Nickel has the symbol Rb or that it has the symbol Ir.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Tin has the symbol Ti or that it has the symbol Be.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Actinium has the symbol Ar or that it has the symbol Na.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Lanthanum has the symbol Po or that it has the symbol Ac.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Osmium has the symbol Rn or that it has the symbol Br.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Platinum has the symbol Pt or that it has the symbol Kr.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Xenon has the symbol Xe or that it has the symbol Be.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Ytterbium has the symbol Yb or that it has the symbol Ru.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Sulfur has the symbol Au or that it has the symbol S.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Scandium has the symbol Sc or that it has the symbol Ta.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Nitrogen has the symbol Sb or that it has the symbol N.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Calcium has the symbol Au or that it has the symbol Ca.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Tantalum has the symbol Ne or that it has the symbol Cs.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Neon has the symbol Ne or that it has the symbol Br.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Sulfur has the symbol S or that it has the symbol Rn.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Tantalum has the symbol Cs or that it has the symbol Rn.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Polonium has the symbol Po or that it has the symbol Ra.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Selenium has the symbol Se or that it has the symbol Cr.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Tungsten has the symbol Zr or that it has the symbol U.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Copper has the symbol Fr or that it has the symbol Cu.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Magnesium has the symbol U or that it has the symbol Mg.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Lanthanum has the symbol Po or that it has the symbol Cs.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Radium has the symbol At or that it has the symbol Ra.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Cadmium has the symbol Mg or that it has the symbol Ir.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Copper has the symbol Ni or that it has the symbol Ta.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Samarium has the symbol Pr or that it has the symbol Sc.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Yttrium has the symbol Cs or that it has the symbol Y.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Thulium has the symbol Pr or that it has the symbol Tm.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Francium has the symbol Yb or that it has the symbol Tl.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Radon has the symbol Rn or that it has the symbol Po.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Chlorine has the symbol Cr or that it has the symbol Ir.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Samarium has the symbol Ba or that it has the symbol Sm.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Gallium has the symbol Co or that it has the symbol Ga.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Rubidium has the symbol Ni or that it has the symbol Rb.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Xenon has the symbol F or that it has the symbol P.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Gallium has the symbol Yb or that it has the symbol Ga.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Platinum has the symbol Pt or that it has the symbol Ru.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Aluminum has the symbol Sc or that it has the symbol Au.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Phosphorus has the symbol P or that it has the symbol Er.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Silicon has the symbol Rh or that it has the symbol Si.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Zinc has the symbol Zn or that it has the symbol Fe.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Samarium has the symbol Fe or that it has the symbol Sm.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Ytterbium has the symbol U or that it has the symbol Yb.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Tin has the symbol Be or that it has the symbol Fr.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Strontium has the symbol Tm or that it has the symbol Sr.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Platinum has the symbol La or that it has the symbol F.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Gold has the symbol Au or that it has the symbol Sb.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Yttrium has the symbol Mo or that it has the symbol U.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Protactinium has the symbol Si or that it has the symbol Pa.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Uranium has the symbol U or that it has the symbol Gd.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Bromine has the symbol Mo or that it has the symbol B.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Argon has the symbol Ar or that it has the symbol N.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Cesium has the symbol Cs or that it has the symbol Lu.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Gallium has the symbol Sb or that it has the symbol Cs.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Carbon has the symbol Er or that it has the symbol C.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Thulium has the symbol Fe or that it has the symbol Ne.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Rubidium has the symbol Zn or that it has the symbol Kr.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Rubidium has the symbol W or that it has the symbol Rb.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Erbium has the symbol Er or that it has the symbol Tl.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Praseodymium has the symbol Sb or that it has the symbol Sc.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Actinium has the symbol Co or that it has the symbol Ac.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Antimony has the symbol Al or that it has the symbol Eu.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Argon has the symbol Ar or that it has the symbol Mn.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Thallium has the symbol Sr or that it has the symbol Ac.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Nitrogen has the symbol Tb or that it has the symbol La.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Oxygen has the symbol Po or that it has the symbol O.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Copper has the symbol Eu or that it has the symbol Ta.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Chlorine has the symbol Cl or that it has the symbol N.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Argon has the symbol Ra or that it has the symbol Co.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Nitrogen has the symbol Rh or that it has the symbol N.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Samarium has the symbol Pr or that it has the symbol Sn.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Thulium has the symbol Al or that it has the symbol Ne.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Xenon has the symbol Xe or that it has the symbol Lu.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Oxygen has the symbol Sr or that it has the symbol Ne.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Gallium has the symbol Cs or that it has the symbol Br.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Germanium has the symbol Ge or that it has the symbol Be.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Mercury has the symbol Ar or that it has the symbol Hg.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Bromine has the symbol Br or that it has the symbol Sc.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Francium has the symbol Fr or that it has the symbol Rn.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Hydrogen has the symbol H or that it has the symbol Ca.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Scandium has the symbol Rn or that it has the symbol Sc.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Selenium has the symbol Se or that it has the symbol Ni.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Niobium has the symbol Nb or that it has the symbol Kr.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Boron has the symbol Zr or that it has the symbol Pm.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Radon has the symbol Eu or that it has the symbol H.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Hafnium has the symbol Hf or that it has the symbol As.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Fluorine has the symbol Au or that it has the symbol N.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Praseodymium has the symbol Si or that it has the symbol Sc.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Tellurium has the symbol O or that it has the symbol Ra.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Neon has the symbol Ne or that it has the symbol Sn.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Scandium has the symbol F or that it has the symbol Sc.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Gadolinium has the symbol N or that it has the symbol Hg.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Strontium has the symbol La or that it has the symbol Sr.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Uranium has the symbol As or that it has the symbol U.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Sodium has the symbol Na or that it has the symbol La.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Yttrium has the symbol S or that it has the symbol Y.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Calcium has the symbol P or that it has the symbol Ru.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Selenium has the symbol Na or that it has the symbol Tl.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Beryllium has the symbol Re or that it has the symbol Be.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Uranium has the symbol Ru or that it has the symbol Re.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Gallium has the symbol Pd or that it has the symbol Cs.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Rhodium has the symbol Sn or that it has the symbol Lu.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Sodium has the symbol Hf or that it has the symbol Lu.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Copper has the symbol P or that it has the symbol Cu.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Fluorine has the symbol F or that it has the symbol Ti.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Cadmium has the symbol Ir or that it has the symbol P.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Bromine has the symbol Br or that it has the symbol Ar.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Gadolinium has the symbol Tb or that it has the symbol Gd.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Zirconium has the symbol Zr or that it has the symbol Na.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Tantalum has the symbol Cs or that it has the symbol U.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Cobalt has the symbol Lu or that it has the symbol Sb.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Manganese has the symbol Al or that it has the symbol Gd.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Zinc has the symbol Ru or that it has the symbol Fr.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Gallium has the symbol Ne or that it has the symbol Cs.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Palladium has the symbol Pd or that it has the symbol Cs.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Neodymium has the symbol La or that it has the symbol Nd.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Hydrogen has the symbol Re or that it has the symbol Pt.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Zirconium has the symbol Mo or that it has the symbol Eu.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Zirconium has the symbol Zr or that it has the symbol Tb.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Manganese has the symbol O or that it has the symbol Gd.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Rhodium has the symbol Mg or that it has the symbol Rh.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Zinc has the symbol As or that it has the symbol Fr.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Astatine has the symbol At or that it has the symbol Ga.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Oxygen has the symbol Ne or that it has the symbol Zn.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Germanium has the symbol Yb or that it has the symbol Br.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Tellurium has the symbol Te or that it has the symbol Ta.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Hafnium has the symbol Se or that it has the symbol Nd.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Strontium has the symbol Co or that it has the symbol Sr.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Osmium has the symbol Rn or that it has the symbol Sb.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Molybdenum has the symbol Np or that it has the symbol Ar.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Strontium has the symbol Zr or that it has the symbol Sn.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Barium has the symbol Ba or that it has the symbol Ne.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Aluminum has the symbol F or that it has the symbol Al.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Iridium has the symbol Ir or that it has the symbol As.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Nitrogen has the symbol Nd or that it has the symbol N.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Hydrogen has the symbol Pt or that it has the symbol Bi.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Barium has the symbol Ba or that it has the symbol Zn.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Lanthanum has the symbol Cs or that it has the symbol Po.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Nitrogen has the symbol La or that it has the symbol O.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Niobium has the symbol Rh or that it has the symbol Dy.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Silicon has the symbol Mo or that it has the symbol Si.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Tellurium has the symbol O or that it has the symbol La.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Holmium has the symbol Tb or that it has the symbol Se.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Tungsten has the symbol Zr or that it has the symbol Cr.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Aluminum has the symbol O or that it has the symbol Sc.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Cadmium has the symbol Lu or that it has the symbol Cd.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Germanium has the symbol Pd or that it has the symbol Br.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Tungsten has the symbol W or that it has the symbol Dy.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Thulium has the symbol Tm or that it has the symbol Br.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Polonium has the symbol Tb or that it has the symbol Cs.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Indium has the symbol Os or that it has the symbol As.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Thorium has the symbol Lu or that it has the symbol Th.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Dysprosium has the symbol Gd or that it has the symbol U.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Nitrogen has the symbol U or that it has the symbol N.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Radon has the symbol Rn or that it has the symbol Lu.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Carbon has the symbol Ir or that it has the symbol In.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Niobium has the symbol Ne or that it has the symbol Rh.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Radon has the symbol Ge or that it has the symbol Rn.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Fluorine has the symbol Br or that it has the symbol N.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Phosphorus has the symbol Zn or that it has the symbol W.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Boron has the symbol Pm or that it has the symbol Mo.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Lanthanum has the symbol La or that it has the symbol Cs.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Gold has the symbol Tb or that it has the symbol Au.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Calcium has the symbol P or that it has the symbol Sm.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Argon has the symbol Ar or that it has the symbol Li.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Gadolinium has the symbol Gd or that it has the symbol Cr.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Cadmium has the symbol Fr or that it has the symbol Cd.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Niobium has the symbol Rh or that it has the symbol K.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Terbium has the symbol Ni or that it has the symbol Tb.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Zirconium has the symbol Ir or that it has the symbol Zr.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Calcium has the symbol S or that it has the symbol Ca.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Yttrium has the symbol Y or that it has the symbol O.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Yttrium has the symbol Kr or that it has the symbol Y.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Actinium has the symbol Ac or that it has the symbol Sb.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Zinc has the symbol Nb or that it has the symbol Zn.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Vanadium has the symbol V or that it has the symbol Ca.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Thorium has the symbol Se or that it has the symbol Co.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Lead has the symbol Nd or that it has the symbol Pb.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Helium has the symbol V or that it has the symbol He.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Barium has the symbol Ba or that it has the symbol Ne.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Calcium has the symbol Er or that it has the symbol Ca.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Astatine has the symbol At or that it has the symbol Ba.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Chlorine has the symbol Eu or that it has the symbol Cr.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Uranium has the symbol U or that it has the symbol Sm.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Iron has the symbol Ga or that it has the symbol Tl.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Yttrium has the symbol U or that it has the symbol Os.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Indium has the symbol Sb or that it has the symbol In.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Iodine has the symbol Nb or that it has the symbol S.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Osmium has the symbol Te or that it has the symbol Rn.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Ruthenium has the symbol Rh or that it has the symbol Ru.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Samarium has the symbol Li or that it has the symbol Sm.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Actinium has the symbol Ac or that it has the symbol Pt.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Promethium has the symbol Pm or that it has the symbol Be.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Strontium has the symbol Zn or that it has the symbol Sn.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Sodium has the symbol He or that it has the symbol Lu.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Tungsten has the symbol Zr or that it has the symbol F.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Sulfur has the symbol P or that it has the symbol Cs.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Platinum has the symbol La or that it has the symbol Sc.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Gold has the symbol Au or that it has the symbol As.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Indium has the symbol In or that it has the symbol Ho.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Dysprosium has the symbol U or that it has the symbol Pt.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Mercury has the symbol Hg or that it has the symbol Na.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Iodine has the symbol Nb or that it has the symbol Ga.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Ruthenium has the symbol Tl or that it has the symbol Au.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Gadolinium has the symbol Ho or that it has the symbol Hg.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Promethium has the symbol Dy or that it has the symbol Ta.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Xenon has the symbol F or that it has the symbol S.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Cesium has the symbol Pm or that it has the symbol Tc.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Manganese has the symbol Gd or that it has the symbol Cs.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Boron has the symbol Pm or that it has the symbol Br.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Neptunium has the symbol U or that it has the symbol Na.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Arsenic has the symbol Tb or that it has the symbol As.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Silver has the symbol Ag or that it has the symbol Gd.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Cerium has the symbol Rb or that it has the symbol Ce.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Palladium has the symbol Ti or that it has the symbol Pd.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Silicon has the symbol Si or that it has the symbol Ac.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Francium has the symbol Fr or that it has the symbol Rb.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Cerium has the symbol Te or that it has the symbol Ce.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Astatine has the symbol At or that it has the symbol Ni.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Actinium has the symbol Pm or that it has the symbol Ac.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Oxygen has the symbol Sr or that it has the symbol Ne.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Potassium has the symbol Nd or that it has the symbol Al.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Antimony has the symbol Tb or that it has the symbol Al.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Nickel has the symbol Ni or that it has the symbol Li.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Iron has the symbol Sn or that it has the symbol Fe.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Tantalum has the symbol Br or that it has the symbol Ta.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Argon has the symbol Po or that it has the symbol Ar.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Bismuth has the symbol La or that it has the symbol Mg.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Strontium has the symbol Nd or that it has the symbol Sr.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case either that Phosphorus has the symbol Zn or that it has the symbol Pa.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case either that Antimony has the symbol Al or that it has the symbol Pd.",
+        "label": 0
+    }
+]

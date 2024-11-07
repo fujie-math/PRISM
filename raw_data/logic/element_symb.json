@@ -1,0 +1,746 @@
+[
+    {
+        "statement": "Thallium has the symbol Tl.",
+        "label": 1
+    },
+    {
+        "statement": "Barium has the symbol Sb.",
+        "label": 0
+    },
+    {
+        "statement": "Tantalum has the symbol Ta.",
+        "label": 1
+    },
+    {
+        "statement": "Beryllium has the symbol Be.",
+        "label": 1
+    },
+    {
+        "statement": "Yttrium has the symbol U.",
+        "label": 0
+    },
+    {
+        "statement": "Krypton has the symbol Kr.",
+        "label": 1
+    },
+    {
+        "statement": "Molybdenum has the symbol Np.",
+        "label": 0
+    },
+    {
+        "statement": "Strontium has the symbol Sn.",
+        "label": 0
+    },
+    {
+        "statement": "Rubidium has the symbol Rb.",
+        "label": 1
+    },
+    {
+        "statement": "Titanium has the symbol Ti.",
+        "label": 1
+    },
+    {
+        "statement": "Strontium has the symbol Sr.",
+        "label": 1
+    },
+    {
+        "statement": "Mercury has the symbol Cl.",
+        "label": 0
+    },
+    {
+        "statement": "Xenon has the symbol Xe.",
+        "label": 1
+    },
+    {
+        "statement": "Uranium has the symbol Re.",
+        "label": 0
+    },
+    {
+        "statement": "Indium has the symbol As.",
+        "label": 0
+    },
+    {
+        "statement": "Gallium has the symbol Ga.",
+        "label": 1
+    },
+    {
+        "statement": "Europium has the symbol Eu.",
+        "label": 1
+    },
+    {
+        "statement": "Chlorine has the symbol Cl.",
+        "label": 1
+    },
+    {
+        "statement": "Palladium has the symbol Nd.",
+        "label": 0
+    },
+    {
+        "statement": "Rubidium has the symbol Kr.",
+        "label": 0
+    },
+    {
+        "statement": "Zinc has the symbol Fr.",
+        "label": 0
+    },
+    {
+        "statement": "Sodium has the symbol Lu.",
+        "label": 0
+    },
+    {
+        "statement": "Francium has the symbol Fr.",
+        "label": 1
+    },
+    {
+        "statement": "Selenium has the symbol Se.",
+        "label": 1
+    },
+    {
+        "statement": "Silver has the symbol Ag.",
+        "label": 1
+    },
+    {
+        "statement": "Potassium has the symbol Al.",
+        "label": 0
+    },
+    {
+        "statement": "Neon has the symbol Ne.",
+        "label": 1
+    },
+    {
+        "statement": "Palladium has the symbol Pd.",
+        "label": 1
+    },
+    {
+        "statement": "Sulfur has the symbol S.",
+        "label": 1
+    },
+    {
+        "statement": "Antimony has the symbol Al.",
+        "label": 0
+    },
+    {
+        "statement": "Polonium has the symbol Tb.",
+        "label": 0
+    },
+    {
+        "statement": "Hafnium has the symbol Hf.",
+        "label": 1
+    },
+    {
+        "statement": "Gold has the symbol Cr.",
+        "label": 0
+    },
+    {
+        "statement": "Chlorine has the symbol Cr.",
+        "label": 0
+    },
+    {
+        "statement": "Iridium has the symbol Ir.",
+        "label": 1
+    },
+    {
+        "statement": "Francium has the symbol Tl.",
+        "label": 0
+    },
+    {
+        "statement": "Actinium has the symbol Ac.",
+        "label": 1
+    },
+    {
+        "statement": "Gold has the symbol Au.",
+        "label": 1
+    },
+    {
+        "statement": "Beryllium has the symbol As.",
+        "label": 0
+    },
+    {
+        "statement": "Rhenium has the symbol Tm.",
+        "label": 0
+    },
+    {
+        "statement": "Erbium has the symbol Pr.",
+        "label": 0
+    },
+    {
+        "statement": "Cadmium has the symbol Cd.",
+        "label": 1
+    },
+    {
+        "statement": "Actinium has the symbol Ar.",
+        "label": 0
+    },
+    {
+        "statement": "Osmium has the symbol Os.",
+        "label": 1
+    },
+    {
+        "statement": "Neptunium has the symbol Np.",
+        "label": 1
+    },
+    {
+        "statement": "Cerium has the symbol Ne.",
+        "label": 0
+    },
+    {
+        "statement": "Potassium has the symbol K.",
+        "label": 1
+    },
+    {
+        "statement": "Bromine has the symbol Br.",
+        "label": 1
+    },
+    {
+        "statement": "Arsenic has the symbol Re.",
+        "label": 0
+    },
+    {
+        "statement": "Thorium has the symbol Se.",
+        "label": 0
+    },
+    {
+        "statement": "Calcium has the symbol Ca.",
+        "label": 1
+    },
+    {
+        "statement": "Zirconium has the symbol Zr.",
+        "label": 1
+    },
+    {
+        "statement": "Dysprosium has the symbol U.",
+        "label": 0
+    },
+    {
+        "statement": "Boron has the symbol B.",
+        "label": 1
+    },
+    {
+        "statement": "Silver has the symbol Sb.",
+        "label": 0
+    },
+    {
+        "statement": "Phosphorus has the symbol P.",
+        "label": 1
+    },
+    {
+        "statement": "Xenon has the symbol F.",
+        "label": 0
+    },
+    {
+        "statement": "Lutetium has the symbol Lu.",
+        "label": 1
+    },
+    {
+        "statement": "Phosphorus has the symbol Zn.",
+        "label": 0
+    },
+    {
+        "statement": "Fluorine has the symbol N.",
+        "label": 0
+    },
+    {
+        "statement": "Magnesium has the symbol Mg.",
+        "label": 1
+    },
+    {
+        "statement": "Neon has the symbol Lu.",
+        "label": 0
+    },
+    {
+        "statement": "Ruthenium has the symbol Au.",
+        "label": 0
+    },
+    {
+        "statement": "Thulium has the symbol Tm.",
+        "label": 1
+    },
+    {
+        "statement": "Holmium has the symbol Ho.",
+        "label": 1
+    },
+    {
+        "statement": "Bromine has the symbol Mo.",
+        "label": 0
+    },
+    {
+        "statement": "Bismuth has the symbol Bi.",
+        "label": 1
+    },
+    {
+        "statement": "Promethium has the symbol Pm.",
+        "label": 1
+    },
+    {
+        "statement": "Rhodium has the symbol Rh.",
+        "label": 1
+    },
+    {
+        "statement": "Niobium has the symbol Nb.",
+        "label": 1
+    },
+    {
+        "statement": "Selenium has the symbol Na.",
+        "label": 0
+    },
+    {
+        "statement": "Aluminum has the symbol Sc.",
+        "label": 0
+    },
+    {
+        "statement": "Ytterbium has the symbol Mo.",
+        "label": 0
+    },
+    {
+        "statement": "Lithium has the symbol Sb.",
+        "label": 0
+    },
+    {
+        "statement": "Iron has the symbol Tl.",
+        "label": 0
+    },
+    {
+        "statement": "Cadmium has the symbol Ir.",
+        "label": 0
+    },
+    {
+        "statement": "Mercury has the symbol Hg.",
+        "label": 1
+    },
+    {
+        "statement": "Oxygen has the symbol O.",
+        "label": 1
+    },
+    {
+        "statement": "Indium has the symbol In.",
+        "label": 1
+    },
+    {
+        "statement": "Carbon has the symbol C.",
+        "label": 1
+    },
+    {
+        "statement": "Lithium has the symbol Li.",
+        "label": 1
+    },
+    {
+        "statement": "Tungsten has the symbol Zr.",
+        "label": 0
+    },
+    {
+        "statement": "Protactinium has the symbol Pa.",
+        "label": 1
+    },
+    {
+        "statement": "Gallium has the symbol Cs.",
+        "label": 0
+    },
+    {
+        "statement": "Manganese has the symbol Gd.",
+        "label": 0
+    },
+    {
+        "statement": "Calcium has the symbol P.",
+        "label": 0
+    },
+    {
+        "statement": "Chromium has the symbol Ru.",
+        "label": 0
+    },
+    {
+        "statement": "Cobalt has the symbol Co.",
+        "label": 1
+    },
+    {
+        "statement": "Cesium has the symbol Cs.",
+        "label": 1
+    },
+    {
+        "statement": "Tungsten has the symbol W.",
+        "label": 1
+    },
+    {
+        "statement": "Sodium has the symbol Na.",
+        "label": 1
+    },
+    {
+        "statement": "Ytterbium has the symbol Yb.",
+        "label": 1
+    },
+    {
+        "statement": "Rhenium has the symbol Re.",
+        "label": 1
+    },
+    {
+        "statement": "Argon has the symbol Co.",
+        "label": 0
+    },
+    {
+        "statement": "Zinc has the symbol Zn.",
+        "label": 1
+    },
+    {
+        "statement": "Uranium has the symbol U.",
+        "label": 1
+    },
+    {
+        "statement": "Ruthenium has the symbol Ru.",
+        "label": 1
+    },
+    {
+        "statement": "Magnesium has the symbol Br.",
+        "label": 0
+    },
+    {
+        "statement": "Iodine has the symbol I.",
+        "label": 1
+    },
+    {
+        "statement": "Zirconium has the symbol Eu.",
+        "label": 0
+    },
+    {
+        "statement": "Rhodium has the symbol Sn.",
+        "label": 0
+    },
+    {
+        "statement": "Bismuth has the symbol La.",
+        "label": 0
+    },
+    {
+        "statement": "Nitrogen has the symbol La.",
+        "label": 0
+    },
+    {
+        "statement": "Oxygen has the symbol Ne.",
+        "label": 0
+    },
+    {
+        "statement": "Lutetium has the symbol Be.",
+        "label": 0
+    },
+    {
+        "statement": "Praseodymium has the symbol Sc.",
+        "label": 0
+    },
+    {
+        "statement": "Germanium has the symbol Ge.",
+        "label": 1
+    },
+    {
+        "statement": "Terbium has the symbol Tb.",
+        "label": 1
+    },
+    {
+        "statement": "Argon has the symbol Ar.",
+        "label": 1
+    },
+    {
+        "statement": "Scandium has the symbol Rn.",
+        "label": 0
+    },
+    {
+        "statement": "Erbium has the symbol Er.",
+        "label": 1
+    },
+    {
+        "statement": "Chromium has the symbol Cr.",
+        "label": 1
+    },
+    {
+        "statement": "Astatine has the symbol At.",
+        "label": 1
+    },
+    {
+        "statement": "Nickel has the symbol Ni.",
+        "label": 1
+    },
+    {
+        "statement": "Praseodymium has the symbol Pr.",
+        "label": 1
+    },
+    {
+        "statement": "Yttrium has the symbol Y.",
+        "label": 1
+    },
+    {
+        "statement": "Tellurium has the symbol Te.",
+        "label": 1
+    },
+    {
+        "statement": "Niobium has the symbol Rh.",
+        "label": 0
+    },
+    {
+        "statement": "Neodymium has the symbol Ac.",
+        "label": 0
+    },
+    {
+        "statement": "Fluorine has the symbol F.",
+        "label": 1
+    },
+    {
+        "statement": "Vanadium has the symbol V.",
+        "label": 1
+    },
+    {
+        "statement": "Thallium has the symbol Sr.",
+        "label": 0
+    },
+    {
+        "statement": "Samarium has the symbol Pr.",
+        "label": 0
+    },
+    {
+        "statement": "Hydrogen has the symbol Pt.",
+        "label": 0
+    },
+    {
+        "statement": "Neptunium has the symbol Na.",
+        "label": 0
+    },
+    {
+        "statement": "Platinum has the symbol La.",
+        "label": 0
+    },
+    {
+        "statement": "Tin has the symbol Be.",
+        "label": 0
+    },
+    {
+        "statement": "Thorium has the symbol Th.",
+        "label": 1
+    },
+    {
+        "statement": "Samarium has the symbol Sm.",
+        "label": 1
+    },
+    {
+        "statement": "Hydrogen has the symbol H.",
+        "label": 1
+    },
+    {
+        "statement": "Silicon has the symbol Si.",
+        "label": 1
+    },
+    {
+        "statement": "Barium has the symbol Ba.",
+        "label": 1
+    },
+    {
+        "statement": "Lanthanum has the symbol La.",
+        "label": 1
+    },
+    {
+        "statement": "Cerium has the symbol Ce.",
+        "label": 1
+    },
+    {
+        "statement": "Silicon has the symbol Rn.",
+        "label": 0
+    },
+    {
+        "statement": "Lanthanum has the symbol Po.",
+        "label": 0
+    },
+    {
+        "statement": "Molybdenum has the symbol Mo.",
+        "label": 1
+    },
+    {
+        "statement": "Gadolinium has the symbol Hg.",
+        "label": 0
+    },
+    {
+        "statement": "Hafnium has the symbol Nd.",
+        "label": 0
+    },
+    {
+        "statement": "Arsenic has the symbol As.",
+        "label": 1
+    },
+    {
+        "statement": "Aluminum has the symbol Al.",
+        "label": 1
+    },
+    {
+        "statement": "Copper has the symbol Cu.",
+        "label": 1
+    },
+    {
+        "statement": "Promethium has the symbol Dy.",
+        "label": 0
+    },
+    {
+        "statement": "Holmium has the symbol Tb.",
+        "label": 0
+    },
+    {
+        "statement": "Iron has the symbol Fe.",
+        "label": 1
+    },
+    {
+        "statement": "Technetium has the symbol Tc.",
+        "label": 1
+    },
+    {
+        "statement": "Technetium has the symbol Ag.",
+        "label": 0
+    },
+    {
+        "statement": "Cobalt has the symbol Lu.",
+        "label": 0
+    },
+    {
+        "statement": "Helium has the symbol Xe.",
+        "label": 0
+    },
+    {
+        "statement": "Nickel has the symbol Rb.",
+        "label": 0
+    },
+    {
+        "statement": "Krypton has the symbol Nb.",
+        "label": 0
+    },
+    {
+        "statement": "Boron has the symbol Pm.",
+        "label": 0
+    },
+    {
+        "statement": "Copper has the symbol Ta.",
+        "label": 0
+    },
+    {
+        "statement": "Titanium has the symbol B.",
+        "label": 0
+    },
+    {
+        "statement": "Thulium has the symbol Ne.",
+        "label": 0
+    },
+    {
+        "statement": "Osmium has the symbol Rn.",
+        "label": 0
+    },
+    {
+        "statement": "Neodymium has the symbol Nd.",
+        "label": 1
+    },
+    {
+        "statement": "Iridium has the symbol Fe.",
+        "label": 0
+    },
+    {
+        "statement": "Cesium has the symbol Tc.",
+        "label": 0
+    },
+    {
+        "statement": "Dysprosium has the symbol Dy.",
+        "label": 1
+    },
+    {
+        "statement": "Europium has the symbol Ga.",
+        "label": 0
+    },
+    {
+        "statement": "Gadolinium has the symbol Gd.",
+        "label": 1
+    },
+    {
+        "statement": "Helium has the symbol He.",
+        "label": 1
+    },
+    {
+        "statement": "Radon has the symbol Rn.",
+        "label": 1
+    },
+    {
+        "statement": "Carbon has the symbol In.",
+        "label": 0
+    },
+    {
+        "statement": "Germanium has the symbol Br.",
+        "label": 0
+    },
+    {
+        "statement": "Tellurium has the symbol O.",
+        "label": 0
+    },
+    {
+        "statement": "Lead has the symbol Na.",
+        "label": 0
+    },
+    {
+        "statement": "Polonium has the symbol Po.",
+        "label": 1
+    },
+    {
+        "statement": "Platinum has the symbol Pt.",
+        "label": 1
+    },
+    {
+        "statement": "Sulfur has the symbol Cs.",
+        "label": 0
+    },
+    {
+        "statement": "Radium has the symbol Sm.",
+        "label": 0
+    },
+    {
+        "statement": "Antimony has the symbol Sb.",
+        "label": 1
+    },
+    {
+        "statement": "Protactinium has the symbol Ir.",
+        "label": 0
+    },
+    {
+        "statement": "Astatine has the symbol Mg.",
+        "label": 0
+    },
+    {
+        "statement": "Tin has the symbol Sn.",
+        "label": 1
+    },
+    {
+        "statement": "Iodine has the symbol Nb.",
+        "label": 0
+    },
+    {
+        "statement": "Terbium has the symbol Ta.",
+        "label": 0
+    },
+    {
+        "statement": "Tantalum has the symbol Cs.",
+        "label": 0
+    },
+    {
+        "statement": "Manganese has the symbol Mn.",
+        "label": 1
+    },
+    {
+        "statement": "Radon has the symbol H.",
+        "label": 0
+    },
+    {
+        "statement": "Lead has the symbol Pb.",
+        "label": 1
+    },
+    {
+        "statement": "Vanadium has the symbol Ba.",
+        "label": 0
+    },
+    {
+        "statement": "Radium has the symbol Ra.",
+        "label": 1
+    },
+    {
+        "statement": "Nitrogen has the symbol N.",
+        "label": 1
+    },
+    {
+        "statement": "Scandium has the symbol Sc.",
+        "label": 1
+    }
+]

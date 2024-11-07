@@ -1,0 +1,746 @@
+[
+    {
+        "statement": "Thallium does not have the symbol Tl.",
+        "label": 0
+    },
+    {
+        "statement": "Barium does not have the symbol Sb.",
+        "label": 1
+    },
+    {
+        "statement": "Tantalum does not have the symbol Ta.",
+        "label": 0
+    },
+    {
+        "statement": "Beryllium does not have the symbol Be.",
+        "label": 0
+    },
+    {
+        "statement": "Yttrium does not have the symbol U.",
+        "label": 1
+    },
+    {
+        "statement": "Krypton does not have the symbol Kr.",
+        "label": 0
+    },
+    {
+        "statement": "Molybdenum does not have the symbol Np.",
+        "label": 1
+    },
+    {
+        "statement": "Strontium does not have the symbol Sn.",
+        "label": 1
+    },
+    {
+        "statement": "Rubidium does not have the symbol Rb.",
+        "label": 0
+    },
+    {
+        "statement": "Titanium does not have the symbol Ti.",
+        "label": 0
+    },
+    {
+        "statement": "Strontium does not have the symbol Sr.",
+        "label": 0
+    },
+    {
+        "statement": "Mercury does not have the symbol Cl.",
+        "label": 1
+    },
+    {
+        "statement": "Xenon does not have the symbol Xe.",
+        "label": 0
+    },
+    {
+        "statement": "Uranium does not have the symbol Re.",
+        "label": 1
+    },
+    {
+        "statement": "Indium does not have the symbol As.",
+        "label": 1
+    },
+    {
+        "statement": "Gallium does not have the symbol Ga.",
+        "label": 0
+    },
+    {
+        "statement": "Europium does not have the symbol Eu.",
+        "label": 0
+    },
+    {
+        "statement": "Chlorine does not have the symbol Cl.",
+        "label": 0
+    },
+    {
+        "statement": "Palladium does not have the symbol Nd.",
+        "label": 1
+    },
+    {
+        "statement": "Rubidium does not have the symbol Kr.",
+        "label": 1
+    },
+    {
+        "statement": "Zinc does not have the symbol Fr.",
+        "label": 1
+    },
+    {
+        "statement": "Sodium does not have the symbol Lu.",
+        "label": 1
+    },
+    {
+        "statement": "Francium does not have the symbol Fr.",
+        "label": 0
+    },
+    {
+        "statement": "Selenium does not have the symbol Se.",
+        "label": 0
+    },
+    {
+        "statement": "Silver does not have the symbol Ag.",
+        "label": 0
+    },
+    {
+        "statement": "Potassium does not have the symbol Al.",
+        "label": 1
+    },
+    {
+        "statement": "Neon does not have the symbol Ne.",
+        "label": 0
+    },
+    {
+        "statement": "Palladium does not have the symbol Pd.",
+        "label": 0
+    },
+    {
+        "statement": "Sulfur does not have the symbol S.",
+        "label": 0
+    },
+    {
+        "statement": "Antimony does not have the symbol Al.",
+        "label": 1
+    },
+    {
+        "statement": "Polonium does not have the symbol Tb.",
+        "label": 1
+    },
+    {
+        "statement": "Hafnium does not have the symbol Hf.",
+        "label": 0
+    },
+    {
+        "statement": "Gold does not have the symbol Cr.",
+        "label": 1
+    },
+    {
+        "statement": "Chlorine does not have the symbol Cr.",
+        "label": 1
+    },
+    {
+        "statement": "Iridium does not have the symbol Ir.",
+        "label": 0
+    },
+    {
+        "statement": "Francium does not have the symbol Tl.",
+        "label": 1
+    },
+    {
+        "statement": "Actinium does not have the symbol Ac.",
+        "label": 0
+    },
+    {
+        "statement": "Gold does not have the symbol Au.",
+        "label": 0
+    },
+    {
+        "statement": "Beryllium does not have the symbol As.",
+        "label": 1
+    },
+    {
+        "statement": "Rhenium does not have the symbol Tm.",
+        "label": 1
+    },
+    {
+        "statement": "Erbium does not have the symbol Pr.",
+        "label": 1
+    },
+    {
+        "statement": "Cadmium does not have the symbol Cd.",
+        "label": 0
+    },
+    {
+        "statement": "Actinium does not have the symbol Ar.",
+        "label": 1
+    },
+    {
+        "statement": "Osmium does not have the symbol Os.",
+        "label": 0
+    },
+    {
+        "statement": "Neptunium does not have the symbol Np.",
+        "label": 0
+    },
+    {
+        "statement": "Cerium does not have the symbol Ne.",
+        "label": 1
+    },
+    {
+        "statement": "Potassium does not have the symbol K.",
+        "label": 0
+    },
+    {
+        "statement": "Bromine does not have the symbol Br.",
+        "label": 0
+    },
+    {
+        "statement": "Arsenic does not have the symbol Re.",
+        "label": 1
+    },
+    {
+        "statement": "Thorium does not have the symbol Se.",
+        "label": 1
+    },
+    {
+        "statement": "Calcium does not have the symbol Ca.",
+        "label": 0
+    },
+    {
+        "statement": "Zirconium does not have the symbol Zr.",
+        "label": 0
+    },
+    {
+        "statement": "Dysprosium does not have the symbol U.",
+        "label": 1
+    },
+    {
+        "statement": "Boron does not have the symbol B.",
+        "label": 0
+    },
+    {
+        "statement": "Silver does not have the symbol Sb.",
+        "label": 1
+    },
+    {
+        "statement": "Phosphorus does not have the symbol P.",
+        "label": 0
+    },
+    {
+        "statement": "Xenon does not have the symbol F.",
+        "label": 1
+    },
+    {
+        "statement": "Lutetium does not have the symbol Lu.",
+        "label": 0
+    },
+    {
+        "statement": "Phosphorus does not have the symbol Zn.",
+        "label": 1
+    },
+    {
+        "statement": "Fluorine does not have the symbol N.",
+        "label": 1
+    },
+    {
+        "statement": "Magnesium does not have the symbol Mg.",
+        "label": 0
+    },
+    {
+        "statement": "Neon does not have the symbol Lu.",
+        "label": 1
+    },
+    {
+        "statement": "Ruthenium does not have the symbol Au.",
+        "label": 1
+    },
+    {
+        "statement": "Thulium does not have the symbol Tm.",
+        "label": 0
+    },
+    {
+        "statement": "Holmium does not have the symbol Ho.",
+        "label": 0
+    },
+    {
+        "statement": "Bromine does not have the symbol Mo.",
+        "label": 1
+    },
+    {
+        "statement": "Bismuth does not have the symbol Bi.",
+        "label": 0
+    },
+    {
+        "statement": "Promethium does not have the symbol Pm.",
+        "label": 0
+    },
+    {
+        "statement": "Rhodium does not have the symbol Rh.",
+        "label": 0
+    },
+    {
+        "statement": "Niobium does not have the symbol Nb.",
+        "label": 0
+    },
+    {
+        "statement": "Selenium does not have the symbol Na.",
+        "label": 1
+    },
+    {
+        "statement": "Aluminum does not have the symbol Sc.",
+        "label": 1
+    },
+    {
+        "statement": "Ytterbium does not have the symbol Mo.",
+        "label": 1
+    },
+    {
+        "statement": "Lithium does not have the symbol Sb.",
+        "label": 1
+    },
+    {
+        "statement": "Iron does not have the symbol Tl.",
+        "label": 1
+    },
+    {
+        "statement": "Cadmium does not have the symbol Ir.",
+        "label": 1
+    },
+    {
+        "statement": "Mercury does not have the symbol Hg.",
+        "label": 0
+    },
+    {
+        "statement": "Oxygen does not have the symbol O.",
+        "label": 0
+    },
+    {
+        "statement": "Indium does not have the symbol In.",
+        "label": 0
+    },
+    {
+        "statement": "Carbon does not have the symbol C.",
+        "label": 0
+    },
+    {
+        "statement": "Lithium does not have the symbol Li.",
+        "label": 0
+    },
+    {
+        "statement": "Tungsten does not have the symbol Zr.",
+        "label": 1
+    },
+    {
+        "statement": "Protactinium does not have the symbol Pa.",
+        "label": 0
+    },
+    {
+        "statement": "Gallium does not have the symbol Cs.",
+        "label": 1
+    },
+    {
+        "statement": "Manganese does not have the symbol Gd.",
+        "label": 1
+    },
+    {
+        "statement": "Calcium does not have the symbol P.",
+        "label": 1
+    },
+    {
+        "statement": "Chromium does not have the symbol Ru.",
+        "label": 1
+    },
+    {
+        "statement": "Cobalt does not have the symbol Co.",
+        "label": 0
+    },
+    {
+        "statement": "Cesium does not have the symbol Cs.",
+        "label": 0
+    },
+    {
+        "statement": "Tungsten does not have the symbol W.",
+        "label": 0
+    },
+    {
+        "statement": "Sodium does not have the symbol Na.",
+        "label": 0
+    },
+    {
+        "statement": "Ytterbium does not have the symbol Yb.",
+        "label": 0
+    },
+    {
+        "statement": "Rhenium does not have the symbol Re.",
+        "label": 0
+    },
+    {
+        "statement": "Argon does not have the symbol Co.",
+        "label": 1
+    },
+    {
+        "statement": "Zinc does not have the symbol Zn.",
+        "label": 0
+    },
+    {
+        "statement": "Uranium does not have the symbol U.",
+        "label": 0
+    },
+    {
+        "statement": "Ruthenium does not have the symbol Ru.",
+        "label": 0
+    },
+    {
+        "statement": "Magnesium does not have the symbol Br.",
+        "label": 1
+    },
+    {
+        "statement": "Iodine does not have the symbol I.",
+        "label": 0
+    },
+    {
+        "statement": "Zirconium does not have the symbol Eu.",
+        "label": 1
+    },
+    {
+        "statement": "Rhodium does not have the symbol Sn.",
+        "label": 1
+    },
+    {
+        "statement": "Bismuth does not have the symbol La.",
+        "label": 1
+    },
+    {
+        "statement": "Nitrogen does not have the symbol La.",
+        "label": 1
+    },
+    {
+        "statement": "Oxygen does not have the symbol Ne.",
+        "label": 1
+    },
+    {
+        "statement": "Lutetium does not have the symbol Be.",
+        "label": 1
+    },
+    {
+        "statement": "Praseodymium does not have the symbol Sc.",
+        "label": 1
+    },
+    {
+        "statement": "Germanium does not have the symbol Ge.",
+        "label": 0
+    },
+    {
+        "statement": "Terbium does not have the symbol Tb.",
+        "label": 0
+    },
+    {
+        "statement": "Argon does not have the symbol Ar.",
+        "label": 0
+    },
+    {
+        "statement": "Scandium does not have the symbol Rn.",
+        "label": 1
+    },
+    {
+        "statement": "Erbium does not have the symbol Er.",
+        "label": 0
+    },
+    {
+        "statement": "Chromium does not have the symbol Cr.",
+        "label": 0
+    },
+    {
+        "statement": "Astatine does not have the symbol At.",
+        "label": 0
+    },
+    {
+        "statement": "Nickel does not have the symbol Ni.",
+        "label": 0
+    },
+    {
+        "statement": "Praseodymium does not have the symbol Pr.",
+        "label": 0
+    },
+    {
+        "statement": "Yttrium does not have the symbol Y.",
+        "label": 0
+    },
+    {
+        "statement": "Tellurium does not have the symbol Te.",
+        "label": 0
+    },
+    {
+        "statement": "Niobium does not have the symbol Rh.",
+        "label": 1
+    },
+    {
+        "statement": "Neodymium does not have the symbol Ac.",
+        "label": 1
+    },
+    {
+        "statement": "Fluorine does not have the symbol F.",
+        "label": 0
+    },
+    {
+        "statement": "Vanadium does not have the symbol V.",
+        "label": 0
+    },
+    {
+        "statement": "Thallium does not have the symbol Sr.",
+        "label": 1
+    },
+    {
+        "statement": "Samarium does not have the symbol Pr.",
+        "label": 1
+    },
+    {
+        "statement": "Hydrogen does not have the symbol Pt.",
+        "label": 1
+    },
+    {
+        "statement": "Neptunium does not have the symbol Na.",
+        "label": 1
+    },
+    {
+        "statement": "Platinum does not have the symbol La.",
+        "label": 1
+    },
+    {
+        "statement": "Tin does not have the symbol Be.",
+        "label": 1
+    },
+    {
+        "statement": "Thorium does not have the symbol Th.",
+        "label": 0
+    },
+    {
+        "statement": "Samarium does not have the symbol Sm.",
+        "label": 0
+    },
+    {
+        "statement": "Hydrogen does not have the symbol H.",
+        "label": 0
+    },
+    {
+        "statement": "Silicon does not have the symbol Si.",
+        "label": 0
+    },
+    {
+        "statement": "Barium does not have the symbol Ba.",
+        "label": 0
+    },
+    {
+        "statement": "Lanthanum does not have the symbol La.",
+        "label": 0
+    },
+    {
+        "statement": "Cerium does not have the symbol Ce.",
+        "label": 0
+    },
+    {
+        "statement": "Silicon does not have the symbol Rn.",
+        "label": 1
+    },
+    {
+        "statement": "Lanthanum does not have the symbol Po.",
+        "label": 1
+    },
+    {
+        "statement": "Molybdenum does not have the symbol Mo.",
+        "label": 0
+    },
+    {
+        "statement": "Gadolinium does not have the symbol Hg.",
+        "label": 1
+    },
+    {
+        "statement": "Hafnium does not have the symbol Nd.",
+        "label": 1
+    },
+    {
+        "statement": "Arsenic does not have the symbol As.",
+        "label": 0
+    },
+    {
+        "statement": "Aluminum does not have the symbol Al.",
+        "label": 0
+    },
+    {
+        "statement": "Copper does not have the symbol Cu.",
+        "label": 0
+    },
+    {
+        "statement": "Promethium does not have the symbol Dy.",
+        "label": 1
+    },
+    {
+        "statement": "Holmium does not have the symbol Tb.",
+        "label": 1
+    },
+    {
+        "statement": "Iron does not have the symbol Fe.",
+        "label": 0
+    },
+    {
+        "statement": "Technetium does not have the symbol Tc.",
+        "label": 0
+    },
+    {
+        "statement": "Technetium does not have the symbol Ag.",
+        "label": 1
+    },
+    {
+        "statement": "Cobalt does not have the symbol Lu.",
+        "label": 1
+    },
+    {
+        "statement": "Helium does not have the symbol Xe.",
+        "label": 1
+    },
+    {
+        "statement": "Nickel does not have the symbol Rb.",
+        "label": 1
+    },
+    {
+        "statement": "Krypton does not have the symbol Nb.",
+        "label": 1
+    },
+    {
+        "statement": "Boron does not have the symbol Pm.",
+        "label": 1
+    },
+    {
+        "statement": "Copper does not have the symbol Ta.",
+        "label": 1
+    },
+    {
+        "statement": "Titanium does not have the symbol B.",
+        "label": 1
+    },
+    {
+        "statement": "Thulium does not have the symbol Ne.",
+        "label": 1
+    },
+    {
+        "statement": "Osmium does not have the symbol Rn.",
+        "label": 1
+    },
+    {
+        "statement": "Neodymium does not have the symbol Nd.",
+        "label": 0
+    },
+    {
+        "statement": "Iridium does not have the symbol Fe.",
+        "label": 1
+    },
+    {
+        "statement": "Cesium does not have the symbol Tc.",
+        "label": 1
+    },
+    {
+        "statement": "Dysprosium does not have the symbol Dy.",
+        "label": 0
+    },
+    {
+        "statement": "Europium does not have the symbol Ga.",
+        "label": 1
+    },
+    {
+        "statement": "Gadolinium does not have the symbol Gd.",
+        "label": 0
+    },
+    {
+        "statement": "Helium does not have the symbol He.",
+        "label": 0
+    },
+    {
+        "statement": "Radon does not have the symbol Rn.",
+        "label": 0
+    },
+    {
+        "statement": "Carbon does not have the symbol In.",
+        "label": 1
+    },
+    {
+        "statement": "Germanium does not have the symbol Br.",
+        "label": 1
+    },
+    {
+        "statement": "Tellurium does not have the symbol O.",
+        "label": 1
+    },
+    {
+        "statement": "Lead does not have the symbol Na.",
+        "label": 1
+    },
+    {
+        "statement": "Polonium does not have the symbol Po.",
+        "label": 0
+    },
+    {
+        "statement": "Platinum does not have the symbol Pt.",
+        "label": 0
+    },
+    {
+        "statement": "Sulfur does not have the symbol Cs.",
+        "label": 1
+    },
+    {
+        "statement": "Radium does not have the symbol Sm.",
+        "label": 1
+    },
+    {
+        "statement": "Antimony does not have the symbol Sb.",
+        "label": 0
+    },
+    {
+        "statement": "Protactinium does not have the symbol Ir.",
+        "label": 1
+    },
+    {
+        "statement": "Astatine does not have the symbol Mg.",
+        "label": 1
+    },
+    {
+        "statement": "Tin does not have the symbol Sn.",
+        "label": 0
+    },
+    {
+        "statement": "Iodine does not have the symbol Nb.",
+        "label": 1
+    },
+    {
+        "statement": "Terbium does not have the symbol Ta.",
+        "label": 1
+    },
+    {
+        "statement": "Tantalum does not have the symbol Cs.",
+        "label": 1
+    },
+    {
+        "statement": "Manganese does not have the symbol Mn.",
+        "label": 0
+    },
+    {
+        "statement": "Radon does not have the symbol H.",
+        "label": 1
+    },
+    {
+        "statement": "Lead does not have the symbol Pb.",
+        "label": 0
+    },
+    {
+        "statement": "Vanadium does not have the symbol Ba.",
+        "label": 1
+    },
+    {
+        "statement": "Radium does not have the symbol Ra.",
+        "label": 0
+    },
+    {
+        "statement": "Nitrogen does not have the symbol N.",
+        "label": 0
+    },
+    {
+        "statement": "Scandium does not have the symbol Sc.",
+        "label": 0
+    }
+]

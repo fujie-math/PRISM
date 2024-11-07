@@ -1,0 +1,3722 @@
+[
+    {
+        "statement": "Boron is used in the production of glass and ceramics.",
+        "label": 1
+    },
+    {
+        "statement": "Praseodymium is used in coins, batteries, and corrosion-resistant alloys.",
+        "label": 0
+    },
+    {
+        "statement": "Cobalt is used in strong, permanent magnets and as a blue pigment.",
+        "label": 1
+    },
+    {
+        "statement": "Indium is in the Lanthanide group.",
+        "label": 0
+    },
+    {
+        "statement": "Zirconium has the atomic number of 6.",
+        "label": 0
+    },
+    {
+        "statement": "Boron has the atomic number of 70.",
+        "label": 0
+    },
+    {
+        "statement": "Thallium appears in its standard state as Liquid.",
+        "label": 0
+    },
+    {
+        "statement": "Bromine is in the Halogen group.",
+        "label": 1
+    },
+    {
+        "statement": "Manganese appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Palladium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Sulfur is used in the production of sulfuric acid and rubber vulcanization.",
+        "label": 1
+    },
+    {
+        "statement": "Scandium has the atomic number of 21.",
+        "label": 1
+    },
+    {
+        "statement": "Hydrogen is in the Actinide group.",
+        "label": 0
+    },
+    {
+        "statement": "Barium is used in touchscreens and some semiconductors.",
+        "label": 0
+    },
+    {
+        "statement": "Radon has the atomic number of 41.",
+        "label": 0
+    },
+    {
+        "statement": "Iron is the most abundant element on Earth by mass and is essential for blood oxygen transport.",
+        "label": 1
+    },
+    {
+        "statement": "Dysprosium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Magnesium is used in the production of glass and ceramics.",
+        "label": 0
+    },
+    {
+        "statement": "Thallium has the symbol Tl.",
+        "label": 1
+    },
+    {
+        "statement": "Barium has the symbol Sb.",
+        "label": 0
+    },
+    {
+        "statement": "Cadmium is used in rechargeable batteries and as a pigment.",
+        "label": 1
+    },
+    {
+        "statement": "Carbon appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Tantalum has the atomic number of 79.",
+        "label": 0
+    },
+    {
+        "statement": "Dysprosium is a noble gas used in lighting and medical imaging.",
+        "label": 0
+    },
+    {
+        "statement": "Silver is used in catalytic converters and some electronic components.",
+        "label": 0
+    },
+    {
+        "statement": "Chlorine has the atomic number of 17.",
+        "label": 1
+    },
+    {
+        "statement": "Tantalum has the atomic number of 73.",
+        "label": 1
+    },
+    {
+        "statement": "Holmium is used in lasers and magnetic refrigeration.",
+        "label": 1
+    },
+    {
+        "statement": "Barium is in the Alkaline earth metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Rhenium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Europium has the atomic number of 92.",
+        "label": 0
+    },
+    {
+        "statement": "Rhenium is used in coins, batteries, and corrosion-resistant alloys.",
+        "label": 0
+    },
+    {
+        "statement": "Tantalum has the symbol Ta.",
+        "label": 1
+    },
+    {
+        "statement": "Gallium has the atomic number of 10.",
+        "label": 0
+    },
+    {
+        "statement": "Tantalum appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Actinium has the atomic number of 89.",
+        "label": 1
+    },
+    {
+        "statement": "Scandium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Hafnium is in the Transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Ytterbium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Terbium is used in green phosphors and lasers.",
+        "label": 1
+    },
+    {
+        "statement": "Astatine has the atomic number of 85.",
+        "label": 1
+    },
+    {
+        "statement": "Bromine is in the Noble gas group.",
+        "label": 0
+    },
+    {
+        "statement": "Rubidium has the atomic number of 37.",
+        "label": 1
+    },
+    {
+        "statement": "Beryllium has the symbol Be.",
+        "label": 1
+    },
+    {
+        "statement": "Gold is highly valued for its conductivity, malleability, and resistance to corrosion, used in electronics, jewelry, and dentistry.",
+        "label": 1
+    },
+    {
+        "statement": "Rubidium is in the Lanthanide group.",
+        "label": 0
+    },
+    {
+        "statement": "Antimony appears in its standard state as Liquid.",
+        "label": 0
+    },
+    {
+        "statement": "Carbon has the atomic number of 6.",
+        "label": 1
+    },
+    {
+        "statement": "Oxygen appears in its standard state as Gas.",
+        "label": 1
+    },
+    {
+        "statement": "Cerium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Cerium has the atomic number of 58.",
+        "label": 1
+    },
+    {
+        "statement": "Holmium has the atomic number of 92.",
+        "label": 0
+    },
+    {
+        "statement": "Helium is in the Noble gas group.",
+        "label": 1
+    },
+    {
+        "statement": "Gallium is a toxic element used in some semiconductors and infrared detectors.",
+        "label": 0
+    },
+    {
+        "statement": "Niobium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Phosphorus is used in catalytic converters and hydrogen storage.",
+        "label": 0
+    },
+    {
+        "statement": "Yttrium has the symbol U.",
+        "label": 0
+    },
+    {
+        "statement": "Sulfur is in the Nonmetal group.",
+        "label": 1
+    },
+    {
+        "statement": "Platinum is a radioactive noble gas produced during the decay of uranium and thorium; it can accumulate in buildings and is a health hazard.",
+        "label": 0
+    },
+    {
+        "statement": "Chromium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Terbium is in the Lanthanide group.",
+        "label": 1
+    },
+    {
+        "statement": "Rhodium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Zirconium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Gadolinium has the atomic number of 64.",
+        "label": 1
+    },
+    {
+        "statement": "Krypton has the symbol Kr.",
+        "label": 1
+    },
+    {
+        "statement": "Terbium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Iodine has the atomic number of 47.",
+        "label": 0
+    },
+    {
+        "statement": "Nitrogen is an essential component of proteins and DNA.",
+        "label": 1
+    },
+    {
+        "statement": "Sodium reacts violently with water and is essential for nerve function.",
+        "label": 1
+    },
+    {
+        "statement": "Potassium is in the Actinide group.",
+        "label": 0
+    },
+    {
+        "statement": "Holmium has the atomic number of 67.",
+        "label": 1
+    },
+    {
+        "statement": "Neon appears in its standard state as Gas.",
+        "label": 1
+    },
+    {
+        "statement": "Molybdenum has the symbol Np.",
+        "label": 0
+    },
+    {
+        "statement": "Strontium has the symbol Sn.",
+        "label": 0
+    },
+    {
+        "statement": "Phosphorus appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Lanthanum appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Gallium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Europium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Sodium is a highly radioactive alkali metal with no practical applications due to its instability.",
+        "label": 0
+    },
+    {
+        "statement": "Thulium is in the Lanthanide group.",
+        "label": 1
+    },
+    {
+        "statement": "Rubidium has the symbol Rb.",
+        "label": 1
+    },
+    {
+        "statement": "Silver is in the Post-transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Indium is used in touchscreens and some semiconductors.",
+        "label": 1
+    },
+    {
+        "statement": "Holmium is in the Lanthanide group.",
+        "label": 1
+    },
+    {
+        "statement": "Chlorine is used as a disinfectant and in the production of PVC.",
+        "label": 1
+    },
+    {
+        "statement": "Cesium is used in atomic clocks and as a catalyst.",
+        "label": 1
+    },
+    {
+        "statement": "Aluminum appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Terbium is in the Alkali metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Lead has the atomic number of 82.",
+        "label": 1
+    },
+    {
+        "statement": "Hydrogen has the atomic number of 1.",
+        "label": 1
+    },
+    {
+        "statement": "Titanium has the symbol Ti.",
+        "label": 1
+    },
+    {
+        "statement": "Cesium has the atomic number of 55.",
+        "label": 1
+    },
+    {
+        "statement": "Strontium has the symbol Sr.",
+        "label": 1
+    },
+    {
+        "statement": "Strontium is used in neon signs and produces a distinct reddish-orange glow.",
+        "label": 0
+    },
+    {
+        "statement": "Mercury has the symbol Cl.",
+        "label": 0
+    },
+    {
+        "statement": "Nickel is used in magnets, lasers, and neutron capture.",
+        "label": 0
+    },
+    {
+        "statement": "Astatine is a highly reactive alkali metal used in atomic clocks.",
+        "label": 0
+    },
+    {
+        "statement": "Lanthanum has the atomic number of 57.",
+        "label": 1
+    },
+    {
+        "statement": "Sodium is in the Post-transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Xenon has the symbol Xe.",
+        "label": 1
+    },
+    {
+        "statement": "Francium has the atomic number of 87.",
+        "label": 1
+    },
+    {
+        "statement": "Uranium has the symbol Re.",
+        "label": 0
+    },
+    {
+        "statement": "Erbium has the atomic number of 68.",
+        "label": 1
+    },
+    {
+        "statement": "Gallium appears in its standard state as Liquid.",
+        "label": 0
+    },
+    {
+        "statement": "Indium has the symbol As.",
+        "label": 0
+    },
+    {
+        "statement": "Rhenium has the atomic number of 60.",
+        "label": 0
+    },
+    {
+        "statement": "Tin is in the Transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Gallium has the symbol Ga.",
+        "label": 1
+    },
+    {
+        "statement": "Antimony is in the Metalloid group.",
+        "label": 1
+    },
+    {
+        "statement": "Zirconium is in the Transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Uranium has the atomic number of 92.",
+        "label": 1
+    },
+    {
+        "statement": "Titanium has the atomic number of 49.",
+        "label": 0
+    },
+    {
+        "statement": "Technetium is in the Lanthanide group.",
+        "label": 0
+    },
+    {
+        "statement": "Europium has the symbol Eu.",
+        "label": 1
+    },
+    {
+        "statement": "Hydrogen is the most abundant element in the universe.",
+        "label": 1
+    },
+    {
+        "statement": "Chlorine has the symbol Cl.",
+        "label": 1
+    },
+    {
+        "statement": "Rhenium has the atomic number of 75.",
+        "label": 1
+    },
+    {
+        "statement": "Palladium has the symbol Nd.",
+        "label": 0
+    },
+    {
+        "statement": "Sodium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Rubidium has the symbol Kr.",
+        "label": 0
+    },
+    {
+        "statement": "Iridium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Promethium has the atomic number of 60.",
+        "label": 0
+    },
+    {
+        "statement": "Nickel has the atomic number of 8.",
+        "label": 0
+    },
+    {
+        "statement": "Nickel appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Argon is in the Lanthanide group.",
+        "label": 0
+    },
+    {
+        "statement": "Praseodymium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Lead is a heavy, toxic metal used in batteries, radiation shielding, and some solders.",
+        "label": 1
+    },
+    {
+        "statement": "Zinc has the symbol Fr.",
+        "label": 0
+    },
+    {
+        "statement": "Actinium is used in magnets and lasers.",
+        "label": 0
+    },
+    {
+        "statement": "Cerium is in the Noble gas group.",
+        "label": 0
+    },
+    {
+        "statement": "Neodymium is in the Lanthanide group.",
+        "label": 1
+    },
+    {
+        "statement": "Sodium has the symbol Lu.",
+        "label": 0
+    },
+    {
+        "statement": "Francium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Palladium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Niobium has the atomic number of 41.",
+        "label": 1
+    },
+    {
+        "statement": "Francium has the symbol Fr.",
+        "label": 1
+    },
+    {
+        "statement": "Selenium has the symbol Se.",
+        "label": 1
+    },
+    {
+        "statement": "Francium has the atomic number of 61.",
+        "label": 0
+    },
+    {
+        "statement": "Silver has the symbol Ag.",
+        "label": 1
+    },
+    {
+        "statement": "Uranium is a radioactive element used as fuel in nuclear reactors and in the production of atomic weapons.",
+        "label": 1
+    },
+    {
+        "statement": "Krypton has the atomic number of 86.",
+        "label": 0
+    },
+    {
+        "statement": "Potassium is essential for muscle and nerve function and is highly reactive with water.",
+        "label": 1
+    },
+    {
+        "statement": "Potassium has the symbol Al.",
+        "label": 0
+    },
+    {
+        "statement": "Dysprosium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Gold is in the Transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Bromine appears in its standard state as Liquid.",
+        "label": 1
+    },
+    {
+        "statement": "Uranium is in the Transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Selenium has the atomic number of 60.",
+        "label": 0
+    },
+    {
+        "statement": "Rhenium is in the Halogen group.",
+        "label": 0
+    },
+    {
+        "statement": "Krypton appears in its standard state as Gas.",
+        "label": 1
+    },
+    {
+        "statement": "Palladium is a liquid at room temperature and used in thermometers and some electrical switches.",
+        "label": 0
+    },
+    {
+        "statement": "Niobium is in the Lanthanide group.",
+        "label": 0
+    },
+    {
+        "statement": "Oxygen is necessary for aerobic respiration in living organisms.",
+        "label": 1
+    },
+    {
+        "statement": "Astatine appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Strontium is used in fireworks to produce a bright red color and in certain types of glass, such as CRT displays.",
+        "label": 1
+    },
+    {
+        "statement": "Arsenic is in the Metalloid group.",
+        "label": 1
+    },
+    {
+        "statement": "Technetium is the lightest radioactive element and is used in medical imaging.",
+        "label": 1
+    },
+    {
+        "statement": "Erbium has the atomic number of 41.",
+        "label": 0
+    },
+    {
+        "statement": "Potassium has the atomic number of 19.",
+        "label": 1
+    },
+    {
+        "statement": "Hafnium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Xenon is used in nuclear reactors due to its low neutron absorption.",
+        "label": 0
+    },
+    {
+        "statement": "Astatine appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Aluminum is used in MRI contrast agents and X-ray tubes.",
+        "label": 0
+    },
+    {
+        "statement": "Neodymium is a radioactive actinide mainly used in research and plutonium production.",
+        "label": 0
+    },
+    {
+        "statement": "Neon has the symbol Ne.",
+        "label": 1
+    },
+    {
+        "statement": "Chromium is used in stainless steel and as a decorative plating.",
+        "label": 1
+    },
+    {
+        "statement": "Neodymium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Fluorine is used in solder and pewter.",
+        "label": 0
+    },
+    {
+        "statement": "Chlorine appears in its standard state as Solid.",
+        "label": 0
+    },
+    {
+        "statement": "Palladium has the symbol Pd.",
+        "label": 1
+    },
+    {
+        "statement": "Promethium is a radioactive element used in luminous paints.",
+        "label": 1
+    },
+    {
+        "statement": "Thallium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Sulfur has the symbol S.",
+        "label": 1
+    },
+    {
+        "statement": "Copper is a strong, lightweight metal used in aerospace and medical implants.",
+        "label": 0
+    },
+    {
+        "statement": "Beryllium is in the Actinide group.",
+        "label": 0
+    },
+    {
+        "statement": "Arsenic appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Zinc has the atomic number of 49.",
+        "label": 0
+    },
+    {
+        "statement": "Copper is in the Post-transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Yttrium has the atomic number of 26.",
+        "label": 0
+    },
+    {
+        "statement": "Germanium is in the Alkaline earth metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Zinc appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Dysprosium is used in magnets and lasers.",
+        "label": 1
+    },
+    {
+        "statement": "Holmium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Promethium is used in flame retardants and as a fumigant.",
+        "label": 0
+    },
+    {
+        "statement": "Antimony has the symbol Al.",
+        "label": 0
+    },
+    {
+        "statement": "Beryllium is in the Alkaline earth metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Polonium has the symbol Tb.",
+        "label": 0
+    },
+    {
+        "statement": "Aluminum has the atomic number of 13.",
+        "label": 1
+    },
+    {
+        "statement": "Selenium is in the Nonmetal group.",
+        "label": 1
+    },
+    {
+        "statement": "Chromium has the atomic number of 39.",
+        "label": 0
+    },
+    {
+        "statement": "Phosphorus is in the Nonmetal group.",
+        "label": 1
+    },
+    {
+        "statement": "Lutetium is in the Transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Radium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Copper is in the Transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Nitrogen has the atomic number of 31.",
+        "label": 0
+    },
+    {
+        "statement": "Arsenic has the atomic number of 53.",
+        "label": 0
+    },
+    {
+        "statement": "Strontium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Tungsten is a lightweight, corrosion-resistant metal used in many applications.",
+        "label": 0
+    },
+    {
+        "statement": "Aluminum is a lightweight, corrosion-resistant metal used in many applications.",
+        "label": 1
+    },
+    {
+        "statement": "Rubidium is used in phosphors for CRT displays and LEDs.",
+        "label": 0
+    },
+    {
+        "statement": "Tantalum is in the Transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Hafnium has the symbol Hf.",
+        "label": 1
+    },
+    {
+        "statement": "Gold has the symbol Cr.",
+        "label": 0
+    },
+    {
+        "statement": "Protactinium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Neptunium has the atomic number of 93.",
+        "label": 1
+    },
+    {
+        "statement": "Germanium is in the Metalloid group.",
+        "label": 1
+    },
+    {
+        "statement": "Lanthanum has the atomic number of 17.",
+        "label": 0
+    },
+    {
+        "statement": "Cesium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Boron appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Fluorine appears in its standard state as Gas.",
+        "label": 1
+    },
+    {
+        "statement": "Chlorine has the symbol Cr.",
+        "label": 0
+    },
+    {
+        "statement": "Strontium has the atomic number of 38.",
+        "label": 1
+    },
+    {
+        "statement": "Iridium has the symbol Ir.",
+        "label": 1
+    },
+    {
+        "statement": "Silver has the atomic number of 82.",
+        "label": 0
+    },
+    {
+        "statement": "Francium has the symbol Tl.",
+        "label": 0
+    },
+    {
+        "statement": "Helium has the atomic number of 2.",
+        "label": 1
+    },
+    {
+        "statement": "Bromine has the atomic number of 35.",
+        "label": 1
+    },
+    {
+        "statement": "Radon is in the Noble gas group.",
+        "label": 1
+    },
+    {
+        "statement": "Sulfur is the second most abundant element in Earth's crust and is used in computer chips.",
+        "label": 0
+    },
+    {
+        "statement": "Magnesium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Xenon is in the Noble gas group.",
+        "label": 1
+    },
+    {
+        "statement": "Actinium has the symbol Ac.",
+        "label": 1
+    },
+    {
+        "statement": "Gold has the symbol Au.",
+        "label": 1
+    },
+    {
+        "statement": "Platinum appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Beryllium has the symbol As.",
+        "label": 0
+    },
+    {
+        "statement": "Ruthenium is in the Transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Rhenium has the symbol Tm.",
+        "label": 0
+    },
+    {
+        "statement": "Palladium has the atomic number of 46.",
+        "label": 1
+    },
+    {
+        "statement": "Neon has the atomic number of 10.",
+        "label": 1
+    },
+    {
+        "statement": "Actinium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Neon is a radioactive element used as a neutron source and in some cancer treatments.",
+        "label": 0
+    },
+    {
+        "statement": "Magnesium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Manganese is a rare earth metal used in high-performance alloys.",
+        "label": 0
+    },
+    {
+        "statement": "Erbium has the symbol Pr.",
+        "label": 0
+    },
+    {
+        "statement": "Iridium has the atomic number of 77.",
+        "label": 1
+    },
+    {
+        "statement": "Yttrium is in the Post-transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Lead is in the Post-transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Cobalt appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Cadmium has the symbol Cd.",
+        "label": 1
+    },
+    {
+        "statement": "Thulium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Thorium is in the Actinide group.",
+        "label": 1
+    },
+    {
+        "statement": "Copper is an excellent conductor of electricity and is used in wiring and pipes.",
+        "label": 1
+    },
+    {
+        "statement": "Ytterbium is in the Noble gas group.",
+        "label": 0
+    },
+    {
+        "statement": "Iodine appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Bromine appears in its standard state as Solid.",
+        "label": 0
+    },
+    {
+        "statement": "Actinium is in the Post-transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Lanthanum appears in its standard state as Liquid.",
+        "label": 0
+    },
+    {
+        "statement": "Mercury is in the Actinide group.",
+        "label": 0
+    },
+    {
+        "statement": "Platinum is in the Transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Actinium has the symbol Ar.",
+        "label": 0
+    },
+    {
+        "statement": "Osmium has the symbol Os.",
+        "label": 1
+    },
+    {
+        "statement": "Carbon is in the Alkaline earth metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Neptunium has the symbol Np.",
+        "label": 1
+    },
+    {
+        "statement": "Potassium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Cerium has the symbol Ne.",
+        "label": 0
+    },
+    {
+        "statement": "Potassium has the symbol K.",
+        "label": 1
+    },
+    {
+        "statement": "Bromine has the symbol Br.",
+        "label": 1
+    },
+    {
+        "statement": "Ruthenium appears in its standard state as Liquid.",
+        "label": 0
+    },
+    {
+        "statement": "Tellurium is used in catalytic converters and hydrogen storage.",
+        "label": 0
+    },
+    {
+        "statement": "Titanium is a strong, lightweight metal used in aerospace and medical implants.",
+        "label": 1
+    },
+    {
+        "statement": "Arsenic has the symbol Re.",
+        "label": 0
+    },
+    {
+        "statement": "Beryllium is used in the production of glass and ceramics.",
+        "label": 0
+    },
+    {
+        "statement": "Platinum has the atomic number of 78.",
+        "label": 1
+    },
+    {
+        "statement": "Technetium is in the Transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Thorium has the symbol Se.",
+        "label": 0
+    },
+    {
+        "statement": "Argon is in the Noble gas group.",
+        "label": 1
+    },
+    {
+        "statement": "Cadmium is in the Lanthanide group.",
+        "label": 0
+    },
+    {
+        "statement": "Calcium has the symbol Ca.",
+        "label": 1
+    },
+    {
+        "statement": "Beryllium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Zirconium has the symbol Zr.",
+        "label": 1
+    },
+    {
+        "statement": "Germanium has the atomic number of 13.",
+        "label": 0
+    },
+    {
+        "statement": "Arsenic appears in its standard state as Liquid.",
+        "label": 0
+    },
+    {
+        "statement": "Palladium is in the Nonmetal group.",
+        "label": 0
+    },
+    {
+        "statement": "Tellurium is in the Alkali metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Radon has the atomic number of 86.",
+        "label": 1
+    },
+    {
+        "statement": "Dysprosium has the symbol U.",
+        "label": 0
+    },
+    {
+        "statement": "Lutetium has the atomic number of 37.",
+        "label": 0
+    },
+    {
+        "statement": "Selenium is used in lasers and magnetic refrigeration.",
+        "label": 0
+    },
+    {
+        "statement": "Mercury is a liquid at room temperature and used in thermometers and some electrical switches.",
+        "label": 1
+    },
+    {
+        "statement": "Krypton has the atomic number of 36.",
+        "label": 1
+    },
+    {
+        "statement": "Erbium is used in lasers and fiber-optic communication.",
+        "label": 1
+    },
+    {
+        "statement": "Praseodymium is in the Nonmetal group.",
+        "label": 0
+    },
+    {
+        "statement": "Cerium forms more compounds than any other element.",
+        "label": 0
+    },
+    {
+        "statement": "Boron has the symbol B.",
+        "label": 1
+    },
+    {
+        "statement": "Argon appears in its standard state as Gas.",
+        "label": 1
+    },
+    {
+        "statement": "Iron has the atomic number of 12.",
+        "label": 0
+    },
+    {
+        "statement": "Silver has the symbol Sb.",
+        "label": 0
+    },
+    {
+        "statement": "Titanium is used in lasers, atomic clocks, and some solar cells.",
+        "label": 0
+    },
+    {
+        "statement": "Phosphorus has the symbol P.",
+        "label": 1
+    },
+    {
+        "statement": "Neodymium has the atomic number of 60.",
+        "label": 1
+    },
+    {
+        "statement": "Xenon has the symbol F.",
+        "label": 0
+    },
+    {
+        "statement": "Tin is used in solder and pewter.",
+        "label": 1
+    },
+    {
+        "statement": "Tellurium has the atomic number of 52.",
+        "label": 1
+    },
+    {
+        "statement": "Mercury has the atomic number of 65.",
+        "label": 0
+    },
+    {
+        "statement": "Copper has the atomic number of 50.",
+        "label": 0
+    },
+    {
+        "statement": "Iridium has the atomic number of 56.",
+        "label": 0
+    },
+    {
+        "statement": "Lutetium has the symbol Lu.",
+        "label": 1
+    },
+    {
+        "statement": "Zirconium is in the Metalloid group.",
+        "label": 0
+    },
+    {
+        "statement": "Fluorine is in the Transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Phosphorus has the symbol Zn.",
+        "label": 0
+    },
+    {
+        "statement": "Fluorine has the symbol N.",
+        "label": 0
+    },
+    {
+        "statement": "Magnesium has the symbol Mg.",
+        "label": 1
+    },
+    {
+        "statement": "Neon has the symbol Lu.",
+        "label": 0
+    },
+    {
+        "statement": "Cobalt appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Ruthenium has the symbol Au.",
+        "label": 0
+    },
+    {
+        "statement": "Gadolinium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Praseodymium has the atomic number of 59.",
+        "label": 1
+    },
+    {
+        "statement": "Bismuth has the atomic number of 55.",
+        "label": 0
+    },
+    {
+        "statement": "Zinc is used to galvanize steel and is an essential trace element in living organisms.",
+        "label": 1
+    },
+    {
+        "statement": "Francium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Thorium has the atomic number of 78.",
+        "label": 0
+    },
+    {
+        "statement": "Hafnium is essential for thyroid function and is used as a disinfectant.",
+        "label": 0
+    },
+    {
+        "statement": "Selenium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Thorium has the atomic number of 90.",
+        "label": 1
+    },
+    {
+        "statement": "Protactinium is a radioactive element with no significant practical applications.",
+        "label": 1
+    },
+    {
+        "statement": "Molybdenum is used in high-temperature applications and steel alloys.",
+        "label": 1
+    },
+    {
+        "statement": "Rubidium is in the Alkali metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Krypton is a noble gas used in some lighting applications and window insulation.",
+        "label": 1
+    },
+    {
+        "statement": "Argon has the atomic number of 12.",
+        "label": 0
+    },
+    {
+        "statement": "Helium is used in catalytic converters and hydrogen storage.",
+        "label": 0
+    },
+    {
+        "statement": "Neon has the atomic number of 63.",
+        "label": 0
+    },
+    {
+        "statement": "Germanium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Manganese is in the Transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Carbon has the atomic number of 71.",
+        "label": 0
+    },
+    {
+        "statement": "Tantalum is in the Lanthanide group.",
+        "label": 0
+    },
+    {
+        "statement": "Beryllium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Polonium has the atomic number of 25.",
+        "label": 0
+    },
+    {
+        "statement": "Silicon is in the Metalloid group.",
+        "label": 1
+    },
+    {
+        "statement": "Gold has the atomic number of 79.",
+        "label": 1
+    },
+    {
+        "statement": "Potassium is in the Alkali metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Thulium has the atomic number of 69.",
+        "label": 1
+    },
+    {
+        "statement": "Cerium is used in catalytic converters and self-cleaning ovens.",
+        "label": 1
+    },
+    {
+        "statement": "Titanium has the atomic number of 22.",
+        "label": 1
+    },
+    {
+        "statement": "Gold is in the Lanthanide group.",
+        "label": 0
+    },
+    {
+        "statement": "Lithium has the atomic number of 3.",
+        "label": 1
+    },
+    {
+        "statement": "Bismuth appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Thorium is an essential trace element in living organisms and is used to strengthen steel.",
+        "label": 0
+    },
+    {
+        "statement": "Thulium has the symbol Tm.",
+        "label": 1
+    },
+    {
+        "statement": "Bromine has the atomic number of 64.",
+        "label": 0
+    },
+    {
+        "statement": "Strontium has the atomic number of 12.",
+        "label": 0
+    },
+    {
+        "statement": "Dysprosium has the atomic number of 60.",
+        "label": 0
+    },
+    {
+        "statement": "Scandium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Fluorine has the atomic number of 9.",
+        "label": 1
+    },
+    {
+        "statement": "Cadmium has the atomic number of 48.",
+        "label": 1
+    },
+    {
+        "statement": "Holmium has the symbol Ho.",
+        "label": 1
+    },
+    {
+        "statement": "Bromine has the symbol Mo.",
+        "label": 0
+    },
+    {
+        "statement": "Lanthanum is in the Alkali metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Lutetium is used in PET scans and some cancer treatments.",
+        "label": 1
+    },
+    {
+        "statement": "Mercury has the atomic number of 80.",
+        "label": 1
+    },
+    {
+        "statement": "Molybdenum is in the Transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Lithium is the lightest metal and is used in rechargeable batteries.",
+        "label": 1
+    },
+    {
+        "statement": "Molybdenum is used in the production of sulfuric acid and rubber vulcanization.",
+        "label": 0
+    },
+    {
+        "statement": "Samarium has the atomic number of 28.",
+        "label": 0
+    },
+    {
+        "statement": "Tellurium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Aluminum appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Magnesium is in the Alkaline earth metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Bismuth has the symbol Bi.",
+        "label": 1
+    },
+    {
+        "statement": "Vanadium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Platinum is a highly valued, non-reactive metal used in jewelry, catalytic converters, and fuel cells.",
+        "label": 1
+    },
+    {
+        "statement": "Tin appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Calcium is in the Nonmetal group.",
+        "label": 0
+    },
+    {
+        "statement": "Chlorine appears in its standard state as Gas.",
+        "label": 1
+    },
+    {
+        "statement": "Germanium is a semiconductor used in transistors and photovoltaic cells.",
+        "label": 1
+    },
+    {
+        "statement": "Gadolinium is in the Lanthanide group.",
+        "label": 1
+    },
+    {
+        "statement": "Ruthenium is used in catalytic converters and some electronic components.",
+        "label": 1
+    },
+    {
+        "statement": "Gold is the most reactive and electronegative element.",
+        "label": 0
+    },
+    {
+        "statement": "Calcium has the atomic number of 20.",
+        "label": 1
+    },
+    {
+        "statement": "Promethium has the symbol Pm.",
+        "label": 1
+    },
+    {
+        "statement": "Nickel is in the Transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Gadolinium has the atomic number of 6.",
+        "label": 0
+    },
+    {
+        "statement": "Xenon appears in its standard state as Solid.",
+        "label": 0
+    },
+    {
+        "statement": "Francium is in the Halogen group.",
+        "label": 0
+    },
+    {
+        "statement": "Tungsten appears in its standard state as Liquid.",
+        "label": 0
+    },
+    {
+        "statement": "Iridium is in the Transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Rhodium has the symbol Rh.",
+        "label": 1
+    },
+    {
+        "statement": "Cesium is in the Transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Osmium is in the Post-transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Niobium has the symbol Nb.",
+        "label": 1
+    },
+    {
+        "statement": "Dysprosium is in the Lanthanide group.",
+        "label": 1
+    },
+    {
+        "statement": "Beryllium is a lightweight, strong metal used in aerospace and other applications.",
+        "label": 1
+    },
+    {
+        "statement": "Selenium has the symbol Na.",
+        "label": 0
+    },
+    {
+        "statement": "Rhodium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Aluminum has the symbol Sc.",
+        "label": 0
+    },
+    {
+        "statement": "Iodine is in the Halogen group.",
+        "label": 1
+    },
+    {
+        "statement": "Ytterbium has the symbol Mo.",
+        "label": 0
+    },
+    {
+        "statement": "Lithium has the symbol Sb.",
+        "label": 0
+    },
+    {
+        "statement": "Iron has the symbol Tl.",
+        "label": 0
+    },
+    {
+        "statement": "Cadmium has the symbol Ir.",
+        "label": 0
+    },
+    {
+        "statement": "Lead appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Xenon is a noble gas used in lighting and medical imaging.",
+        "label": 1
+    },
+    {
+        "statement": "Lithium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Mercury has the symbol Hg.",
+        "label": 1
+    },
+    {
+        "statement": "Radon is a radioactive noble gas produced during the decay of uranium and thorium; it can accumulate in buildings and is a health hazard.",
+        "label": 1
+    },
+    {
+        "statement": "Sodium has the atomic number of 11.",
+        "label": 1
+    },
+    {
+        "statement": "Bromine is used in flame retardants and as a fumigant.",
+        "label": 1
+    },
+    {
+        "statement": "Astatine has the atomic number of 7.",
+        "label": 0
+    },
+    {
+        "statement": "Niobium is a radioactive element with no significant practical applications.",
+        "label": 0
+    },
+    {
+        "statement": "Neodymium is in the Transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Phosphorus is in the Alkali metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Oxygen has the symbol O.",
+        "label": 1
+    },
+    {
+        "statement": "Indium has the symbol In.",
+        "label": 1
+    },
+    {
+        "statement": "Radium is a radioactive alkaline earth metal used in luminous paints and some cancer treatments.",
+        "label": 1
+    },
+    {
+        "statement": "Lithium is in the Alkali metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Zirconium is used in nuclear reactors due to its low neutron absorption.",
+        "label": 1
+    },
+    {
+        "statement": "Krypton is in the Noble gas group.",
+        "label": 1
+    },
+    {
+        "statement": "Nickel is used in coins, batteries, and corrosion-resistant alloys.",
+        "label": 1
+    },
+    {
+        "statement": "Hydrogen is in the Nonmetal group.",
+        "label": 1
+    },
+    {
+        "statement": "Carbon has the symbol C.",
+        "label": 1
+    },
+    {
+        "statement": "Iron has the atomic number of 26.",
+        "label": 1
+    },
+    {
+        "statement": "Oxygen has the atomic number of 8.",
+        "label": 1
+    },
+    {
+        "statement": "Neon is in the Post-transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Lithium has the symbol Li.",
+        "label": 1
+    },
+    {
+        "statement": "Cadmium is used in magnets and lasers.",
+        "label": 0
+    },
+    {
+        "statement": "Thallium is a toxic element used in some semiconductors and infrared detectors.",
+        "label": 1
+    },
+    {
+        "statement": "Lutetium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Radon appears in its standard state as Solid.",
+        "label": 0
+    },
+    {
+        "statement": "Boron has the atomic number of 5.",
+        "label": 1
+    },
+    {
+        "statement": "Calcium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Tungsten has the symbol Zr.",
+        "label": 0
+    },
+    {
+        "statement": "Silver is in the Transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Oxygen has the atomic number of 76.",
+        "label": 0
+    },
+    {
+        "statement": "Polonium has the atomic number of 84.",
+        "label": 1
+    },
+    {
+        "statement": "Arsenic is a toxic element used in pesticides and some alloys.",
+        "label": 1
+    },
+    {
+        "statement": "Hafnium has the atomic number of 71.",
+        "label": 0
+    },
+    {
+        "statement": "Samarium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Fluorine is in the Halogen group.",
+        "label": 1
+    },
+    {
+        "statement": "Chlorine is in the Post-transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Protactinium has the symbol Pa.",
+        "label": 1
+    },
+    {
+        "statement": "Radon is in the Lanthanide group.",
+        "label": 0
+    },
+    {
+        "statement": "Argon appears in its standard state as Solid.",
+        "label": 0
+    },
+    {
+        "statement": "Yttrium is used in phosphors for CRT displays and LEDs.",
+        "label": 1
+    },
+    {
+        "statement": "Titanium appears in its standard state as Liquid.",
+        "label": 0
+    },
+    {
+        "statement": "Boron is in the Post-transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Gold appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Gallium has a low melting point and is used in semiconductors and LEDs.",
+        "label": 1
+    },
+    {
+        "statement": "Copper has the atomic number of 29.",
+        "label": 1
+    },
+    {
+        "statement": "Actinium is a radioactive element used as a neutron source and in some cancer treatments.",
+        "label": 1
+    },
+    {
+        "statement": "Neptunium has the atomic number of 4.",
+        "label": 0
+    },
+    {
+        "statement": "Tungsten is in the Transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Nitrogen appears in its standard state as Solid.",
+        "label": 0
+    },
+    {
+        "statement": "Silver has the atomic number of 47.",
+        "label": 1
+    },
+    {
+        "statement": "Tungsten appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Strontium is in the Alkaline earth metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Barium has the atomic number of 81.",
+        "label": 0
+    },
+    {
+        "statement": "Barium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Argon is the lightest radioactive element and is used in medical imaging.",
+        "label": 0
+    },
+    {
+        "statement": "Oxygen is in the Halogen group.",
+        "label": 0
+    },
+    {
+        "statement": "Radium is a highly radioactive element used in some heaters for space probes.",
+        "label": 0
+    },
+    {
+        "statement": "Technetium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Gallium has the symbol Cs.",
+        "label": 0
+    },
+    {
+        "statement": "Manganese has the symbol Gd.",
+        "label": 0
+    },
+    {
+        "statement": "Indium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Nitrogen appears in its standard state as Gas.",
+        "label": 1
+    },
+    {
+        "statement": "Bismuth is used in solder and pewter.",
+        "label": 0
+    },
+    {
+        "statement": "Vanadium is used to strengthen steel and in some high-capacity batteries.",
+        "label": 1
+    },
+    {
+        "statement": "Titanium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Iron is a highly valued, non-reactive metal used in jewelry, catalytic converters, and fuel cells.",
+        "label": 0
+    },
+    {
+        "statement": "Iridium is a rare, dense metal used in spark plugs, fountain pen nibs, and crucibles for high-temperature applications..",
+        "label": 1
+    },
+    {
+        "statement": "Indium is in the Post-transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Calcium has the symbol P.",
+        "label": 0
+    },
+    {
+        "statement": "Antimony has the atomic number of 21.",
+        "label": 0
+    },
+    {
+        "statement": "Tantalum is used in capacitors and high-temperature alloys.",
+        "label": 1
+    },
+    {
+        "statement": "Vanadium is in the Transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Nitrogen is used in thermoelectric devices and solar cells.",
+        "label": 0
+    },
+    {
+        "statement": "Tellurium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Chromium has the symbol Ru.",
+        "label": 0
+    },
+    {
+        "statement": "Cobalt has the symbol Co.",
+        "label": 1
+    },
+    {
+        "statement": "Cadmium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Cesium has the symbol Cs.",
+        "label": 1
+    },
+    {
+        "statement": "Tungsten has the symbol W.",
+        "label": 1
+    },
+    {
+        "statement": "Terbium has the atomic number of 65.",
+        "label": 1
+    },
+    {
+        "statement": "Holmium is in the Metalloid group.",
+        "label": 0
+    },
+    {
+        "statement": "Praseodymium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Iodine appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Actinium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Sodium has the symbol Na.",
+        "label": 1
+    },
+    {
+        "statement": "Tellurium is used in thermoelectric devices and solar cells.",
+        "label": 1
+    },
+    {
+        "statement": "Aluminum has the atomic number of 36.",
+        "label": 0
+    },
+    {
+        "statement": "Ytterbium is used in lasers, atomic clocks, and some solar cells.",
+        "label": 1
+    },
+    {
+        "statement": "Iridium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Astatine is in the Actinide group.",
+        "label": 0
+    },
+    {
+        "statement": "Rhenium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Lanthanum is used to galvanize steel and is an essential trace element in living organisms.",
+        "label": 0
+    },
+    {
+        "statement": "Radium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Samarium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Thulium has the atomic number of 64.",
+        "label": 0
+    },
+    {
+        "statement": "Fluorine appears in its standard state as Solid.",
+        "label": 0
+    },
+    {
+        "statement": "Ytterbium has the symbol Yb.",
+        "label": 1
+    },
+    {
+        "statement": "Barium has the atomic number of 56.",
+        "label": 1
+    },
+    {
+        "statement": "Germanium has the atomic number of 32.",
+        "label": 1
+    },
+    {
+        "statement": "Rhenium has the symbol Re.",
+        "label": 1
+    },
+    {
+        "statement": "Silicon is the second most abundant element in Earth's crust and is used in computer chips.",
+        "label": 1
+    },
+    {
+        "statement": "Zinc is in the Transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Ytterbium has the atomic number of 82.",
+        "label": 0
+    },
+    {
+        "statement": "Helium appears in its standard state as Gas.",
+        "label": 1
+    },
+    {
+        "statement": "Palladium has the atomic number of 45.",
+        "label": 0
+    },
+    {
+        "statement": "Argon has the symbol Co.",
+        "label": 0
+    },
+    {
+        "statement": "Chromium has the atomic number of 24.",
+        "label": 1
+    },
+    {
+        "statement": "Boron is used in lasers and magnetic refrigeration.",
+        "label": 0
+    },
+    {
+        "statement": "Erbium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Cobalt has the atomic number of 27.",
+        "label": 1
+    },
+    {
+        "statement": "Zinc has the symbol Zn.",
+        "label": 1
+    },
+    {
+        "statement": "Chromium is used in strong magnets and as a yellow pigment.",
+        "label": 0
+    },
+    {
+        "statement": "Silicon appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Vanadium has the atomic number of 66.",
+        "label": 0
+    },
+    {
+        "statement": "Uranium has the symbol U.",
+        "label": 1
+    },
+    {
+        "statement": "Ruthenium has the symbol Ru.",
+        "label": 1
+    },
+    {
+        "statement": "Molybdenum appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Actinium has the atomic number of 62.",
+        "label": 0
+    },
+    {
+        "statement": "Barium is used in medical imaging and fireworks.",
+        "label": 1
+    },
+    {
+        "statement": "Europium is in the Lanthanide group.",
+        "label": 1
+    },
+    {
+        "statement": "Scandium is in the Transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Magnesium has the symbol Br.",
+        "label": 0
+    },
+    {
+        "statement": "Iodine has the symbol I.",
+        "label": 1
+    },
+    {
+        "statement": "Rubidium is a highly reactive alkali metal used in atomic clocks.",
+        "label": 1
+    },
+    {
+        "statement": "Sulfur appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Xenon is in the Nonmetal group.",
+        "label": 0
+    },
+    {
+        "statement": "Gallium is in the Post-transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Francium is the lightest metal and is used in rechargeable batteries.",
+        "label": 0
+    },
+    {
+        "statement": "Rhodium has the atomic number of 45.",
+        "label": 1
+    },
+    {
+        "statement": "Copper appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Zirconium has the symbol Eu.",
+        "label": 0
+    },
+    {
+        "statement": "Platinum has the atomic number of 90.",
+        "label": 0
+    },
+    {
+        "statement": "Rhodium has the symbol Sn.",
+        "label": 0
+    },
+    {
+        "statement": "Protactinium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Bismuth has the symbol La.",
+        "label": 0
+    },
+    {
+        "statement": "Thallium is in the Transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Helium is used to fill balloons and airships because it is lighter than air.",
+        "label": 1
+    },
+    {
+        "statement": "Platinum is in the Halogen group.",
+        "label": 0
+    },
+    {
+        "statement": "Lithium is essential for thyroid function and is used as a disinfectant.",
+        "label": 0
+    },
+    {
+        "statement": "Nitrogen has the symbol La.",
+        "label": 0
+    },
+    {
+        "statement": "Gallium is in the Transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Calcium is essential for bone formation and muscle function.",
+        "label": 1
+    },
+    {
+        "statement": "Zinc is an essential trace element in living organisms and is used to strengthen steel.",
+        "label": 0
+    },
+    {
+        "statement": "Europium is used in phosphors for lighting and displays.",
+        "label": 1
+    },
+    {
+        "statement": "Helium is in the Transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Antimony is in the Noble gas group.",
+        "label": 0
+    },
+    {
+        "statement": "Manganese appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Hafnium is in the Alkaline earth metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Nickel has the atomic number of 28.",
+        "label": 1
+    },
+    {
+        "statement": "Oxygen appears in its standard state as Solid.",
+        "label": 0
+    },
+    {
+        "statement": "Manganese has the atomic number of 1.",
+        "label": 0
+    },
+    {
+        "statement": "Copper appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Erbium is in the Lanthanide group.",
+        "label": 1
+    },
+    {
+        "statement": "Nitrogen has the atomic number of 7.",
+        "label": 1
+    },
+    {
+        "statement": "Radium is in the Alkaline earth metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Fluorine has the atomic number of 29.",
+        "label": 0
+    },
+    {
+        "statement": "Uranium is in the Actinide group.",
+        "label": 1
+    },
+    {
+        "statement": "Scandium is a rare earth metal used in high-performance alloys.",
+        "label": 1
+    },
+    {
+        "statement": "Thallium has the atomic number of 81.",
+        "label": 1
+    },
+    {
+        "statement": "Arsenic is in the Nonmetal group.",
+        "label": 0
+    },
+    {
+        "statement": "Germanium is a noble gas used as an inert atmosphere in welding and other applications.",
+        "label": 0
+    },
+    {
+        "statement": "Ruthenium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Selenium is in the Alkali metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Selenium has the atomic number of 34.",
+        "label": 1
+    },
+    {
+        "statement": "Iridium is used in catalytic converters and hydrogen storage.",
+        "label": 0
+    },
+    {
+        "statement": "Oxygen has the symbol Ne.",
+        "label": 0
+    },
+    {
+        "statement": "Bismuth is in the Post-transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Lutetium has the symbol Be.",
+        "label": 0
+    },
+    {
+        "statement": "Europium is in the Transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Holmium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Technetium is a noble gas used as an inert atmosphere in welding and other applications.",
+        "label": 0
+    },
+    {
+        "statement": "Praseodymium has the symbol Sc.",
+        "label": 0
+    },
+    {
+        "statement": "Neodymium is used in powerful permanent magnets and lasers.",
+        "label": 1
+    },
+    {
+        "statement": "Tantalum appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Vanadium has the atomic number of 23.",
+        "label": 1
+    },
+    {
+        "statement": "Dysprosium has the atomic number of 66.",
+        "label": 1
+    },
+    {
+        "statement": "Neptunium is used in green phosphors and lasers.",
+        "label": 0
+    },
+    {
+        "statement": "Zirconium has the atomic number of 40.",
+        "label": 1
+    },
+    {
+        "statement": "Promethium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Germanium has the symbol Ge.",
+        "label": 1
+    },
+    {
+        "statement": "Lithium has the atomic number of 56.",
+        "label": 0
+    },
+    {
+        "statement": "Terbium has the symbol Tb.",
+        "label": 1
+    },
+    {
+        "statement": "Argon has the symbol Ar.",
+        "label": 1
+    },
+    {
+        "statement": "Ytterbium has the atomic number of 70.",
+        "label": 1
+    },
+    {
+        "statement": "Platinum appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Scandium has the symbol Rn.",
+        "label": 0
+    },
+    {
+        "statement": "Indium has the atomic number of 60.",
+        "label": 0
+    },
+    {
+        "statement": "Praseodymium is used in strong magnets and as a yellow pigment.",
+        "label": 1
+    },
+    {
+        "statement": "Polonium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Rhodium has the atomic number of 48.",
+        "label": 0
+    },
+    {
+        "statement": "Sulfur is in the Alkaline earth metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Nitrogen is in the Nonmetal group.",
+        "label": 1
+    },
+    {
+        "statement": "Francium is a highly radioactive alkali metal with no practical applications due to its instability.",
+        "label": 1
+    },
+    {
+        "statement": "Erbium has the symbol Er.",
+        "label": 1
+    },
+    {
+        "statement": "Cadmium has the atomic number of 37.",
+        "label": 0
+    },
+    {
+        "statement": "Osmium is used in strong magnets and as a yellow pigment.",
+        "label": 0
+    },
+    {
+        "statement": "Boron is in the Metalloid group.",
+        "label": 1
+    },
+    {
+        "statement": "Chromium has the symbol Cr.",
+        "label": 1
+    },
+    {
+        "statement": "Gold appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Lead has the atomic number of 31.",
+        "label": 0
+    },
+    {
+        "statement": "Vanadium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Lithium appears in its standard state as Liquid.",
+        "label": 0
+    },
+    {
+        "statement": "Silicon appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Astatine has the symbol At.",
+        "label": 1
+    },
+    {
+        "statement": "Nickel has the symbol Ni.",
+        "label": 1
+    },
+    {
+        "statement": "Helium appears in its standard state as Solid.",
+        "label": 0
+    },
+    {
+        "statement": "Magnesium is a lightweight metal used in alloys and flares.",
+        "label": 1
+    },
+    {
+        "statement": "Protactinium has the atomic number of 66.",
+        "label": 0
+    },
+    {
+        "statement": "Cadmium is in the Transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Praseodymium has the symbol Pr.",
+        "label": 1
+    },
+    {
+        "statement": "Gadolinium is used in flame retardants and as a fumigant.",
+        "label": 0
+    },
+    {
+        "statement": "Erbium is in the Post-transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Lanthanum is used in camera lenses and some batteries.",
+        "label": 1
+    },
+    {
+        "statement": "Europium is a semiconductor used in transistors and photovoltaic cells.",
+        "label": 0
+    },
+    {
+        "statement": "Yttrium has the symbol Y.",
+        "label": 1
+    },
+    {
+        "statement": "Zirconium is a rare, dense metal used in spark plugs, fountain pen nibs, and crucibles for high-temperature applications..",
+        "label": 0
+    },
+    {
+        "statement": "Tellurium has the symbol Te.",
+        "label": 1
+    },
+    {
+        "statement": "Helium has the atomic number of 62.",
+        "label": 0
+    },
+    {
+        "statement": "Vanadium is used in the production of sulfuric acid and rubber vulcanization.",
+        "label": 0
+    },
+    {
+        "statement": "Tungsten is in the Actinide group.",
+        "label": 0
+    },
+    {
+        "statement": "Niobium has the symbol Rh.",
+        "label": 0
+    },
+    {
+        "statement": "Molybdenum has the atomic number of 43.",
+        "label": 0
+    },
+    {
+        "statement": "Neodymium has the symbol Ac.",
+        "label": 0
+    },
+    {
+        "statement": "Magnesium has the atomic number of 26.",
+        "label": 0
+    },
+    {
+        "statement": "Fluorine has the symbol F.",
+        "label": 1
+    },
+    {
+        "statement": "Thallium is an essential trace element used in photovoltaic cells and glass production.",
+        "label": 0
+    },
+    {
+        "statement": "Palladium is used in catalytic converters and hydrogen storage.",
+        "label": 1
+    },
+    {
+        "statement": "Vanadium has the symbol V.",
+        "label": 1
+    },
+    {
+        "statement": "Iridium is in the Alkaline earth metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Erbium reacts violently with water and is essential for nerve function.",
+        "label": 0
+    },
+    {
+        "statement": "Chlorine is essential for muscle and nerve function and is highly reactive with water.",
+        "label": 0
+    },
+    {
+        "statement": "Antimony is used in flame retardants and some semiconductors.",
+        "label": 1
+    },
+    {
+        "statement": "Thallium has the symbol Sr.",
+        "label": 0
+    },
+    {
+        "statement": "Zinc has the atomic number of 30.",
+        "label": 1
+    },
+    {
+        "statement": "Potassium has the atomic number of 34.",
+        "label": 0
+    },
+    {
+        "statement": "Osmium is in the Transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Sodium has the atomic number of 24.",
+        "label": 0
+    },
+    {
+        "statement": "Samarium has the symbol Pr.",
+        "label": 0
+    },
+    {
+        "statement": "Silicon is used in high-temperature alloys and catalytic converters.",
+        "label": 0
+    },
+    {
+        "statement": "Beryllium has the atomic number of 4.",
+        "label": 1
+    },
+    {
+        "statement": "Ruthenium is a highly conductive and reflective metal used in jewelry and electronics.",
+        "label": 0
+    },
+    {
+        "statement": "Nickel appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Hafnium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Hafnium is used in nuclear control rods and high-temperature alloys.",
+        "label": 1
+    },
+    {
+        "statement": "Actinium is in the Actinide group.",
+        "label": 1
+    },
+    {
+        "statement": "Radium is in the Nonmetal group.",
+        "label": 0
+    },
+    {
+        "statement": "Boron appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Beryllium has the atomic number of 36.",
+        "label": 0
+    },
+    {
+        "statement": "Uranium has the atomic number of 82.",
+        "label": 0
+    },
+    {
+        "statement": "Terbium has the atomic number of 89.",
+        "label": 0
+    },
+    {
+        "statement": "Neptunium is a radioactive actinide mainly used in research and plutonium production.",
+        "label": 1
+    },
+    {
+        "statement": "Oxygen is a noble gas used in lighting and medical imaging.",
+        "label": 0
+    },
+    {
+        "statement": "Iodine has the atomic number of 53.",
+        "label": 1
+    },
+    {
+        "statement": "Sulfur appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Hydrogen has the symbol Pt.",
+        "label": 0
+    },
+    {
+        "statement": "Neptunium has the symbol Na.",
+        "label": 0
+    },
+    {
+        "statement": "Platinum has the symbol La.",
+        "label": 0
+    },
+    {
+        "statement": "Indium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Cobalt has the atomic number of 72.",
+        "label": 0
+    },
+    {
+        "statement": "Tin has the symbol Be.",
+        "label": 0
+    },
+    {
+        "statement": "Chlorine has the atomic number of 44.",
+        "label": 0
+    },
+    {
+        "statement": "Thorium has the symbol Th.",
+        "label": 1
+    },
+    {
+        "statement": "Dysprosium is in the Transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Lithium is in the Noble gas group.",
+        "label": 0
+    },
+    {
+        "statement": "Promethium is in the Halogen group.",
+        "label": 0
+    },
+    {
+        "statement": "Holmium is necessary for aerobic respiration in living organisms.",
+        "label": 0
+    },
+    {
+        "statement": "Lead is a highly radioactive element used in some heaters for space probes.",
+        "label": 0
+    },
+    {
+        "statement": "Sodium is in the Alkali metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Hydrogen appears in its standard state as Solid.",
+        "label": 0
+    },
+    {
+        "statement": "Samarium has the symbol Sm.",
+        "label": 1
+    },
+    {
+        "statement": "Mercury is in the Transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Hafnium has the atomic number of 72.",
+        "label": 1
+    },
+    {
+        "statement": "Praseodymium has the atomic number of 36.",
+        "label": 0
+    },
+    {
+        "statement": "Hydrogen has the symbol H.",
+        "label": 1
+    },
+    {
+        "statement": "Gold has the atomic number of 89.",
+        "label": 0
+    },
+    {
+        "statement": "Molybdenum appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Cadmium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Carbon is the most reactive and electronegative element.",
+        "label": 0
+    },
+    {
+        "statement": "Technetium has the atomic number of 6.",
+        "label": 0
+    },
+    {
+        "statement": "Europium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Silicon has the atomic number of 14.",
+        "label": 1
+    },
+    {
+        "statement": "Silicon has the symbol Si.",
+        "label": 1
+    },
+    {
+        "statement": "Strontium is in the Lanthanide group.",
+        "label": 0
+    },
+    {
+        "statement": "Barium has the symbol Ba.",
+        "label": 1
+    },
+    {
+        "statement": "Lanthanum has the symbol La.",
+        "label": 1
+    },
+    {
+        "statement": "Iodine is in the Transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Lead appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Silicon is in the Halogen group.",
+        "label": 0
+    },
+    {
+        "statement": "Neptunium is in the Transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Rhodium is in the Transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Calcium has the atomic number of 16.",
+        "label": 0
+    },
+    {
+        "statement": "Rhenium is in the Transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Cerium has the symbol Ce.",
+        "label": 1
+    },
+    {
+        "statement": "Cerium has the atomic number of 75.",
+        "label": 0
+    },
+    {
+        "statement": "Fluorine is the most reactive and electronegative element.",
+        "label": 1
+    },
+    {
+        "statement": "Scandium is in the Noble gas group.",
+        "label": 0
+    },
+    {
+        "statement": "Neptunium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Lanthanum is in the Lanthanide group.",
+        "label": 1
+    },
+    {
+        "statement": "Silicon has the symbol Rn.",
+        "label": 0
+    },
+    {
+        "statement": "Thulium is used in lasers and medical imaging.",
+        "label": 1
+    },
+    {
+        "statement": "Lanthanum has the symbol Po.",
+        "label": 0
+    },
+    {
+        "statement": "Cerium is in the Lanthanide group.",
+        "label": 1
+    },
+    {
+        "statement": "Ruthenium is in the Lanthanide group.",
+        "label": 0
+    },
+    {
+        "statement": "Rhodium is a noble gas used as an inert atmosphere in welding and other applications.",
+        "label": 0
+    },
+    {
+        "statement": "Radium has the atomic number of 88.",
+        "label": 1
+    },
+    {
+        "statement": "Osmium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Lutetium is used to galvanize steel and is an essential trace element in living organisms.",
+        "label": 0
+    },
+    {
+        "statement": "Vanadium is in the Lanthanide group.",
+        "label": 0
+    },
+    {
+        "statement": "Gallium has the atomic number of 31.",
+        "label": 1
+    },
+    {
+        "statement": "Molybdenum has the symbol Mo.",
+        "label": 1
+    },
+    {
+        "statement": "Samarium is in the Transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Arsenic has the atomic number of 33.",
+        "label": 1
+    },
+    {
+        "statement": "Iron is in the Transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Zinc appears in its standard state as Liquid.",
+        "label": 0
+    },
+    {
+        "statement": "Samarium has the atomic number of 62.",
+        "label": 1
+    },
+    {
+        "statement": "Niobium is in the Transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Gadolinium has the symbol Hg.",
+        "label": 0
+    },
+    {
+        "statement": "Selenium is an essential trace element used in photovoltaic cells and glass production.",
+        "label": 1
+    },
+    {
+        "statement": "Magnesium is in the Transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Zirconium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Astatine is in the Halogen group.",
+        "label": 1
+    },
+    {
+        "statement": "Sulfur has the atomic number of 59.",
+        "label": 0
+    },
+    {
+        "statement": "Hafnium has the symbol Nd.",
+        "label": 0
+    },
+    {
+        "statement": "Praseodymium is in the Lanthanide group.",
+        "label": 1
+    },
+    {
+        "statement": "Arsenic has the symbol As.",
+        "label": 1
+    },
+    {
+        "statement": "Aluminum has the symbol Al.",
+        "label": 1
+    },
+    {
+        "statement": "Gadolinium is used in MRI contrast agents and X-ray tubes.",
+        "label": 1
+    },
+    {
+        "statement": "Copper has the symbol Cu.",
+        "label": 1
+    },
+    {
+        "statement": "Ytterbium is in the Lanthanide group.",
+        "label": 1
+    },
+    {
+        "statement": "Palladium is in the Transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Promethium has the atomic number of 61.",
+        "label": 1
+    },
+    {
+        "statement": "Neodymium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Barium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Protactinium has the atomic number of 91.",
+        "label": 1
+    },
+    {
+        "statement": "Argon is a noble gas used as an inert atmosphere in welding and other applications.",
+        "label": 1
+    },
+    {
+        "statement": "Sodium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Uranium forms more compounds than any other element.",
+        "label": 0
+    },
+    {
+        "statement": "Iron appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Antimony has the atomic number of 51.",
+        "label": 1
+    },
+    {
+        "statement": "Cobalt is in the Transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Yttrium has the atomic number of 39.",
+        "label": 1
+    },
+    {
+        "statement": "Bismuth is in the Alkali metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Samarium is in the Lanthanide group.",
+        "label": 1
+    },
+    {
+        "statement": "Lutetium is in the Lanthanide group.",
+        "label": 1
+    },
+    {
+        "statement": "Osmium is the densest naturally occurring element and is used in some alloys.",
+        "label": 1
+    },
+    {
+        "statement": "Tin has the atomic number of 50.",
+        "label": 1
+    },
+    {
+        "statement": "Promethium has the symbol Dy.",
+        "label": 0
+    },
+    {
+        "statement": "Europium has the atomic number of 63.",
+        "label": 1
+    },
+    {
+        "statement": "Molybdenum has the atomic number of 42.",
+        "label": 1
+    },
+    {
+        "statement": "Ytterbium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Niobium has the atomic number of 43.",
+        "label": 0
+    },
+    {
+        "statement": "Holmium has the symbol Tb.",
+        "label": 0
+    },
+    {
+        "statement": "Nickel is in the Lanthanide group.",
+        "label": 0
+    },
+    {
+        "statement": "Iron has the symbol Fe.",
+        "label": 1
+    },
+    {
+        "statement": "Francium is in the Alkali metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Technetium has the symbol Tc.",
+        "label": 1
+    },
+    {
+        "statement": "Antimony appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Argon has the atomic number of 18.",
+        "label": 1
+    },
+    {
+        "statement": "Terbium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Technetium has the symbol Ag.",
+        "label": 0
+    },
+    {
+        "statement": "Lutetium has the atomic number of 71.",
+        "label": 1
+    },
+    {
+        "statement": "Cobalt has the symbol Lu.",
+        "label": 0
+    },
+    {
+        "statement": "Iron appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Polonium is a highly radioactive element used in some heaters for space probes.",
+        "label": 1
+    },
+    {
+        "statement": "Sulfur has the atomic number of 16.",
+        "label": 1
+    },
+    {
+        "statement": "Thulium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Aluminum is in the Post-transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Promethium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Helium has the symbol Xe.",
+        "label": 0
+    },
+    {
+        "statement": "Thorium appears in its standard state as Liquid.",
+        "label": 0
+    },
+    {
+        "statement": "Manganese is an essential trace element in living organisms and is used to strengthen steel.",
+        "label": 1
+    },
+    {
+        "statement": "Yttrium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Carbon is in the Nonmetal group.",
+        "label": 1
+    },
+    {
+        "statement": "Rhodium is in the Lanthanide group.",
+        "label": 0
+    },
+    {
+        "statement": "Nickel has the symbol Rb.",
+        "label": 0
+    },
+    {
+        "statement": "Tungsten has the highest melting point of all elements and is used in lightbulb filaments.",
+        "label": 1
+    },
+    {
+        "statement": "Carbon appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Niobium is used in superconducting materials and steel alloys.",
+        "label": 1
+    },
+    {
+        "statement": "Oxygen is in the Nonmetal group.",
+        "label": 1
+    },
+    {
+        "statement": "Uranium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Chromium is in the Actinide group.",
+        "label": 0
+    },
+    {
+        "statement": "Antimony is used in camera lenses and some batteries.",
+        "label": 0
+    },
+    {
+        "statement": "Neptunium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Mercury appears in its standard state as Liquid.",
+        "label": 1
+    },
+    {
+        "statement": "Zinc is in the Nonmetal group.",
+        "label": 0
+    },
+    {
+        "statement": "Krypton has the symbol Nb.",
+        "label": 0
+    },
+    {
+        "statement": "Boron has the symbol Pm.",
+        "label": 0
+    },
+    {
+        "statement": "Lutetium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Ruthenium has the atomic number of 62.",
+        "label": 0
+    },
+    {
+        "statement": "Osmium has the atomic number of 76.",
+        "label": 1
+    },
+    {
+        "statement": "Bismuth has the atomic number of 83.",
+        "label": 1
+    },
+    {
+        "statement": "Phosphorus is essential for life and is a component of ATP, DNA, and RNA.",
+        "label": 1
+    },
+    {
+        "statement": "Lead is in the Noble gas group.",
+        "label": 0
+    },
+    {
+        "statement": "Phosphorus appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Copper has the symbol Ta.",
+        "label": 0
+    },
+    {
+        "statement": "Thorium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Thallium has the atomic number of 82.",
+        "label": 0
+    },
+    {
+        "statement": "Niobium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Titanium has the symbol B.",
+        "label": 0
+    },
+    {
+        "statement": "Cesium is in the Alkali metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Rubidium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Krypton appears in its standard state as Solid.",
+        "label": 0
+    },
+    {
+        "statement": "Yttrium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Cerium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Germanium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Protactinium is in the Actinide group.",
+        "label": 1
+    },
+    {
+        "statement": "Cobalt is used to galvanize steel and is an essential trace element in living organisms.",
+        "label": 0
+    },
+    {
+        "statement": "Radon is essential for bone formation and muscle function.",
+        "label": 0
+    },
+    {
+        "statement": "Yttrium is a noble gas used in some lighting applications and window insulation.",
+        "label": 0
+    },
+    {
+        "statement": "Thulium has the symbol Ne.",
+        "label": 0
+    },
+    {
+        "statement": "Hydrogen appears in its standard state as Gas.",
+        "label": 1
+    },
+    {
+        "statement": "Osmium has the symbol Rn.",
+        "label": 0
+    },
+    {
+        "statement": "Neon appears in its standard state as Solid.",
+        "label": 0
+    },
+    {
+        "statement": "Neodymium has the symbol Nd.",
+        "label": 1
+    },
+    {
+        "statement": "Chlorine is in the Halogen group.",
+        "label": 1
+    },
+    {
+        "statement": "Strontium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Manganese is in the Nonmetal group.",
+        "label": 0
+    },
+    {
+        "statement": "Uranium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Cobalt is in the Post-transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Iridium has the symbol Fe.",
+        "label": 0
+    },
+    {
+        "statement": "Tungsten has the atomic number of 54.",
+        "label": 0
+    },
+    {
+        "statement": "Molybdenum is in the Post-transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Cesium has the symbol Tc.",
+        "label": 0
+    },
+    {
+        "statement": "Potassium is an excellent conductor of electricity and is used in wiring and pipes.",
+        "label": 0
+    },
+    {
+        "statement": "Radon appears in its standard state as Gas.",
+        "label": 1
+    },
+    {
+        "statement": "Silver is a highly conductive and reflective metal used in jewelry and electronics.",
+        "label": 1
+    },
+    {
+        "statement": "Krypton is in the Alkaline earth metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Scandium is a radioactive noble gas produced during the decay of uranium and thorium; it can accumulate in buildings and is a health hazard.",
+        "label": 0
+    },
+    {
+        "statement": "Mercury appears in its standard state as Solid.",
+        "label": 0
+    },
+    {
+        "statement": "Tin is used in fireworks to produce a bright red color and in certain types of glass, such as CRT displays.",
+        "label": 0
+    },
+    {
+        "statement": "Neptunium is in the Actinide group.",
+        "label": 1
+    },
+    {
+        "statement": "Osmium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Polonium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Rubidium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Xenon has the atomic number of 37.",
+        "label": 0
+    },
+    {
+        "statement": "Mercury is a highly conductive and reflective metal used in jewelry and electronics.",
+        "label": 0
+    },
+    {
+        "statement": "Tin is in the Post-transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Promethium is in the Lanthanide group.",
+        "label": 1
+    },
+    {
+        "statement": "Chromium is in the Transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Krypton is a heavy, toxic metal used in batteries, radiation shielding, and some solders.",
+        "label": 0
+    },
+    {
+        "statement": "Yttrium is in the Transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Arsenic is used in lasers and magnetic refrigeration.",
+        "label": 0
+    },
+    {
+        "statement": "Silver appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Neon is in the Noble gas group.",
+        "label": 1
+    },
+    {
+        "statement": "Scandium has the atomic number of 53.",
+        "label": 0
+    },
+    {
+        "statement": "Neon is used in neon signs and produces a distinct reddish-orange glow.",
+        "label": 1
+    },
+    {
+        "statement": "Dysprosium has the symbol Dy.",
+        "label": 1
+    },
+    {
+        "statement": "Hydrogen is used in catalytic converters and self-cleaning ovens.",
+        "label": 0
+    },
+    {
+        "statement": "Europium has the symbol Ga.",
+        "label": 0
+    },
+    {
+        "statement": "Gadolinium has the symbol Gd.",
+        "label": 1
+    },
+    {
+        "statement": "Ruthenium has the atomic number of 44.",
+        "label": 1
+    },
+    {
+        "statement": "Tungsten has the atomic number of 74.",
+        "label": 1
+    },
+    {
+        "statement": "Iron is in the Lanthanide group.",
+        "label": 0
+    },
+    {
+        "statement": "Gadolinium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Technetium has the atomic number of 43.",
+        "label": 1
+    },
+    {
+        "statement": "Aluminum is in the Lanthanide group.",
+        "label": 0
+    },
+    {
+        "statement": "Protactinium is essential for bone formation and muscle function.",
+        "label": 0
+    },
+    {
+        "statement": "Helium has the symbol He.",
+        "label": 1
+    },
+    {
+        "statement": "Tantalum is used in green phosphors and lasers.",
+        "label": 0
+    },
+    {
+        "statement": "Samarium is used in lasers, atomic clocks, and some solar cells.",
+        "label": 0
+    },
+    {
+        "statement": "Radon has the symbol Rn.",
+        "label": 1
+    },
+    {
+        "statement": "Thorium is a radioactive element used as a nuclear fuel in some reactors.",
+        "label": 1
+    },
+    {
+        "statement": "Carbon has the symbol In.",
+        "label": 0
+    },
+    {
+        "statement": "Calcium is in the Alkaline earth metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Phosphorus has the atomic number of 37.",
+        "label": 0
+    },
+    {
+        "statement": "Germanium has the symbol Br.",
+        "label": 0
+    },
+    {
+        "statement": "Tellurium has the symbol O.",
+        "label": 0
+    },
+    {
+        "statement": "Lead has the symbol Na.",
+        "label": 0
+    },
+    {
+        "statement": "Polonium has the symbol Po.",
+        "label": 1
+    },
+    {
+        "statement": "Platinum has the symbol Pt.",
+        "label": 1
+    },
+    {
+        "statement": "Tin appears in its standard state as Liquid.",
+        "label": 0
+    },
+    {
+        "statement": "Iodine is a noble gas used as an inert atmosphere in welding and other applications.",
+        "label": 0
+    },
+    {
+        "statement": "Chromium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Sulfur has the symbol Cs.",
+        "label": 0
+    },
+    {
+        "statement": "Cesium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Radium has the symbol Sm.",
+        "label": 0
+    },
+    {
+        "statement": "Titanium is in the Transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Manganese has the atomic number of 25.",
+        "label": 1
+    },
+    {
+        "statement": "Bismuth appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Neodymium has the atomic number of 93.",
+        "label": 0
+    },
+    {
+        "statement": "Protactinium is in the Post-transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Barium is in the Lanthanide group.",
+        "label": 0
+    },
+    {
+        "statement": "Antimony has the symbol Sb.",
+        "label": 1
+    },
+    {
+        "statement": "Protactinium has the symbol Ir.",
+        "label": 0
+    },
+    {
+        "statement": "Astatine has the symbol Mg.",
+        "label": 0
+    },
+    {
+        "statement": "Thulium is a strong, lightweight metal used in aerospace and medical implants.",
+        "label": 0
+    },
+    {
+        "statement": "Potassium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Bromine is an essential component of proteins and DNA.",
+        "label": 0
+    },
+    {
+        "statement": "Iodine is essential for thyroid function and is used as a disinfectant.",
+        "label": 1
+    },
+    {
+        "statement": "Thulium is in the Transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Technetium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Tin has the symbol Sn.",
+        "label": 1
+    },
+    {
+        "statement": "Indium has the atomic number of 49.",
+        "label": 1
+    },
+    {
+        "statement": "Calcium is a toxic element used in pesticides and some alloys.",
+        "label": 0
+    },
+    {
+        "statement": "Magnesium has the atomic number of 12.",
+        "label": 1
+    },
+    {
+        "statement": "Silver appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Iodine has the symbol Nb.",
+        "label": 0
+    },
+    {
+        "statement": "Titanium is in the Nonmetal group.",
+        "label": 0
+    },
+    {
+        "statement": "Osmium has the atomic number of 82.",
+        "label": 0
+    },
+    {
+        "statement": "Rhodium is used in catalytic converters and as a plating for jewelry.",
+        "label": 1
+    },
+    {
+        "statement": "Thallium is in the Post-transition metal group.",
+        "label": 1
+    },
+    {
+        "statement": "Rubidium has the atomic number of 86.",
+        "label": 0
+    },
+    {
+        "statement": "Tellurium is in the Metalloid group.",
+        "label": 1
+    },
+    {
+        "statement": "Gadolinium is in the Transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Terbium has the symbol Ta.",
+        "label": 0
+    },
+    {
+        "statement": "Xenon has the atomic number of 54.",
+        "label": 1
+    },
+    {
+        "statement": "Terbium is used in touchscreens and some semiconductors.",
+        "label": 0
+    },
+    {
+        "statement": "Tellurium has the atomic number of 39.",
+        "label": 0
+    },
+    {
+        "statement": "Nitrogen is in the Post-transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Tantalum has the symbol Cs.",
+        "label": 0
+    },
+    {
+        "statement": "Rhenium is used in high-temperature alloys and catalytic converters.",
+        "label": 1
+    },
+    {
+        "statement": "Thorium is in the Transition metal group.",
+        "label": 0
+    },
+    {
+        "statement": "Silicon has the atomic number of 59.",
+        "label": 0
+    },
+    {
+        "statement": "Calcium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Cesium is a noble gas used in some lighting applications and window insulation.",
+        "label": 0
+    },
+    {
+        "statement": "Manganese has the symbol Mn.",
+        "label": 1
+    },
+    {
+        "statement": "Cesium has the atomic number of 73.",
+        "label": 0
+    },
+    {
+        "statement": "Radium has the atomic number of 89.",
+        "label": 0
+    },
+    {
+        "statement": "Phosphorus has the atomic number of 15.",
+        "label": 1
+    },
+    {
+        "statement": "Ytterbium has the highest melting point of all elements and is used in lightbulb filaments.",
+        "label": 0
+    },
+    {
+        "statement": "Polonium is in the Metalloid group.",
+        "label": 1
+    },
+    {
+        "statement": "Radon has the symbol H.",
+        "label": 0
+    },
+    {
+        "statement": "Polonium is in the Actinide group.",
+        "label": 0
+    },
+    {
+        "statement": "Xenon appears in its standard state as Gas.",
+        "label": 1
+    },
+    {
+        "statement": "Erbium appears in its standard state as Solid.",
+        "label": 1
+    },
+    {
+        "statement": "Tin has the atomic number of 75.",
+        "label": 0
+    },
+    {
+        "statement": "Lead has the symbol Pb.",
+        "label": 1
+    },
+    {
+        "statement": "Bismuth is a low-toxicity heavy metal used in cosmetics, some alloys, and pharmaceuticals.",
+        "label": 1
+    },
+    {
+        "statement": "Hydrogen has the atomic number of 24.",
+        "label": 0
+    },
+    {
+        "statement": "Carbon forms more compounds than any other element.",
+        "label": 1
+    },
+    {
+        "statement": "Vanadium has the symbol Ba.",
+        "label": 0
+    },
+    {
+        "statement": "Radium has the symbol Ra.",
+        "label": 1
+    },
+    {
+        "statement": "Astatine is a highly radioactive halogen, and its isotopes are used in some cancer treatments.",
+        "label": 1
+    },
+    {
+        "statement": "Indium is used to strengthen steel and in some high-capacity batteries.",
+        "label": 0
+    },
+    {
+        "statement": "Nitrogen has the symbol N.",
+        "label": 1
+    },
+    {
+        "statement": "Selenium appears in its standard state as Gas.",
+        "label": 0
+    },
+    {
+        "statement": "Scandium has the symbol Sc.",
+        "label": 1
+    },
+    {
+        "statement": "Samarium is used in magnets, lasers, and neutron capture.",
+        "label": 1
+    },
+    {
+        "statement": "Polonium is used in powerful permanent magnets and lasers.",
+        "label": 0
+    }
+]

@@ -1,0 +1,658 @@
+[
+    {
+        "statement": "The salmon is not a fish.",
+        "label": 0
+    },
+    {
+        "statement": "The frog is not a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The lobster is not a crustacean.",
+        "label": 0
+    },
+    {
+        "statement": "The raccoon is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The horse is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The giant anteater is not a fish.",
+        "label": 1
+    },
+    {
+        "statement": "The aardvark is not a fish.",
+        "label": 1
+    },
+    {
+        "statement": "The hummingbird is not a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The armadillo is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The bee is not a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The gorilla is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The cheetah is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The zebra is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The tapir is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The rabbit is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The platypus is not a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The moose is not a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The kangaroo is not a crustacean.",
+        "label": 1
+    },
+    {
+        "statement": "The camel is not a amphibian.",
+        "label": 1
+    },
+    {
+        "statement": "The lion is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The deer is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The penguin is not a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The seahorse is not a fish.",
+        "label": 0
+    },
+    {
+        "statement": "The chicken is not a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The mongoose is not a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The cassowary is not a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The goat is not a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The tuna is not a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The swan is not a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The peacock is not a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The walrus is not a mollusk.",
+        "label": 1
+    },
+    {
+        "statement": "The seagull is not a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The cow is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The flamingo is not a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The sparrow is not a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The panda is not a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The aardvark is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The slug is not a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The horse is not a mollusk.",
+        "label": 1
+    },
+    {
+        "statement": "The rabbit is not a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The tarantula is not a arachnid.",
+        "label": 0
+    },
+    {
+        "statement": "The rat is not a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The slug is not a mollusk.",
+        "label": 0
+    },
+    {
+        "statement": "The hippopotamus is not a reptile.",
+        "label": 1
+    },
+    {
+        "statement": "The porcupine is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The sea turtle is not a fish.",
+        "label": 1
+    },
+    {
+        "statement": "The manta ray is not a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The parrot is not a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The parrot is not a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The deer is not a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The cow is not a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The salmon is not a reptile.",
+        "label": 1
+    },
+    {
+        "statement": "The chimpanzee is not a fish.",
+        "label": 1
+    },
+    {
+        "statement": "The skunk is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The axolotl is not a reptile.",
+        "label": 1
+    },
+    {
+        "statement": "The frog is not a amphibian.",
+        "label": 0
+    },
+    {
+        "statement": "The camel is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The goldfish is not a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The penguin is not a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The armadillo is not a reptile.",
+        "label": 1
+    },
+    {
+        "statement": "The koala is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The lion is not a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The bat is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The eagle is not a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The beaver is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The gecko is not a reptile.",
+        "label": 0
+    },
+    {
+        "statement": "The dolphin is not a crustacean.",
+        "label": 1
+    },
+    {
+        "statement": "The elephant is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The crocodile is not a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The peacock is not a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The otter is not a fish.",
+        "label": 1
+    },
+    {
+        "statement": "The cheetah is not a insect.",
+        "label": 1
+    },
+    {
+        "statement": "The hyena is not a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The tarantula is not a insect.",
+        "label": 1
+    },
+    {
+        "statement": "The squirrel is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The chimpanzee is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The rat is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The hedgehog is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The cat is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The hyena is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The gecko is not a crustacean.",
+        "label": 1
+    },
+    {
+        "statement": "The ostrich is not a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The snake is not a reptile.",
+        "label": 0
+    },
+    {
+        "statement": "The shark is not a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The iguana is not a reptile.",
+        "label": 0
+    },
+    {
+        "statement": "The beaver is not a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The swan is not a reptile.",
+        "label": 1
+    },
+    {
+        "statement": "The panda is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The bee is not a insect.",
+        "label": 0
+    },
+    {
+        "statement": "The llama is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The flamingo is not a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The tuna is not a fish.",
+        "label": 0
+    },
+    {
+        "statement": "The wolverine is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The goldfish is not a fish.",
+        "label": 0
+    },
+    {
+        "statement": "The zebra is not a fish.",
+        "label": 1
+    },
+    {
+        "statement": "The polar bear is not a fish.",
+        "label": 1
+    },
+    {
+        "statement": "The whale is not a fish.",
+        "label": 1
+    },
+    {
+        "statement": "The seagull is not a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The bison is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The platypus is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The cat is not a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The mongoose is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The wolverine is not a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The squirrel is not a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The lobster is not a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The cassowary is not a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The hamster is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The tiger is not a amphibian.",
+        "label": 1
+    },
+    {
+        "statement": "The alpaca is not a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The koala is not a fish.",
+        "label": 1
+    },
+    {
+        "statement": "The jellyfish is not a cnidarian.",
+        "label": 0
+    },
+    {
+        "statement": "The shark is not a fish.",
+        "label": 0
+    },
+    {
+        "statement": "The gazelle is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The octopus is not a fish.",
+        "label": 1
+    },
+    {
+        "statement": "The dolphin is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The tortoise is not a reptile.",
+        "label": 0
+    },
+    {
+        "statement": "The leopard is not a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The bison is not a amphibian.",
+        "label": 1
+    },
+    {
+        "statement": "The dog is not a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The axolotl is not a amphibian.",
+        "label": 0
+    },
+    {
+        "statement": "The hamster is not a fish.",
+        "label": 1
+    },
+    {
+        "statement": "The tortoise is not a cnidarian.",
+        "label": 1
+    },
+    {
+        "statement": "The iguana is not a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The eagle is not a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The hippopotamus is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The jellyfish is not a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The chicken is not a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The raccoon is not a mollusk.",
+        "label": 1
+    },
+    {
+        "statement": "The octopus is not a mollusk.",
+        "label": 0
+    },
+    {
+        "statement": "The otter is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The walrus is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The hummingbird is not a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The giraffe is not a crustacean.",
+        "label": 1
+    },
+    {
+        "statement": "The narwhal is not a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The vulture is not a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The llama is not a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The dog is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The hedgehog is not a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The snake is not a fish.",
+        "label": 1
+    },
+    {
+        "statement": "The rhinoceros is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The moose is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The tiger is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The ostrich is not a fish.",
+        "label": 1
+    },
+    {
+        "statement": "The porcupine is not a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The leopard is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The gorilla is not a amphibian.",
+        "label": 1
+    },
+    {
+        "statement": "The whale is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The gazelle is not a mollusk.",
+        "label": 1
+    },
+    {
+        "statement": "The bat is not a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The pigeon is not a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The rhinoceros is not a reptile.",
+        "label": 1
+    },
+    {
+        "statement": "The seahorse is not a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The crocodile is not a reptile.",
+        "label": 0
+    },
+    {
+        "statement": "The narwhal is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The vulture is not a fish.",
+        "label": 1
+    },
+    {
+        "statement": "The giraffe is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The elephant is not a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The skunk is not a reptile.",
+        "label": 1
+    },
+    {
+        "statement": "The sparrow is not a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The goat is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The tapir is not a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The pigeon is not a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The kangaroo is not a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The alpaca is not a mammal.",
+        "label": 0
+    }
+]

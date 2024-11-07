@@ -1,0 +1,4802 @@
+[
+    {
+        "statement": "Thermo Fisher Scientific engages in the manufacture and sale of semiconductor products..",
+        "label": 0
+    },
+    {
+        "statement": "Anheuser-Busch InBev engages in the exploration, production, refining, marketing and distribution of oil..",
+        "label": 0
+    },
+    {
+        "statement": "Meta Platforms has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Japan Post Holdings operates in the industry of Drugs & Biotechnology.",
+        "label": 0
+    },
+    {
+        "statement": "Merck & Co. engages in the provision of health solutions through its prescription medicines, vaccines, biologic therapies, animal health, and consumer care products..",
+        "label": 1
+    },
+    {
+        "statement": "SK Hynix is an investment company that engages in the provision of value-added services and online advertising services..",
+        "label": 0
+    },
+    {
+        "statement": "Enel engages in global investment banking, securities and investment management, which provides financial services..",
+        "label": 0
+    },
+    {
+        "statement": "Bank of Montreal has headquarters in Canada.",
+        "label": 1
+    },
+    {
+        "statement": "Morgan Stanley has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Cathay Financial operates in the industry of Chemicals.",
+        "label": 0
+    },
+    {
+        "statement": "Generali Group has headquarters in Switzerland.",
+        "label": 0
+    },
+    {
+        "statement": "AT&T operates in the industry of Trading Companies.",
+        "label": 0
+    },
+    {
+        "statement": "Poly Developments & Holdings Group has headquarters in China.",
+        "label": 1
+    },
+    {
+        "statement": "Ping An Insurance (Group) Company of China engages in the provision of financial products and services..",
+        "label": 1
+    },
+    {
+        "statement": "Sumitomo Mitsui Financial has headquarters in China.",
+        "label": 0
+    },
+    {
+        "statement": "Manulife operates in the industry of insurance.",
+        "label": 1
+    },
+    {
+        "statement": "China Petroleum & Chemical engages in the exploration, development and production of crude oil and natural gas..",
+        "label": 1
+    },
+    {
+        "statement": "National Australia Bank operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "PepsiCo has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Lloyds Banking Group operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "Bayerische Motoren Werke (BMW) engages in the manufacture and sale of automobiles and motorcycles..",
+        "label": 1
+    },
+    {
+        "statement": "Telefonica engages in the provision of communication, information and entertainment solutions..",
+        "label": 1
+    },
+    {
+        "statement": "BASF engages in the provision of chemical products..",
+        "label": 1
+    },
+    {
+        "statement": "KDDI operates in the industry of Materials.",
+        "label": 0
+    },
+    {
+        "statement": "Lowe's engages in the provision of telecommunication services..",
+        "label": 0
+    },
+    {
+        "statement": "KDDI has headquarters in India.",
+        "label": 0
+    },
+    {
+        "statement": "Capital One engages in the provision of corporate and personal banking services, financial lease, assets custody services and conducting treasury business..",
+        "label": 0
+    },
+    {
+        "statement": "BHP Group engages in the exploration, development, production, and processing of iron ore, metallurgical coal, and copper..",
+        "label": 1
+    },
+    {
+        "statement": "Charter Communications operates in the industry of Oil & Gas Operations.",
+        "label": 0
+    },
+    {
+        "statement": "Novartis operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Manulife has headquarters in Canada.",
+        "label": 1
+    },
+    {
+        "statement": "Citigroup has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Dow operates in the industry of chemicals.",
+        "label": 1
+    },
+    {
+        "statement": "Telefonica has headquarters in Spain.",
+        "label": 1
+    },
+    {
+        "statement": "BHP Group has headquarters in Canada.",
+        "label": 0
+    },
+    {
+        "statement": "JPMorgan Chase has headquarters in China.",
+        "label": 0
+    },
+    {
+        "statement": "Sberbank has headquarters in Russia.",
+        "label": 1
+    },
+    {
+        "statement": "Honda Motor operates in the industry of consumer durables.",
+        "label": 1
+    },
+    {
+        "statement": "ConocoPhillips has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "CITIC engages in the following business activities: housing construction, real estate development and investment, infrastructure construction and investment, prospecting and design, and overseas industries.",
+        "label": 0
+    },
+    {
+        "statement": "RBC operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "China Citic Bank operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "Itau Unibanco Holding has headquarters in Brazil.",
+        "label": 1
+    },
+    {
+        "statement": "VINCI operates in the industry of construction.",
+        "label": 1
+    },
+    {
+        "statement": "Petrobras has headquarters in Brazil.",
+        "label": 1
+    },
+    {
+        "statement": "Morgan Stanley has headquarters in South Korea.",
+        "label": 0
+    },
+    {
+        "statement": "Caterpillar operates in the industry of Trading Companies.",
+        "label": 0
+    },
+    {
+        "statement": "Anglo American is a mining company, which engages in the exploration and mining of precious base metals and ferrous metals..",
+        "label": 1
+    },
+    {
+        "statement": "Equinor is an investment holding company that engages in the exploration, development, production and sale of crude oil, natural gas and other petroleum products through its subsidiaries..",
+        "label": 0
+    },
+    {
+        "statement": "ENGIE engages in the provision of banking and financial services..",
+        "label": 0
+    },
+    {
+        "statement": "Deutsche Post operates in the industry of Consumer Durables.",
+        "label": 0
+    },
+    {
+        "statement": "Brookfield Asset Management has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "Mercedes-Benz Group has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "Enel operates in the industry of electricity & gas.",
+        "label": 1
+    },
+    {
+        "statement": "Wells Fargo operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "Munich Reinsurance operates in the industry of insurance.",
+        "label": 1
+    },
+    {
+        "statement": "Capital One has headquarters in India.",
+        "label": 0
+    },
+    {
+        "statement": "Telefonica has headquarters in France.",
+        "label": 0
+    },
+    {
+        "statement": "Shanghai Pudong Development Bank operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Hon Hai Precision operates in the industry of technology hardware & equipment.",
+        "label": 1
+    },
+    {
+        "statement": "Morgan Stanley is a holding company, which engages in the provision of a portfolio of transportation, e-commerce, and business services..",
+        "label": 0
+    },
+    {
+        "statement": "Bank of China engages in the provision of banking and financial services..",
+        "label": 1
+    },
+    {
+        "statement": "America Movil engages in the provision of telecommunications services..",
+        "label": 1
+    },
+    {
+        "statement": "Alibaba Group operates in the industry of retailing.",
+        "label": 1
+    },
+    {
+        "statement": "Bank of Communications engages in the provision of banking and financial services..",
+        "label": 1
+    },
+    {
+        "statement": "Mitsubishi operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "China Life Insurance has headquarters in China.",
+        "label": 1
+    },
+    {
+        "statement": "Sberbank has headquarters in France.",
+        "label": 0
+    },
+    {
+        "statement": "Walmart has headquarters in Taiwan.",
+        "label": 0
+    },
+    {
+        "statement": "Walgreens has headquarters in China.",
+        "label": 0
+    },
+    {
+        "statement": "PepsiCo operates in the industry of food, drink & tobacco.",
+        "label": 1
+    },
+    {
+        "statement": "Agricultural Bank of China operates in the industry of Food, Drink & Tobacco.",
+        "label": 0
+    },
+    {
+        "statement": "Walmart operates in the industry of retailing.",
+        "label": 1
+    },
+    {
+        "statement": "HDFC Bank operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Johnson & Johnson has headquarters in Hong Kong.",
+        "label": 0
+    },
+    {
+        "statement": "State Bank of India engages in the provision of commercial banking services..",
+        "label": 1
+    },
+    {
+        "statement": "Novartis is a holding company, which engages in the development, manufacture, and marketing of healthcare products..",
+        "label": 1
+    },
+    {
+        "statement": "Lowe's has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "UnitedHealth Group has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "British American Tobacco has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Nestle operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Shell operates in the industry of oil & gas operations.",
+        "label": 1
+    },
+    {
+        "statement": "China Vanke engages in the development and sale of properties..",
+        "label": 1
+    },
+    {
+        "statement": "Sberbank operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "Sumitomo Mitsui Financial engages in the ownership and operation of assets of its shareholder and clients with a focus on real estate, renewable power, infrastructure and private equity..",
+        "label": 0
+    },
+    {
+        "statement": "Deutsche Post operates in the industry of transportation.",
+        "label": 1
+    },
+    {
+        "statement": "PetroChina engages in the provision of innovative memory and storage solutions..",
+        "label": 0
+    },
+    {
+        "statement": "Costco Wholesale has headquarters in Russia.",
+        "label": 0
+    },
+    {
+        "statement": "Apple has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "BNP Paribas has headquarters in China.",
+        "label": 0
+    },
+    {
+        "statement": "Accenture engages in the provision of management consulting, technology, and outsourcing services..",
+        "label": 1
+    },
+    {
+        "statement": "Raytheon Technologies has headquarters in China.",
+        "label": 0
+    },
+    {
+        "statement": "Goldman Sachs Group is a holding company that engages in the provision of telecommunications media and technology service..",
+        "label": 0
+    },
+    {
+        "statement": "Volkswagen Group engages in the production and sale of passenger cars and light commercial vehicles..",
+        "label": 1
+    },
+    {
+        "statement": "HCA Healthcare has headquarters in United Kingdom.",
+        "label": 0
+    },
+    {
+        "statement": "Intesa Sanpaolo has headquarters in Italy.",
+        "label": 1
+    },
+    {
+        "statement": "Tokio Marine Holdings operates in the industry of Retailing.",
+        "label": 0
+    },
+    {
+        "statement": "Bank of Nova Scotia has headquarters in Canada.",
+        "label": 1
+    },
+    {
+        "statement": "Santander is a banking services company, which engages in the provision of banking services to individuals, companies, and institutions..",
+        "label": 1
+    },
+    {
+        "statement": "Deutsche Post engages in the design, manufacture, and sale of smartphones, personal computers, tablets, wearables and accessories, and other variety of related services..",
+        "label": 0
+    },
+    {
+        "statement": "General Motors operates in the industry of consumer durables.",
+        "label": 1
+    },
+    {
+        "statement": "Amazon.com operates in the industry of retailing.",
+        "label": 1
+    },
+    {
+        "statement": "GlaxoSmithKline is a holding company that engages in the provision of financial management solutions..",
+        "label": 0
+    },
+    {
+        "statement": "Costco Wholesale operates in the industry of retailing.",
+        "label": 1
+    },
+    {
+        "statement": "Deere & Company engages in the manufacturing and distribution of equipment used in agriculture, construction, forestry, and turf care..",
+        "label": 1
+    },
+    {
+        "statement": "Mitsubishi engages in the provision of services utilizing the function of general trading..",
+        "label": 1
+    },
+    {
+        "statement": "Westpac Banking is an investment holding company, which engages in the provision of life insurance..",
+        "label": 0
+    },
+    {
+        "statement": "Alibaba Group engages in providing online and mobile marketplaces in retail and wholesale trade..",
+        "label": 1
+    },
+    {
+        "statement": "Eni has headquarters in Italy.",
+        "label": 1
+    },
+    {
+        "statement": "Dow has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Mitsubishi UFJ Financial Group operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Cathay Financial has headquarters in Taiwan.",
+        "label": 1
+    },
+    {
+        "statement": "China Construction Bank operates in the industry of Telecommunications Services.",
+        "label": 0
+    },
+    {
+        "statement": "Prudential Financial operates in the industry of diversified financials.",
+        "label": 1
+    },
+    {
+        "statement": "Linde engages in the production and distribution of industrial gases..",
+        "label": 1
+    },
+    {
+        "statement": "United Parcel Service engages in the provision of telecommunication services..",
+        "label": 0
+    },
+    {
+        "statement": "Broadcom is a global technology company, which designs, develops and supplies semiconductor and infrastructure software solutions..",
+        "label": 1
+    },
+    {
+        "statement": "American Express operates in the industry of Consumer Durables.",
+        "label": 0
+    },
+    {
+        "statement": "Postal Savings Bank of China operates in the industry of Consumer Durables.",
+        "label": 0
+    },
+    {
+        "statement": "Sberbank engages in the provision of a range of property casualty insurance, life insurance, retirement products, and other financial services to commercial and individual customers..",
+        "label": 0
+    },
+    {
+        "statement": "Mitsubishi has headquarters in Japan.",
+        "label": 1
+    },
+    {
+        "statement": "Canadian Imperial Bank of Commerce operates in the industry of Materials.",
+        "label": 0
+    },
+    {
+        "statement": "Bank of Nova Scotia has headquarters in Taiwan.",
+        "label": 0
+    },
+    {
+        "statement": "Mercedes-Benz Group has headquarters in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "U.S. Bancorp has headquarters in South Korea.",
+        "label": 0
+    },
+    {
+        "statement": "Roche Holding operates in the industry of drugs & biotechnology.",
+        "label": 1
+    },
+    {
+        "statement": "Rio Tinto operates in the industry of materials.",
+        "label": 1
+    },
+    {
+        "statement": "Taiwan Semiconductor Manufacturing Company engages in the design, development, manufacture, and sale of fully electric vehicles, energy generation and storage systems..",
+        "label": 0
+    },
+    {
+        "statement": "Tencent Holdings has headquarters in China.",
+        "label": 1
+    },
+    {
+        "statement": "Capital One operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "MetLife engages in owning and operating of general merchandise stores..",
+        "label": 0
+    },
+    {
+        "statement": "Siemens operates in the industry of Oil & Gas Operations.",
+        "label": 0
+    },
+    {
+        "statement": "Hon Hai Precision has headquarters in Taiwan.",
+        "label": 1
+    },
+    {
+        "statement": "Mitsubishi operates in the industry of trading companies.",
+        "label": 1
+    },
+    {
+        "statement": "China Shenhua Energy engages in the production and marketing of metal, mineral, and energy and agricultural commodities..",
+        "label": 0
+    },
+    {
+        "statement": "Procter & Gamble engages in the provision of branded consumer packaged goods..",
+        "label": 1
+    },
+    {
+        "statement": "SoftBank operates in the industry of telecommunications services.",
+        "label": 1
+    },
+    {
+        "statement": "Postal Savings Bank of China operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "Moller - Maersk engages in shipping, energy, transportation, offshore drilling, and retail activities..",
+        "label": 1
+    },
+    {
+        "statement": "Wells Fargo has headquarters in Saudi Arabia.",
+        "label": 0
+    },
+    {
+        "statement": "Charter Communications engages in the provision of financial products and services, including personal, commercial, corporate, and investment banking..",
+        "label": 0
+    },
+    {
+        "statement": "UBS Group is a holding company that engages in the provision of financial management solutions..",
+        "label": 1
+    },
+    {
+        "statement": "Exxon Mobil engages in the exploration, development, and distribution of oil, gas, and petroleum products..",
+        "label": 1
+    },
+    {
+        "statement": "China Shenhua Energy operates in the industry of Transportation.",
+        "label": 0
+    },
+    {
+        "statement": "Apple engages in the design, manufacture, and sale of smartphones, personal computers, tablets, wearables and accessories, and other variety of related services..",
+        "label": 1
+    },
+    {
+        "statement": "Anheuser-Busch InBev operates in the industry of food, drink & tobacco.",
+        "label": 1
+    },
+    {
+        "statement": "The Home Depot is the world's largest home improvement specialty retailer..",
+        "label": 1
+    },
+    {
+        "statement": "Alibaba Group engages in the manufacture and sale of automobiles, motorcycles and power products..",
+        "label": 0
+    },
+    {
+        "statement": "Chevron has headquarters in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Banco Bradesco operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "UnitedHealth Group operates in the industry of Diversified Financials.",
+        "label": 0
+    },
+    {
+        "statement": "Caterpillar engages in the manufacture of construction and mining equipment, diesel and natural gas engines, industrial gas turbines and diesel-electric locomotives..",
+        "label": 1
+    },
+    {
+        "statement": "Agricultural Bank of China operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "CVS Health operates in the industry of retailing.",
+        "label": 1
+    },
+    {
+        "statement": "UnitedHealth Group has headquarters in Hong Kong.",
+        "label": 0
+    },
+    {
+        "statement": "Ping An Insurance (Group) Company of China has headquarters in France.",
+        "label": 0
+    },
+    {
+        "statement": "Ford Motor engages in the manufacture, distribution and sale of automobiles..",
+        "label": 1
+    },
+    {
+        "statement": "PNC Financial Services operates in the industry of Aerospace & Defense.",
+        "label": 0
+    },
+    {
+        "statement": "BNP Paribas engages in the provision of banking and financial services..",
+        "label": 1
+    },
+    {
+        "statement": "Volkswagen Group operates as a bank holding company that offers financial services, including lending and depository services, cash management, foreign exchange and trust and investment management..",
+        "label": 0
+    },
+    {
+        "statement": "AbbVie (ABBV) has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Generali Group engages in the provision of insurance and financial products..",
+        "label": 1
+    },
+    {
+        "statement": "Taiwan Semiconductor Manufacturing Company operates in the industry of Chemicals.",
+        "label": 0
+    },
+    {
+        "statement": "Sony operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Abbott Laboratories has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Wells Fargo has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Stellantis has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "Oracle operates in the industry of Consumer Durables.",
+        "label": 0
+    },
+    {
+        "statement": "Industrial Bank has headquarters in China.",
+        "label": 1
+    },
+    {
+        "statement": "CVS Health has headquarters in Canada.",
+        "label": 0
+    },
+    {
+        "statement": "Exxon Mobil operates in the industry of Household & Personal Products.",
+        "label": 0
+    },
+    {
+        "statement": "Enbridge operates in the industry of Insurance.",
+        "label": 0
+    },
+    {
+        "statement": "Pfizer engages in the discovery, development, manufacturing, marketing, distribution, and selling of biopharmaceutical products worldwide..",
+        "label": 1
+    },
+    {
+        "statement": "Thermo Fisher Scientific has headquarters in South Korea.",
+        "label": 0
+    },
+    {
+        "statement": "AT&T engages in business of product trading and business investment activities..",
+        "label": 0
+    },
+    {
+        "statement": "Mitsubishi UFJ Financial Group has headquarters in Canada.",
+        "label": 0
+    },
+    {
+        "statement": "Volkswagen Group operates in the industry of consumer durables.",
+        "label": 1
+    },
+    {
+        "statement": "Reliance Industries operates in the industry of Semiconductors.",
+        "label": 0
+    },
+    {
+        "statement": "JPMorgan Chase operates as a holding company that engages in the management of its group companies..",
+        "label": 0
+    },
+    {
+        "statement": "Fubon Financial engages in the provision of financial services..",
+        "label": 1
+    },
+    {
+        "statement": "Generali Group has headquarters in Italy.",
+        "label": 1
+    },
+    {
+        "statement": "ArcelorMittal has headquarters in Canada.",
+        "label": 0
+    },
+    {
+        "statement": "Barclays operates as a bank holding company that engages in the business of providing retail banking, credit cards, corporate and investment banking and wealth management services..",
+        "label": 1
+    },
+    {
+        "statement": "Postal Savings Bank of China has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "MetLife has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Capital One operates as a financial holding company that engages in the provision of financial products and services..",
+        "label": 1
+    },
+    {
+        "statement": "Itochu engages in business of product trading and business investment activities..",
+        "label": 1
+    },
+    {
+        "statement": "Deere & Company has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Goldman Sachs Group engages in global investment banking, securities and investment management, which provides financial services..",
+        "label": 1
+    },
+    {
+        "statement": "Toyota Motor operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Anthem engages in the provision of products and services that address all aspects of corporate information technology environments..",
+        "label": 0
+    },
+    {
+        "statement": "Sumitomo Mitsui Financial operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "LVMH Moet Hennessy Louis Vuitton operates in the industry of household & personal products.",
+        "label": 1
+    },
+    {
+        "statement": "Munich Reinsurance engages in the discovery, development, manufacture and sale of a broad and diversified line of healthcare products..",
+        "label": 0
+    },
+    {
+        "statement": "Broadcom engages in the ownership and operation of assets of its shareholder and clients with a focus on real estate, renewable power, infrastructure and private equity..",
+        "label": 0
+    },
+    {
+        "statement": "Public Joint Stock Company Gazprom operates in the industry of oil & gas operations.",
+        "label": 1
+    },
+    {
+        "statement": "Nestle has headquarters in Switzerland.",
+        "label": 1
+    },
+    {
+        "statement": "IBM is an information technology company, which provides integrated solutions that leverage information technology and knowledge of business processes..",
+        "label": 1
+    },
+    {
+        "statement": "MetLife has headquarters in Australia.",
+        "label": 0
+    },
+    {
+        "statement": "Target has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Iberdrola operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "KDDI engages in the exploration, production, refining and sale of oil, gas, electricity and chemicals..",
+        "label": 0
+    },
+    {
+        "statement": "SAP has headquarters in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Postal Savings Bank of China has headquarters in China.",
+        "label": 1
+    },
+    {
+        "statement": "China State Construction Engineering has headquarters in China.",
+        "label": 1
+    },
+    {
+        "statement": "Univlever engages in the production and marketing of consumer goods in the nutrition, hygiene, and personal care categories..",
+        "label": 1
+    },
+    {
+        "statement": "Lloyds Banking Group operates in the industry of Consumer Durables.",
+        "label": 0
+    },
+    {
+        "statement": "Shell engages in the discovery, development, manufacture and sale of a broad and diversified line of healthcare products..",
+        "label": 0
+    },
+    {
+        "statement": "Prudential Financial has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "General Motors engages in the designing, manufacturing, and selling of cars, trucks and automobile parts..",
+        "label": 1
+    },
+    {
+        "statement": "Pfizer has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Nippon Telegraph & Telephone is a holding company that engages in the provision of telecommunication services..",
+        "label": 1
+    },
+    {
+        "statement": "Meta Platforms operates in the industry of Food, Drink & Tobacco.",
+        "label": 0
+    },
+    {
+        "statement": "China Telecom engages in the provision of telecommunication services..",
+        "label": 1
+    },
+    {
+        "statement": "Walt Disney is a diversified international family entertainment and media enterprise..",
+        "label": 1
+    },
+    {
+        "statement": "BHP Group has headquarters in Australia.",
+        "label": 1
+    },
+    {
+        "statement": "Nestle has headquarters in Mexico.",
+        "label": 0
+    },
+    {
+        "statement": "Intel has headquarters in Russia.",
+        "label": 0
+    },
+    {
+        "statement": "Nippon Telegraph & Telephone engages in the provision of banking and financial services..",
+        "label": 0
+    },
+    {
+        "statement": "Goldman Sachs Group operates in the industry of diversified financials.",
+        "label": 1
+    },
+    {
+        "statement": "ENGIE operates in the industry of Drugs & Biotechnology.",
+        "label": 0
+    },
+    {
+        "statement": "ConocoPhillips operates in the industry of Semiconductors.",
+        "label": 0
+    },
+    {
+        "statement": "Barclays operates in the industry of Retailing.",
+        "label": 0
+    },
+    {
+        "statement": "Bristol Myers Squibb engages in the discovery, development, licensing, manufacture, marketing, distribution and sale of biopharmaceutical products..",
+        "label": 1
+    },
+    {
+        "statement": "Amazon.com engages in the manufacture of luxury goods..",
+        "label": 0
+    },
+    {
+        "statement": "Target is a holding company, which engages in the provision of financial services..",
+        "label": 0
+    },
+    {
+        "statement": "Nestle engages in the production and distribution of cars, trucks and vans..",
+        "label": 0
+    },
+    {
+        "statement": "Ford Motor engages in the exploration, production, transport, refining, and marketing of petroleum and petroleum-derived products..",
+        "label": 0
+    },
+    {
+        "statement": "Bank of China has headquarters in China.",
+        "label": 1
+    },
+    {
+        "statement": "Stellantis has headquarters in Netherlands.",
+        "label": 1
+    },
+    {
+        "statement": "Sony engages in the development, design, manufacture, and sale of electronic equipment, instruments, devices, game consoles, and software for consumers, professionals and industrial markets..",
+        "label": 1
+    },
+    {
+        "statement": "Anthem has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "IBM has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Eni has headquarters in Switzerland.",
+        "label": 0
+    },
+    {
+        "statement": "Japan Post Holdings has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "HCA Healthcare is a health care services company, which engages in operating hospitals, freestanding surgery centers and emergency rooms, and urgent care centers..",
+        "label": 1
+    },
+    {
+        "statement": "Citigroup is a holding company that engages in the provision of financial products and services..",
+        "label": 1
+    },
+    {
+        "statement": "Mitsui engages in the designing, manufacturing, and selling of cars, trucks and automobile parts..",
+        "label": 0
+    },
+    {
+        "statement": "GlaxoSmithKline has headquarters in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "VINCI operates in the industry of Insurance.",
+        "label": 0
+    },
+    {
+        "statement": "UnitedHealth Group engages in the provision of healthcare coverage, software and data consultancy services..",
+        "label": 1
+    },
+    {
+        "statement": "Airbus Group engages in the design, manufacture, delivery and provision of aerospace products, space and related services..",
+        "label": 1
+    },
+    {
+        "statement": "Walt Disney has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Verizon Communications has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Dow has headquarters in Italy.",
+        "label": 0
+    },
+    {
+        "statement": "Alphabet is a holding company, which engages in the business of acquisition and operation of different companies..",
+        "label": 1
+    },
+    {
+        "statement": "Verizon Communications has headquarters in Japan.",
+        "label": 0
+    },
+    {
+        "statement": "Sberbank operates in the industry of Consumer Durables.",
+        "label": 0
+    },
+    {
+        "statement": "Dell Technologies has headquarters in France.",
+        "label": 0
+    },
+    {
+        "statement": "Pfizer engages in the provision of insurance and financial products..",
+        "label": 0
+    },
+    {
+        "statement": "Lockheed Martin has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Medtronic has headquarters in Ireland.",
+        "label": 1
+    },
+    {
+        "statement": "Bank of China engages in the exploration, development, production and sale of crude oil & gas. It also involves in refining, transportation, and sale of petroleum products..",
+        "label": 0
+    },
+    {
+        "statement": "Verizon Communications engages in the exploration, production, refining and sale of oil, gas, electricity and chemicals..",
+        "label": 0
+    },
+    {
+        "statement": "Visa operates in the industry of United States.",
+        "label": 0
+    },
+    {
+        "statement": "The Home Depot operates in the industry of retailing.",
+        "label": 1
+    },
+    {
+        "statement": "Oracle operates in the industry of it software & services.",
+        "label": 1
+    },
+    {
+        "statement": "Itau Unibanco Holding has headquarters in China.",
+        "label": 0
+    },
+    {
+        "statement": "Lloyds Banking Group is a financial services company, which engages in the provision of a wide range of banking and financial services..",
+        "label": 1
+    },
+    {
+        "statement": "Rio Tinto has headquarters in France.",
+        "label": 0
+    },
+    {
+        "statement": "AT&T operates in the industry of telecommunications services.",
+        "label": 1
+    },
+    {
+        "statement": "CITIC operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Electricite de France engages in power generation, transmission, distribution, supply and trading activities..",
+        "label": 1
+    },
+    {
+        "statement": "Brookfield Asset Management operates in the industry of Consumer Durables.",
+        "label": 0
+    },
+    {
+        "statement": "Merck & Co. has headquarters in Drugs & Biotechnology.",
+        "label": 1
+    },
+    {
+        "statement": "Credit Agricole has headquarters in France.",
+        "label": 1
+    },
+    {
+        "statement": "Cathay Financial operates in the industry of insurance.",
+        "label": 1
+    },
+    {
+        "statement": "Hitachi has headquarters in Japan.",
+        "label": 0
+    },
+    {
+        "statement": "PNC Financial Services engages in the operation of membership warehouses..",
+        "label": 0
+    },
+    {
+        "statement": "Samsung Group has headquarters in South Korea.",
+        "label": 1
+    },
+    {
+        "statement": "Bayerische Motoren Werke (BMW) has headquarters in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "BHP Group provides insurance and financial services to individual and institutional customers..",
+        "label": 0
+    },
+    {
+        "statement": "BBVA operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "The Home Depot engages in the provision of telecommunication and information technology services..",
+        "label": 0
+    },
+    {
+        "statement": "Toyota Motor has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "Iberdrola is a holding company that engages in the generation, distribution, trading and marketing of electricity..",
+        "label": 1
+    },
+    {
+        "statement": "American Express operates in the industry of diversified financials.",
+        "label": 1
+    },
+    {
+        "statement": "Moller - Maersk has headquarters in Australia.",
+        "label": 0
+    },
+    {
+        "statement": "Fubon Financial operates in the industry of insurance.",
+        "label": 1
+    },
+    {
+        "statement": "AXA operates in the industry of insurance.",
+        "label": 1
+    },
+    {
+        "statement": "Alphabet operates in the industry of Oil & Gas Operations.",
+        "label": 0
+    },
+    {
+        "statement": "LVMH Moet Hennessy Louis Vuitton engages in the manufacture of luxury goods..",
+        "label": 1
+    },
+    {
+        "statement": "Intel engages in the design, manufacture and sale of computer products and technologies..",
+        "label": 1
+    },
+    {
+        "statement": "JPMorgan Chase is a financial holding company. It provides financial and investment banking services..",
+        "label": 1
+    },
+    {
+        "statement": "China Merchants Bank has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "Public Joint Stock Company Gazprom has headquarters in Russia.",
+        "label": 1
+    },
+    {
+        "statement": "Univlever engages in the provision of banking and financial solutions..",
+        "label": 0
+    },
+    {
+        "statement": "Honeywell operates in the industry of conglomerates.",
+        "label": 1
+    },
+    {
+        "statement": "Visa has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "ENGIE has headquarters in France.",
+        "label": 1
+    },
+    {
+        "statement": "Industrial Bank operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "Broadcom operates in the industry of semiconductors.",
+        "label": 1
+    },
+    {
+        "statement": "Hyundai Motor has headquarters in South Korea.",
+        "label": 1
+    },
+    {
+        "statement": "Rosneft operates in the industry of Gas & Oil Operations.",
+        "label": 0
+    },
+    {
+        "statement": "BP operates as an integrated oil and gas company..",
+        "label": 1
+    },
+    {
+        "statement": "Shell has headquarters in Canada.",
+        "label": 0
+    },
+    {
+        "statement": "Raytheon Technologies has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Walgreens has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Roche Holding has headquarters in Switzerland.",
+        "label": 1
+    },
+    {
+        "statement": "Ford Motor has headquarters in Japan.",
+        "label": 0
+    },
+    {
+        "statement": "GlaxoSmithKline has headquarters in United Kingdom.",
+        "label": 1
+    },
+    {
+        "statement": "Vale operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Iberdrola has headquarters in Canada.",
+        "label": 0
+    },
+    {
+        "statement": "Novartis has headquarters in Japan.",
+        "label": 0
+    },
+    {
+        "statement": "Saudi Arabian Oil Company (Saudi Aramco) operates in the industry of oil & gas operations.",
+        "label": 1
+    },
+    {
+        "statement": "CNOOC operates in the industry of oil & gas operations.",
+        "label": 1
+    },
+    {
+        "statement": "BHP Group operates in the industry of Insurance.",
+        "label": 0
+    },
+    {
+        "statement": "Ping An Insurance (Group) Company of China operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Banco Bradesco engages in the provision of financial and insurance services..",
+        "label": 1
+    },
+    {
+        "statement": "Chevron engages in the provision of administrative, financial management and technology support for energy and chemical operations..",
+        "label": 1
+    },
+    {
+        "statement": "Raytheon Technologies operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "America Movil has headquarters in Switzerland.",
+        "label": 0
+    },
+    {
+        "statement": "China Mobile has headquarters in Russia.",
+        "label": 0
+    },
+    {
+        "statement": "Anglo American operates in the industry of materials.",
+        "label": 1
+    },
+    {
+        "statement": "U.S. Bancorp operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "Accenture operates in the industry of it software & services.",
+        "label": 1
+    },
+    {
+        "statement": "UBS Group operates in the industry of Aerospace & Defense.",
+        "label": 0
+    },
+    {
+        "statement": "Chubb has headquarters in China.",
+        "label": 0
+    },
+    {
+        "statement": "Brookfield Asset Management operates in the industry of diversified financials.",
+        "label": 1
+    },
+    {
+        "statement": "Apple engages in the provision of banking and related financial services..",
+        "label": 0
+    },
+    {
+        "statement": "Procter & Gamble is the world's largest home improvement specialty retailer..",
+        "label": 0
+    },
+    {
+        "statement": "Wells Fargo is a diversified, community-based financial services company..",
+        "label": 1
+    },
+    {
+        "statement": "Charter Communications operates in the industry of media.",
+        "label": 1
+    },
+    {
+        "statement": "Hon Hai Precision has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "SK Hynix operates in the industry of semiconductors.",
+        "label": 1
+    },
+    {
+        "statement": "Prudential Financial engages in the provision of financial products and services including life insurance, annuities, mutual funds, and investment management to both individual and institutional customers..",
+        "label": 1
+    },
+    {
+        "statement": "Honeywell operates in the industry of IT Software & Services.",
+        "label": 0
+    },
+    {
+        "statement": "China Construction Bank has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "Lockheed Martin has headquarters in Ireland.",
+        "label": 0
+    },
+    {
+        "statement": "Saudi Arabian Oil Company (Saudi Aramco) has headquarters in Saudi Arabia.",
+        "label": 1
+    },
+    {
+        "statement": "Anthem has headquarters in Spain.",
+        "label": 0
+    },
+    {
+        "statement": "Visa engages in the provision of insurance and investment advisory services..",
+        "label": 0
+    },
+    {
+        "statement": "China Telecom has headquarters in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Moller - Maersk operates in the industry of transportation.",
+        "label": 1
+    },
+    {
+        "statement": "Rosneft has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "General Motors has headquarters in Drugs & Biotechnology.",
+        "label": 0
+    },
+    {
+        "statement": "ANZ has headquarters in Australia.",
+        "label": 1
+    },
+    {
+        "statement": "Shanghai Pudong Development Bank provides banking and financial services..",
+        "label": 1
+    },
+    {
+        "statement": "Caterpillar has headquarters in Rome.",
+        "label": 0
+    },
+    {
+        "statement": "Cisco Systems engages in the exploration, production, refining and sale of oil, gas, electricity and chemicals..",
+        "label": 0
+    },
+    {
+        "statement": "Total produces and markets fuels, natural gas and low-carbon electricity..",
+        "label": 1
+    },
+    {
+        "statement": "PNC Financial Services has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Alibaba Group operates in the industry of Construction.",
+        "label": 0
+    },
+    {
+        "statement": "Siemens operates in the industry of conglomerates.",
+        "label": 1
+    },
+    {
+        "statement": "Eni is a global technology company, which designs, develops and supplies semiconductor and infrastructure software solutions..",
+        "label": 0
+    },
+    {
+        "statement": "Chevron operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Micron Technology has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "ENGIE has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "Equinor operates in the industry of oil & gas operations.",
+        "label": 1
+    },
+    {
+        "statement": "CNOOC has headquarters in Japan.",
+        "label": 0
+    },
+    {
+        "statement": "Truist Financial operates as a financial holding company, which engages in the provision of banking services to individuals, businesses and municipalities..",
+        "label": 1
+    },
+    {
+        "statement": "Microsoft operates in the industry of Transportation.",
+        "label": 0
+    },
+    {
+        "statement": "AIA Group has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "Costco Wholesale operates in the industry of Materials.",
+        "label": 0
+    },
+    {
+        "statement": "BASF is a financial holding company. It provides financial and investment banking services..",
+        "label": 0
+    },
+    {
+        "statement": "Siemens engages in property development, commodity residential building distribution, and property management..",
+        "label": 0
+    },
+    {
+        "statement": "Santander has headquarters in Spain.",
+        "label": 1
+    },
+    {
+        "statement": "Deutsche Telekom operates as a financial holding company that engages in the provision of financial products and services..",
+        "label": 0
+    },
+    {
+        "statement": "Visa operates in the industry of business services & supplies.",
+        "label": 1
+    },
+    {
+        "statement": "America Movil operates in the industry of telecommunications services.",
+        "label": 1
+    },
+    {
+        "statement": "Apple operates in the industry of Construction.",
+        "label": 0
+    },
+    {
+        "statement": "PNC Financial Services operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "BlackRock has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Cathay Financial engages in the provision of financial services..",
+        "label": 1
+    },
+    {
+        "statement": "CNOOC has headquarters in Hong Kong.",
+        "label": 1
+    },
+    {
+        "statement": "Exxon Mobil has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "China Citic Bank produces and markets fuels, natural gas and low-carbon electricity..",
+        "label": 0
+    },
+    {
+        "statement": "Costco Wholesale engages in the operation of membership warehouses..",
+        "label": 1
+    },
+    {
+        "statement": "British American Tobacco operates as a global financial services company..",
+        "label": 0
+    },
+    {
+        "statement": "Deutsche Telekom engages in the provision of telecommunication and information technology services..",
+        "label": 1
+    },
+    {
+        "statement": "Bank of America operates in the industry of Aerospace & Defense.",
+        "label": 0
+    },
+    {
+        "statement": "Saudi Arabian Oil Company (Saudi Aramco) operates in the industry of Trading Companies.",
+        "label": 0
+    },
+    {
+        "statement": "BNP Paribas is a financial services company, which engages in the provision of a wide range of banking and financial services..",
+        "label": 0
+    },
+    {
+        "statement": "Sony engages in the provision of digital payment services. It also facilitates global commerce through the transfer of value and information among global network of consumers, merchants, financial institutions, businesses, strategic partners, and government entities..",
+        "label": 0
+    },
+    {
+        "statement": "IBM operates in the industry of Insurance.",
+        "label": 0
+    },
+    {
+        "statement": "Cathay Financial has headquarters in Russia.",
+        "label": 0
+    },
+    {
+        "statement": "Abbott Laboratories is a holding company that engages in the research and development, manufacture and sale of products in the healthcare field..",
+        "label": 0
+    },
+    {
+        "statement": "HSBC Holdings is a health care services company, which engages in operating hospitals, freestanding surgery centers and emergency rooms, and urgent care centers..",
+        "label": 0
+    },
+    {
+        "statement": "Cisco Systems has headquarters in Japan.",
+        "label": 0
+    },
+    {
+        "statement": "China Vanke has headquarters in Australia.",
+        "label": 0
+    },
+    {
+        "statement": "Microsoft has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "MetLife operates in the industry of insurance.",
+        "label": 1
+    },
+    {
+        "statement": "Coca-Cola has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Oracle engages in the provision of products and services that address all aspects of corporate information technology environments..",
+        "label": 1
+    },
+    {
+        "statement": "FedEx has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "China Construction Bank operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "LukOil has headquarters in China.",
+        "label": 0
+    },
+    {
+        "statement": "PepsiCo has headquarters in Australia.",
+        "label": 0
+    },
+    {
+        "statement": "Deutsche Post has headquarters in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "AXA engages in providing online and mobile marketplaces in retail and wholesale trade..",
+        "label": 0
+    },
+    {
+        "statement": "Linde operates in the industry of Construction.",
+        "label": 0
+    },
+    {
+        "statement": "Tesla has headquarters in Canada.",
+        "label": 0
+    },
+    {
+        "statement": "Westpac Banking operates in the industry of Consumer Durables.",
+        "label": 0
+    },
+    {
+        "statement": "SK Hynix operates in the industry of Conglomerates.",
+        "label": 0
+    },
+    {
+        "statement": "BlackRock engages in providing investment management, risk management, and advisory services for institutional and retail clients worldwide..",
+        "label": 1
+    },
+    {
+        "statement": "Thermo Fisher Scientific operates in the industry of healthcare equipment & services.",
+        "label": 1
+    },
+    {
+        "statement": "ENGIE operates in the industry of oil & gas operations.",
+        "label": 1
+    },
+    {
+        "statement": "Electricite de France has headquarters in France.",
+        "label": 1
+    },
+    {
+        "statement": "American International Group operates in the industry of insurance.",
+        "label": 1
+    },
+    {
+        "statement": "Vale engages in the production and exportation of iron ore, pellets, manganese and iron alloys, which are raw materials needed for steelmaking..",
+        "label": 1
+    },
+    {
+        "statement": "Raytheon Technologies engages in the provision of mail and logistics services..",
+        "label": 0
+    },
+    {
+        "statement": "American International Group has headquarters in Ireland.",
+        "label": 0
+    },
+    {
+        "statement": "LVMH Moet Hennessy Louis Vuitton has headquarters in Japan.",
+        "label": 0
+    },
+    {
+        "statement": "AbbVie (ABBV) is a research-based biopharmaceutical company, which engages in the development and sale of pharmaceutical products..",
+        "label": 1
+    },
+    {
+        "statement": "Hitachi engages in the manufacture and sale of electrical equipment..",
+        "label": 1
+    },
+    {
+        "statement": "Shell engages in oil and natural gas production..",
+        "label": 1
+    },
+    {
+        "statement": "Apple operates in the industry of technology.",
+        "label": 1
+    },
+    {
+        "statement": "Exxon Mobil has headquarters in Switzerland.",
+        "label": 0
+    },
+    {
+        "statement": "Citigroup operates in the industry of Telecommunications Services.",
+        "label": 0
+    },
+    {
+        "statement": "Electricite de France engages in the production and marketing of metal, mineral, and energy and agricultural commodities..",
+        "label": 0
+    },
+    {
+        "statement": "Raytheon Technologies operates in the industry of aerospace & defense.",
+        "label": 1
+    },
+    {
+        "statement": "Barclays operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "Truist Financial operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Fubon Financial has headquarters in Taiwan.",
+        "label": 1
+    },
+    {
+        "statement": "Mizuho Financial is a banking services company, which engages in the provision of banking services to individuals, companies, and institutions..",
+        "label": 0
+    },
+    {
+        "statement": "Linde operates in the industry of chemicals.",
+        "label": 1
+    },
+    {
+        "statement": "Credit Agricole has headquarters in Australia.",
+        "label": 0
+    },
+    {
+        "statement": "E.ON engages in the provision of energy solutions..",
+        "label": 1
+    },
+    {
+        "statement": "Toronto-Dominion Bank provides financial products and services..",
+        "label": 1
+    },
+    {
+        "statement": "Poly Developments & Holdings Group engages in property development, commodity residential building distribution, and property management..",
+        "label": 1
+    },
+    {
+        "statement": "Agricultural Bank of China has headquarters in Hong Kong.",
+        "label": 0
+    },
+    {
+        "statement": "China Life Insurance operates in the industry of insurance.",
+        "label": 1
+    },
+    {
+        "statement": "ConocoPhillips has headquarters in United Kingdom.",
+        "label": 0
+    },
+    {
+        "statement": "State Bank of India operates in the industry of Oil & Gas Operations.",
+        "label": 0
+    },
+    {
+        "statement": "ANZ provides banking, financial products and services to retail, small business, corporate and institutional clients..",
+        "label": 1
+    },
+    {
+        "statement": "SAP operates in the industry of it software & services.",
+        "label": 1
+    },
+    {
+        "statement": "Sanofi engages in the manufacture and sale of semiconductor products..",
+        "label": 0
+    },
+    {
+        "statement": "Lockheed Martin operates in the industry of aerospace & defense.",
+        "label": 1
+    },
+    {
+        "statement": "United Parcel Service operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Hyundai Motor operates in the industry of Technology.",
+        "label": 0
+    },
+    {
+        "statement": "Linde has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "The Home Depot has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Lockheed Martin engages in the manufacture, distribution and sale of automobiles..",
+        "label": 0
+    },
+    {
+        "statement": "American International Group has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Honeywell has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "CVS Health engages in the provision of financial products and services..",
+        "label": 0
+    },
+    {
+        "statement": "National Australia Bank has headquarters in Australia.",
+        "label": 1
+    },
+    {
+        "statement": "Goldman Sachs Group has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "PetroChina operates in the industry of Insurance.",
+        "label": 0
+    },
+    {
+        "statement": "Glencore operates in the industry of Telecommunications Services.",
+        "label": 0
+    },
+    {
+        "statement": "Oracle has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "HSBC Holdings has headquarters in United Kingdom.",
+        "label": 1
+    },
+    {
+        "statement": "Alphabet operates in the industry of it software & services.",
+        "label": 1
+    },
+    {
+        "statement": "CNOOC is a diversified, community-based financial services company..",
+        "label": 0
+    },
+    {
+        "statement": "National Australia Bank operates in the industry of Media.",
+        "label": 0
+    },
+    {
+        "statement": "Chubb engages in the discovery, development, licensing, manufacture, marketing, distribution and sale of biopharmaceutical products..",
+        "label": 0
+    },
+    {
+        "statement": "China Mobile engages in the manufacture, marketing, distribution and sale of beverages, food, and snacks..",
+        "label": 0
+    },
+    {
+        "statement": "Johnson & Johnson is a holding company that engages in the research and development, manufacture and sale of products in the healthcare field..",
+        "label": 1
+    },
+    {
+        "statement": "Dell Technologies operates in the industry of Media.",
+        "label": 0
+    },
+    {
+        "statement": "Sberbank provides commercial banking and financial services..",
+        "label": 1
+    },
+    {
+        "statement": "Pfizer has headquarters in China.",
+        "label": 0
+    },
+    {
+        "statement": "Brookfield Asset Management engages in the ownership and operation of assets of its shareholder and clients with a focus on real estate, renewable power, infrastructure and private equity..",
+        "label": 1
+    },
+    {
+        "statement": "Bank of Communications has headquarters in China.",
+        "label": 1
+    },
+    {
+        "statement": "Toronto-Dominion Bank operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "Toronto-Dominion Bank has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "ANZ operates in the industry of Semiconductors.",
+        "label": 0
+    },
+    {
+        "statement": "Industrial and Commercial Bank of China has headquarters in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Bank of America has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "SK Hynix has headquarters in China.",
+        "label": 0
+    },
+    {
+        "statement": "Alibaba Group has headquarters in China.",
+        "label": 1
+    },
+    {
+        "statement": "Bank of America is a holding company that engages in the generation, distribution, trading and marketing of electricity..",
+        "label": 0
+    },
+    {
+        "statement": "ENGIE engages in the provision of electricity, natural gas, and energy related services..",
+        "label": 1
+    },
+    {
+        "statement": "Poly Developments & Holdings Group operates as a holding company that engages in the provision of insurance and asset management services..",
+        "label": 0
+    },
+    {
+        "statement": "Deutsche Telekom has headquarters in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Mitsubishi UFJ Financial Group has headquarters in Japan.",
+        "label": 1
+    },
+    {
+        "statement": "National Australia Bank engages in the provision of banking and financial services..",
+        "label": 1
+    },
+    {
+        "statement": "Sony has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "American International Group engages in the provision of a range of property casualty insurance, life insurance, retirement products, and other financial services to commercial and individual customers..",
+        "label": 1
+    },
+    {
+        "statement": "Citigroup engages in the provision of banking and related financial services..",
+        "label": 0
+    },
+    {
+        "statement": "China Life Insurance has headquarters in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "General Motors has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Bayerische Motoren Werke (BMW) operates in the industry of Insurance.",
+        "label": 0
+    },
+    {
+        "statement": "AXA has headquarters in France.",
+        "label": 1
+    },
+    {
+        "statement": "Morgan Stanley operates in the industry of Chemicals.",
+        "label": 0
+    },
+    {
+        "statement": "China Shenhua Energy has headquarters in China.",
+        "label": 1
+    },
+    {
+        "statement": "BP engages in the provision of financial products and banking services..",
+        "label": 0
+    },
+    {
+        "statement": "Nestle is a nutrition, health and wellness company that engages in the manufacture, supply and production of prepared dishes and cooking aids, milk-based products, pharmaceuticals and ophthalmic goods, baby foods and cereals..",
+        "label": 1
+    },
+    {
+        "statement": "Mizuho Financial operates as a holding company which engages in the provision of financial services such as banking, trust banking, securities, and other businesses..",
+        "label": 1
+    },
+    {
+        "statement": "Tencent Holdings operates in the industry of Retailing.",
+        "label": 0
+    },
+    {
+        "statement": "Caterpillar operates in the industry of capital goods.",
+        "label": 1
+    },
+    {
+        "statement": "Cathay Financial engages in the production and marketing of consumer goods in the nutrition, hygiene, and personal care categories..",
+        "label": 0
+    },
+    {
+        "statement": "Intesa Sanpaolo operates as a financial holding company that engages in the provision of financial products and services..",
+        "label": 0
+    },
+    {
+        "statement": "Enbridge has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "Accenture has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "BBVA has headquarters in Spain.",
+        "label": 1
+    },
+    {
+        "statement": "Moller - Maersk operates in the industry of IT Software & Services.",
+        "label": 0
+    },
+    {
+        "statement": "Fubon Financial has headquarters in Canada.",
+        "label": 0
+    },
+    {
+        "statement": "Target operates in the industry of retailing.",
+        "label": 1
+    },
+    {
+        "statement": "American Express has headquarters in France.",
+        "label": 0
+    },
+    {
+        "statement": "Itochu has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "Intesa Sanpaolo operates in the industry of Trading Companies.",
+        "label": 0
+    },
+    {
+        "statement": "Munich Reinsurance has headquarters in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Truist Financial has headquarters in United Kingdom.",
+        "label": 0
+    },
+    {
+        "statement": "Manulife engages in business of product trading and business investment activities..",
+        "label": 0
+    },
+    {
+        "statement": "Chevron operates in the industry of oil & gas operations.",
+        "label": 1
+    },
+    {
+        "statement": "Tencent Holdings is an investment company that engages in the provision of value-added services and online advertising services..",
+        "label": 1
+    },
+    {
+        "statement": "Prudential Financial operates in the industry of Oil & Gas Operations.",
+        "label": 0
+    },
+    {
+        "statement": "Shanghai Pudong Development Bank operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "Stellantis operates in the industry of Food, Drink & Tobacco.",
+        "label": 0
+    },
+    {
+        "statement": "Honda Motor engages in oil and gas exploration, production, and distribution activities..",
+        "label": 0
+    },
+    {
+        "statement": "Tencent Holdings operates in the industry of it software & services.",
+        "label": 1
+    },
+    {
+        "statement": "Ford Motor has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "CVS Health operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Petrobras has headquarters in France.",
+        "label": 0
+    },
+    {
+        "statement": "Bank of America operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "Meta Platforms operates as a social networking company worldwide..",
+        "label": 1
+    },
+    {
+        "statement": "Medtronic operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "HSBC Holdings has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "Lloyds Banking Group has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "State Bank of India has headquarters in Spain.",
+        "label": 0
+    },
+    {
+        "statement": "Rosneft engages in the exploration, development, production and sale of crude oil & gas. It also involves in refining, transportation, and sale of petroleum products..",
+        "label": 1
+    },
+    {
+        "statement": "China Vanke has headquarters in China.",
+        "label": 1
+    },
+    {
+        "statement": "BlackRock is a mining company, which engages in the exploration and mining of precious base metals and ferrous metals..",
+        "label": 0
+    },
+    {
+        "statement": "SK Hynix has headquarters in South Korea.",
+        "label": 1
+    },
+    {
+        "statement": "Total has headquarters in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Exxon Mobil operates in the industry of oil & gas operations.",
+        "label": 1
+    },
+    {
+        "statement": "IBM has headquarters in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Coca-Cola is a nonalcoholic beverage company that engages in the manufacture, market, and sale of non-alcoholic beverages, including sparkling soft drinks, water, sports drinks, tea, coffee and energy drinks..",
+        "label": 1
+    },
+    {
+        "statement": "Anglo American has headquarters in United Kingdom.",
+        "label": 1
+    },
+    {
+        "statement": "Microsoft engages in the development and support of software, services, devices, and solutions..",
+        "label": 1
+    },
+    {
+        "statement": "Iberdrola operates in the industry of utilities.",
+        "label": 1
+    },
+    {
+        "statement": "Anheuser-Busch InBev has headquarters in Denmark.",
+        "label": 0
+    },
+    {
+        "statement": "HSBC Holdings operates in the industry of Oil & Gas Operations.",
+        "label": 0
+    },
+    {
+        "statement": "China Telecom operates in the industry of telecommunications services.",
+        "label": 1
+    },
+    {
+        "statement": "Barclays operates as a social networking company worldwide..",
+        "label": 0
+    },
+    {
+        "statement": "Japan Post Holdings Japan Post Holdings Co., Ltd. manages its group companies that are engaged in postal, banking, and insurance businesses..",
+        "label": 1
+    },
+    {
+        "statement": "SoftBank operates as a holding company that engages in the management of its group companies..",
+        "label": 1
+    },
+    {
+        "statement": "Novartis operates in the industry of drugs & biotechnology.",
+        "label": 1
+    },
+    {
+        "statement": "Ford Motor operates in the industry of consumer durables.",
+        "label": 1
+    },
+    {
+        "statement": "E.ON operates in the industry of Insurance.",
+        "label": 0
+    },
+    {
+        "statement": "Itau Unibanco Holding provides financial products and services to individual and corporate clients in Brazil and abroad..",
+        "label": 1
+    },
+    {
+        "statement": "Roche Holding operates in the industry of Insurance.",
+        "label": 0
+    },
+    {
+        "statement": "Industrial and Commercial Bank of China operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "China State Construction Engineering engages in the following business activities: housing construction, real estate development and investment, infrastructure construction and investment, prospecting and design, and overseas industries.",
+        "label": 1
+    },
+    {
+        "statement": "Chevron engages in the provision of insurance and investment advisory services..",
+        "label": 0
+    },
+    {
+        "statement": "Cigna Corporation operates in the industry of insurance.",
+        "label": 1
+    },
+    {
+        "statement": "Truist Financial operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "Reliance Industries engages in hydrocarbon exploration and production, petroleum refining and marketing, petrochemicals, retail and telecommunications..",
+        "label": 1
+    },
+    {
+        "statement": "Electricite de France operates in the industry of utilities.",
+        "label": 1
+    },
+    {
+        "statement": "Johnson & Johnson operates in the industry of Consumer Durables.",
+        "label": 0
+    },
+    {
+        "statement": "BlackRock operates in the industry of diversified financials.",
+        "label": 1
+    },
+    {
+        "statement": "Vale operates in the industry of materials.",
+        "label": 1
+    },
+    {
+        "statement": "Procter & Gamble operates in the industry of Diversified Financials.",
+        "label": 0
+    },
+    {
+        "statement": "AIA Group is an investment holding company, which engages in the provision of life insurance..",
+        "label": 1
+    },
+    {
+        "statement": "Dow operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "LukOil has headquarters in Russia.",
+        "label": 1
+    },
+    {
+        "statement": "RBC engages in the provision of banking and financial solutions..",
+        "label": 1
+    },
+    {
+        "statement": "Micron Technology operates in the industry of semiconductors.",
+        "label": 1
+    },
+    {
+        "statement": "Reliance Industries provides banking and financial services to individuals and institutions..",
+        "label": 0
+    },
+    {
+        "statement": "Bristol Myers Squibb has headquarters in China.",
+        "label": 0
+    },
+    {
+        "statement": "Enel has headquarters in Netherlands.",
+        "label": 0
+    },
+    {
+        "statement": "Tesla engages in the manufacture and sale of automobiles and motorcycles..",
+        "label": 0
+    },
+    {
+        "statement": "VINCI has headquarters in France.",
+        "label": 1
+    },
+    {
+        "statement": "Glencore engages in the production and marketing of metal, mineral, and energy and agricultural commodities..",
+        "label": 1
+    },
+    {
+        "statement": "JPMorgan Chase has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "United Parcel Service operates as a logistics and package delivery company providing supply chain management services..",
+        "label": 1
+    },
+    {
+        "statement": "Enbridge has headquarters in Canada.",
+        "label": 1
+    },
+    {
+        "statement": "Honeywell operates as a bank holding company that offers financial services, including lending and depository services, cash management, foreign exchange and trust and investment management..",
+        "label": 0
+    },
+    {
+        "statement": "Equinor engages in the exploration, production, transport, refining, and marketing of petroleum and petroleum-derived products..",
+        "label": 1
+    },
+    {
+        "statement": "Glencore engages in the exploration, production, transportation and marketing of crude oil, bitumen, natural gas, natural gas liquids and liquefied natural gas on a worldwide basis..",
+        "label": 0
+    },
+    {
+        "statement": "Berkshire Hathaway has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "JPMorgan Chase operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "HDFC Bank has headquarters in Australia.",
+        "label": 0
+    },
+    {
+        "statement": "American Express engages in the provision of charge and credit card products, and travel-related services..",
+        "label": 1
+    },
+    {
+        "statement": "FedEx is a holding company, which engages in the provision of a portfolio of transportation, e-commerce, and business services..",
+        "label": 1
+    },
+    {
+        "statement": "Sumitomo Mitsui Financial has headquarters in Japan.",
+        "label": 1
+    },
+    {
+        "statement": "Linde has headquarters in United Kingdom.",
+        "label": 1
+    },
+    {
+        "statement": "Tesla engages in the design, development, manufacture, and sale of fully electric vehicles, energy generation and storage systems..",
+        "label": 1
+    },
+    {
+        "statement": "Toyota Motor has headquarters in Japan.",
+        "label": 1
+    },
+    {
+        "statement": "China Vanke operates in the industry of construction.",
+        "label": 1
+    },
+    {
+        "statement": "Total operates in the industry of oil & gas operations.",
+        "label": 1
+    },
+    {
+        "statement": "AbbVie (ABBV) engages in the exploration, development, production, and processing of iron ore, metallurgical coal, and copper..",
+        "label": 0
+    },
+    {
+        "statement": "VINCI has headquarters in South Korea.",
+        "label": 0
+    },
+    {
+        "statement": "Enel has headquarters in Rome.",
+        "label": 1
+    },
+    {
+        "statement": "Sumitomo Mitsui Financial operates in the industry of Utilities.",
+        "label": 0
+    },
+    {
+        "statement": "Lowe's has headquarters in Australia.",
+        "label": 0
+    },
+    {
+        "statement": "Honda Motor engages in the manufacture and sale of automobiles, motorcycles and power products..",
+        "label": 1
+    },
+    {
+        "statement": "HDFC Bank operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "Rio Tinto provides banking, financial products and services to retail, small business, corporate and institutional clients..",
+        "label": 0
+    },
+    {
+        "statement": "Truist Financial operates as a research healthcare company..",
+        "label": 0
+    },
+    {
+        "statement": "Hitachi operates in the industry of conglomerates.",
+        "label": 1
+    },
+    {
+        "statement": "Bank of Communications has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "Sony has headquarters in Japan.",
+        "label": 1
+    },
+    {
+        "statement": "Vale has headquarters in Brazil.",
+        "label": 1
+    },
+    {
+        "statement": "Coca-Cola operates in the industry of Oil & Gas Operations.",
+        "label": 0
+    },
+    {
+        "statement": "BNP Paribas operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "China Merchants Bank engages in the provision of corporate and personal banking services..",
+        "label": 1
+    },
+    {
+        "statement": "Medtronic is a medical technology company, which engages in the development, manufacture, distribution, and sale of device-based medical therapies and services..",
+        "label": 1
+    },
+    {
+        "statement": "HCA Healthcare operates in the industry of health care equipment & services.",
+        "label": 1
+    },
+    {
+        "statement": "Bayerische Motoren Werke (BMW) engages in the provision of financial and insurance services..",
+        "label": 0
+    },
+    {
+        "statement": "CITIC has headquarters in Russia.",
+        "label": 0
+    },
+    {
+        "statement": "LVMH Moet Hennessy Louis Vuitton operates in the industry of Semiconductors.",
+        "label": 0
+    },
+    {
+        "statement": "Poly Developments & Holdings Group has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "Tesla operates in the industry of consumer durables.",
+        "label": 1
+    },
+    {
+        "statement": "Siemens is a U.S. subsidiary of Siemens AG, a global powerhouse focusing on the areas of power generation and distribution, intelligent infrastructure for buildings and distributed energy systems, and automation and digitalization in the process and manufacturing industries..",
+        "label": 1
+    },
+    {
+        "statement": "Industrial and Commercial Bank of China has headquarters in China.",
+        "label": 1
+    },
+    {
+        "statement": "FedEx is a holding company that engages in the provision of telecommunications media and technology service..",
+        "label": 0
+    },
+    {
+        "statement": "China Mobile operates as an investment holding company..",
+        "label": 1
+    },
+    {
+        "statement": "Hyundai Motor has headquarters in China.",
+        "label": 0
+    },
+    {
+        "statement": "China Petroleum & Chemical has headquarters in China.",
+        "label": 1
+    },
+    {
+        "statement": "Bank of Montreal operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "Reliance Industries has headquarters in India.",
+        "label": 1
+    },
+    {
+        "statement": "ING Group has headquarters in Russia.",
+        "label": 0
+    },
+    {
+        "statement": "Commonwealth Bank of Australia is a nonalcoholic beverage company that engages in the manufacture, market, and sale of non-alcoholic beverages, including sparkling soft drinks, water, sports drinks, tea, coffee and energy drinks..",
+        "label": 0
+    },
+    {
+        "statement": "PepsiCo engages in the manufacture, marketing, distribution and sale of beverages, food, and snacks..",
+        "label": 1
+    },
+    {
+        "statement": "AIA Group operates in the industry of Electricity & Gas.",
+        "label": 0
+    },
+    {
+        "statement": "China Petroleum & Chemical engages in the manufacture, marketing, distribution and sale of beverages, food, and snacks..",
+        "label": 0
+    },
+    {
+        "statement": "Anheuser-Busch InBev operates in the industry of Insurance.",
+        "label": 0
+    },
+    {
+        "statement": "Capital One has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Abbott Laboratories operates in the industry of healthcare equipment & services.",
+        "label": 1
+    },
+    {
+        "statement": "Bank of Communications operates in the industry of Technology.",
+        "label": 0
+    },
+    {
+        "statement": "Target engages in owning and operating of general merchandise stores..",
+        "label": 1
+    },
+    {
+        "statement": "Cigna Corporation engages in the provision of global health services..",
+        "label": 1
+    },
+    {
+        "statement": "LVMH Moet Hennessy Louis Vuitton is a holding company, which engages in the development, manufacture, and marketing of healthcare products..",
+        "label": 0
+    },
+    {
+        "statement": "China State Construction Engineering has headquarters in Canada.",
+        "label": 0
+    },
+    {
+        "statement": "Hitachi engages in the provision of services utilizing the function of general trading..",
+        "label": 0
+    },
+    {
+        "statement": "Taiwan Semiconductor Manufacturing Company engages in the manufacture and sale of integrated circuits and wafer semiconductor devices..",
+        "label": 1
+    },
+    {
+        "statement": "Hyundai Motor engages in the manufacture and distribution of motor vehicles and parts..",
+        "label": 1
+    },
+    {
+        "statement": "Rosneft is a banking services company, which engages in the provision of banking services to individuals, companies, and institutions..",
+        "label": 0
+    },
+    {
+        "statement": "Chubb has headquarters in Switzerland.",
+        "label": 1
+    },
+    {
+        "statement": "Comcast is a media, entertainment and communications company that engages in the provision of video, Internet and phone services..",
+        "label": 1
+    },
+    {
+        "statement": "SoftBank engages in the provision of insurance and investment advisory services..",
+        "label": 0
+    },
+    {
+        "statement": "Honeywell has headquarters in Taiwan.",
+        "label": 0
+    },
+    {
+        "statement": "Electricite de France operates in the industry of Materials.",
+        "label": 0
+    },
+    {
+        "statement": "United Parcel Service operates in the industry of transportation.",
+        "label": 1
+    },
+    {
+        "statement": "Comcast operates in the industry of media.",
+        "label": 1
+    },
+    {
+        "statement": "China Shenhua Energy has headquarters in Japan.",
+        "label": 0
+    },
+    {
+        "statement": "Agricultural Bank of China has headquarters in China.",
+        "label": 1
+    },
+    {
+        "statement": "Zurich Insurance engages in the provision of commercial banking and financial services..",
+        "label": 0
+    },
+    {
+        "statement": "Westpac Banking engages in the provision of banking and financial services..",
+        "label": 1
+    },
+    {
+        "statement": "AIA Group operates in the industry of insurance.",
+        "label": 1
+    },
+    {
+        "statement": "Tesla has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Munich Reinsurance engages in the provision of insurance and reinsurance services..",
+        "label": 1
+    },
+    {
+        "statement": "Ping An Insurance (Group) Company of China operates in the industry of insurance.",
+        "label": 1
+    },
+    {
+        "statement": "Telefonica engages in the provision of insurance and financial products..",
+        "label": 0
+    },
+    {
+        "statement": "Procter & Gamble operates in the industry of household & personal products.",
+        "label": 1
+    },
+    {
+        "statement": "Lockheed Martin operates as a global security and aerospace company, which engages in the research, design, development, manufacture, integration, and sustainment of technology systems, products, and services..",
+        "label": 1
+    },
+    {
+        "statement": "Comcast engages in the production and marketing of metal, mineral, and energy and agricultural commodities..",
+        "label": 0
+    },
+    {
+        "statement": "Bayerische Motoren Werke (BMW) operates in the industry of consumer durables.",
+        "label": 1
+    },
+    {
+        "statement": "SoftBank has headquarters in Japan.",
+        "label": 1
+    },
+    {
+        "statement": "ArcelorMittal operates in the industry of Gas & Oil Operations.",
+        "label": 0
+    },
+    {
+        "statement": "Micron Technology operates as a logistics and package delivery company providing supply chain management services..",
+        "label": 0
+    },
+    {
+        "statement": "Nippon Telegraph & Telephone operates in the industry of telecommunications services.",
+        "label": 1
+    },
+    {
+        "statement": "Canadian Imperial Bank of Commerce engages in the provision of banking and financial services..",
+        "label": 0
+    },
+    {
+        "statement": "Charter Communications has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Zurich Insurance operates in the industry of insurance.",
+        "label": 1
+    },
+    {
+        "statement": "Micron Technology has headquarters in France.",
+        "label": 0
+    },
+    {
+        "statement": "Mizuho Financial operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "Stellantis operates in the industry of consumer durables.",
+        "label": 1
+    },
+    {
+        "statement": "Capital One operates in the industry of IT Software & Services.",
+        "label": 0
+    },
+    {
+        "statement": "Reliance Industries has headquarters in Canada.",
+        "label": 0
+    },
+    {
+        "statement": "Public Joint Stock Company Gazprom is a global energy company that engages in geological exploration, production, transportation, storage, processing and sales of gas, gas condensate and oil..",
+        "label": 1
+    },
+    {
+        "statement": "Lowe's engages in the retail sale of home improvement products..",
+        "label": 1
+    },
+    {
+        "statement": "Westpac Banking has headquarters in Brazil.",
+        "label": 0
+    },
+    {
+        "statement": "PepsiCo operates in the industry of Insurance.",
+        "label": 0
+    },
+    {
+        "statement": "Credit Agricole operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "Barclays has headquarters in Russia.",
+        "label": 0
+    },
+    {
+        "statement": "Zurich Insurance has headquarters in China.",
+        "label": 0
+    },
+    {
+        "statement": "Nippon Telegraph & Telephone has headquarters in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Ping An Insurance (Group) Company of China has headquarters in China.",
+        "label": 1
+    },
+    {
+        "statement": "Bank of America has headquarters in Norway.",
+        "label": 0
+    },
+    {
+        "statement": "Volkswagen Group operates in the industry of Telecommunications Services.",
+        "label": 0
+    },
+    {
+        "statement": "HSBC Holdings operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "BBVA operates in the industry of Household & Personal Products.",
+        "label": 0
+    },
+    {
+        "statement": "British American Tobacco operates in the industry of food, drink & tobacco.",
+        "label": 1
+    },
+    {
+        "statement": "Bristol Myers Squibb engages in the provision of global health services..",
+        "label": 0
+    },
+    {
+        "statement": "Walt Disney operates in the industry of Aerospace & Defense.",
+        "label": 0
+    },
+    {
+        "statement": "Costco Wholesale has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "HSBC Holdings engages in the provision of banking and financial services..",
+        "label": 1
+    },
+    {
+        "statement": "Linde engages in owning and operating of general merchandise stores..",
+        "label": 0
+    },
+    {
+        "statement": "Iberdrola has headquarters in Spain.",
+        "label": 1
+    },
+    {
+        "statement": "China Merchants Bank has headquarters in China.",
+        "label": 1
+    },
+    {
+        "statement": "Allianz is a media, entertainment and communications company that engages in the provision of video, Internet and phone services..",
+        "label": 0
+    },
+    {
+        "statement": "Industrial and Commercial Bank of China engages in the provision of commercial banking and financial services..",
+        "label": 1
+    },
+    {
+        "statement": "Total engages in the design, development and manufacturing of nanotechnology, heat transfer, wireless connectivity and material sciences products..",
+        "label": 0
+    },
+    {
+        "statement": "Deutsche Post engages in the provision of mail and logistics services..",
+        "label": 1
+    },
+    {
+        "statement": "Meta Platforms has headquarters in Hong Kong.",
+        "label": 0
+    },
+    {
+        "statement": "AXA operates in the industry of Semiconductors.",
+        "label": 0
+    },
+    {
+        "statement": "ArcelorMittal operates in the industry of materials.",
+        "label": 1
+    },
+    {
+        "statement": "Intel has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "CITIC has headquarters in Hong Kong.",
+        "label": 1
+    },
+    {
+        "statement": "Samsung Group has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "Bayerische Motoren Werke (BMW) has headquarters in Australia.",
+        "label": 0
+    },
+    {
+        "statement": "Itochu operates in the industry of trading companies.",
+        "label": 1
+    },
+    {
+        "statement": "Duke Energy operates in the industry of utilities.",
+        "label": 1
+    },
+    {
+        "statement": "Abbott Laboratories engages in the discovery, development, manufacture and sale of a broad and diversified line of healthcare products..",
+        "label": 1
+    },
+    {
+        "statement": "Novartis operates as a medical company, which designs, manufactures, and markets professional, medical, industrial and commercial products and services..",
+        "label": 0
+    },
+    {
+        "statement": "UBS Group has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "Credit Agricole operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Ford Motor operates in the industry of Chemicals.",
+        "label": 0
+    },
+    {
+        "statement": "Petrobras operates in the industry of Retailing.",
+        "label": 0
+    },
+    {
+        "statement": "Rosneft has headquarters in Russia.",
+        "label": 1
+    },
+    {
+        "statement": "Mitsui operates in the industry of trading companies.",
+        "label": 1
+    },
+    {
+        "statement": "Petrobras engages in oil and gas exploration, production, and distribution activities..",
+        "label": 1
+    },
+    {
+        "statement": "Apple has headquarters in Canada.",
+        "label": 0
+    },
+    {
+        "statement": "Glencore has headquarters in China.",
+        "label": 0
+    },
+    {
+        "statement": "Verizon Communications is a holding company that engages in the provision of communications, information and entertainment products and services to consumers, businesses and governmental agencies..",
+        "label": 1
+    },
+    {
+        "statement": "Dell Technologies is a holding company, which engages in the provision of information technology hardware, software, and service solutions through its subsidiaries..",
+        "label": 1
+    },
+    {
+        "statement": "Manulife has headquarters in Russia.",
+        "label": 0
+    },
+    {
+        "statement": "Dell Technologies has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Samsung Group operates in the industry of technology.",
+        "label": 1
+    },
+    {
+        "statement": "Bank of Montreal provides banking and financial services to individuals and institutions..",
+        "label": 1
+    },
+    {
+        "statement": "Saudi Arabian Oil Company (Saudi Aramco) engages in the exploration, development and production of crude oil and natural gas..",
+        "label": 0
+    },
+    {
+        "statement": "FedEx operates in the industry of Insurance.",
+        "label": 0
+    },
+    {
+        "statement": "American Express has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Hitachi operates in the industry of Health Care Equipment & Services.",
+        "label": 0
+    },
+    {
+        "statement": "Univlever has headquarters in United Kingdom.",
+        "label": 1
+    },
+    {
+        "statement": "Toyota Motor engages in the manufacture and sale of motor vehicles and parts..",
+        "label": 1
+    },
+    {
+        "statement": "Roche Holding has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "BNP Paribas operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "AT&T has headquarters in Switzerland.",
+        "label": 0
+    },
+    {
+        "statement": "ING Group operates in the industry of diversified financials.",
+        "label": 1
+    },
+    {
+        "statement": "Danaher operates in the industry of conglomerates.",
+        "label": 1
+    },
+    {
+        "statement": "BP operates in the industry of Consumer Durables.",
+        "label": 0
+    },
+    {
+        "statement": "ANZ operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "Abbott Laboratories operates in the industry of Consumer Durables.",
+        "label": 0
+    },
+    {
+        "statement": "China Life Insurance engages in the provision of life, annuity, accident, and health insurance..",
+        "label": 1
+    },
+    {
+        "statement": "Eni operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Brookfield Asset Management engages in the production and marketing of consumer goods in the nutrition, hygiene, and personal care categories..",
+        "label": 0
+    },
+    {
+        "statement": "Banco Bradesco is a holding company, which engages in the provision of financial services..",
+        "label": 0
+    },
+    {
+        "statement": "Procter & Gamble has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Honda Motor has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "Enel operates in the industry of Trading Companies.",
+        "label": 0
+    },
+    {
+        "statement": "Sanofi operates in the industry of Construction.",
+        "label": 0
+    },
+    {
+        "statement": "Cigna Corporation is a medical technology company, which engages in the development, manufacture, distribution, and sale of device-based medical therapies and services..",
+        "label": 0
+    },
+    {
+        "statement": "America Movil has headquarters in Mexico.",
+        "label": 1
+    },
+    {
+        "statement": "BP has headquarters in France.",
+        "label": 0
+    },
+    {
+        "statement": "Walt Disney operates in the industry of media.",
+        "label": 1
+    },
+    {
+        "statement": "Shell has headquarters in Netherlands.",
+        "label": 1
+    },
+    {
+        "statement": "Total has headquarters in France.",
+        "label": 1
+    },
+    {
+        "statement": "RBC has headquarters in Canada.",
+        "label": 1
+    },
+    {
+        "statement": "Costco Wholesale is a medical technology company, which engages in the development, manufacture, distribution, and sale of device-based medical therapies and services..",
+        "label": 0
+    },
+    {
+        "statement": "Bank of China has headquarters in France.",
+        "label": 0
+    },
+    {
+        "statement": "LukOil operates in the industry of oil & gas operations.",
+        "label": 1
+    },
+    {
+        "statement": "Micron Technology operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Intel is a holding company, which engages in steelmaking and mining activities..",
+        "label": 0
+    },
+    {
+        "statement": "Shanghai Pudong Development Bank has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "State Bank of India has headquarters in India.",
+        "label": 1
+    },
+    {
+        "statement": "Duke Energy engages in distribution of natural gas and energy related services..",
+        "label": 1
+    },
+    {
+        "statement": "Anglo American operates in the industry of Construction.",
+        "label": 0
+    },
+    {
+        "statement": "Nestle operates in the industry of food, drink & tobacco.",
+        "label": 1
+    },
+    {
+        "statement": "Rio Tinto operates in the industry of Oil & Gas Operations.",
+        "label": 0
+    },
+    {
+        "statement": "China Life Insurance operates in the industry of Utilities.",
+        "label": 0
+    },
+    {
+        "statement": "Mitsui has headquarters in Japan.",
+        "label": 1
+    },
+    {
+        "statement": "Dell Technologies operates in the industry of technology hardware & equipment.",
+        "label": 1
+    },
+    {
+        "statement": "Generali Group operates in the industry of insurance.",
+        "label": 1
+    },
+    {
+        "statement": "Toronto-Dominion Bank operates in the industry of Materials.",
+        "label": 0
+    },
+    {
+        "statement": "Commonwealth Bank of Australia has headquarters in United Kingdom.",
+        "label": 0
+    },
+    {
+        "statement": "Morgan Stanley operates in the industry of diversified financials.",
+        "label": 1
+    },
+    {
+        "statement": "Caterpillar engages in the provision of insurance and reinsurance services..",
+        "label": 0
+    },
+    {
+        "statement": "Airbus Group operates in the industry of Telecommunications Services.",
+        "label": 0
+    },
+    {
+        "statement": "UnitedHealth Group operates in the industry of insurance.",
+        "label": 1
+    },
+    {
+        "statement": "Mizuho Financial operates in the industry of Insurance.",
+        "label": 0
+    },
+    {
+        "statement": "Chubb operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Anheuser-Busch InBev operates as a holding company, which engages in the manufacture and distribution of alcoholic and non-alcoholic beverages..",
+        "label": 1
+    },
+    {
+        "statement": "Meta Platforms operates in the industry of it software & services.",
+        "label": 1
+    },
+    {
+        "statement": "Eni engages in the exploration, production, refining and sale of oil, gas, electricity and chemicals..",
+        "label": 1
+    },
+    {
+        "statement": "Merck & Co. operates in the industry of united states.",
+        "label": 1
+    },
+    {
+        "statement": "Industrial Bank engages in the provision of corporate and personal banking services, financial lease, assets custody services and conducting treasury business..",
+        "label": 1
+    },
+    {
+        "statement": "E.ON operates in the industry of utilities.",
+        "label": 1
+    },
+    {
+        "statement": "Honeywell is a software industrial company, which offers industry specific solutions to aerospace and automotive products and services..",
+        "label": 1
+    },
+    {
+        "statement": "Industrial Bank operates in the industry of Telecommunications Services.",
+        "label": 0
+    },
+    {
+        "statement": "Telefonica operates in the industry of telecommunications services.",
+        "label": 1
+    },
+    {
+        "statement": "Zurich Insurance is a holding company, which engages in the provision of insurance products and related services..",
+        "label": 1
+    },
+    {
+        "statement": "Public Joint Stock Company Gazprom engages in the retail sale of home improvement products..",
+        "label": 0
+    },
+    {
+        "statement": "Tokio Marine Holdings operates in the industry of insurance.",
+        "label": 1
+    },
+    {
+        "statement": "Generali Group operates in the industry of Diversified Financials.",
+        "label": 0
+    },
+    {
+        "statement": "Cigna Corporation has headquarters in Switzerland.",
+        "label": 0
+    },
+    {
+        "statement": "Johnson & Johnson has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Charles Schwab Corporation operates in the industry of Materials.",
+        "label": 0
+    },
+    {
+        "statement": "Equinor operates in the industry of Capital Goods.",
+        "label": 0
+    },
+    {
+        "statement": "Banco Bradesco has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "Alphabet has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Itau Unibanco Holding operates in the industry of IT Software & Services.",
+        "label": 0
+    },
+    {
+        "statement": "General Motors operates in the industry of Food, Drink & Tobacco.",
+        "label": 0
+    },
+    {
+        "statement": "Vale engages in the provision of healthcare services..",
+        "label": 0
+    },
+    {
+        "statement": "Total operates in the industry of Retailing.",
+        "label": 0
+    },
+    {
+        "statement": "Danaher has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Airbus Group has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "VINCI engages in the provision of mail and logistics services..",
+        "label": 0
+    },
+    {
+        "statement": "Nippon Telegraph & Telephone operates in the industry of Oil & Gas Operations.",
+        "label": 0
+    },
+    {
+        "statement": "ANZ has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "SAP engages in the provision of enterprise application software and software-related services..",
+        "label": 1
+    },
+    {
+        "statement": "BBVA engages in the traditional banking businesses of retail banking, asset management, private banking, and wholesale banking..",
+        "label": 1
+    },
+    {
+        "statement": "AbbVie (ABBV) operates in the industry of Healthcare Equipment & Services.",
+        "label": 0
+    },
+    {
+        "statement": "Danaher operates in the industry of Chemicals.",
+        "label": 0
+    },
+    {
+        "statement": "Thermo Fisher Scientific operates in the industry of Consumer Durables.",
+        "label": 0
+    },
+    {
+        "statement": "Ping An Insurance (Group) Company of China provides commercial banking and financial services..",
+        "label": 0
+    },
+    {
+        "statement": "Cigna Corporation operates in the industry of Utilities.",
+        "label": 0
+    },
+    {
+        "statement": "Dell Technologies operates as a logistics and package delivery company providing supply chain management services..",
+        "label": 0
+    },
+    {
+        "statement": "Berkshire Hathaway operates in the industry of diversified financials.",
+        "label": 1
+    },
+    {
+        "statement": "KDDI operates in the industry of telecommunications services.",
+        "label": 1
+    },
+    {
+        "statement": "AIA Group has headquarters in Hong Kong.",
+        "label": 1
+    },
+    {
+        "statement": "Deere & Company is a nonalcoholic beverage company that engages in the manufacture, market, and sale of non-alcoholic beverages, including sparkling soft drinks, water, sports drinks, tea, coffee and energy drinks..",
+        "label": 0
+    },
+    {
+        "statement": "Chevron has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Duke Energy has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "American International Group is a holding company, which engages in the business of acquisition and operation of different companies..",
+        "label": 0
+    },
+    {
+        "statement": "China State Construction Engineering operates in the industry of construction.",
+        "label": 1
+    },
+    {
+        "statement": "AbbVie (ABBV) operates in the industry of drugs & biotechnology.",
+        "label": 1
+    },
+    {
+        "statement": "Generali Group is a holding company, which engages in the development, manufacture, and marketing of healthcare products..",
+        "label": 0
+    },
+    {
+        "statement": "Alphabet engages in the exploration, production, refining and sale of oil, gas, electricity and chemicals..",
+        "label": 0
+    },
+    {
+        "statement": "Tokio Marine Holdings is an investment company that engages in the provision of value-added services and online advertising services..",
+        "label": 0
+    },
+    {
+        "statement": "China Citic Bank has headquarters in China.",
+        "label": 1
+    },
+    {
+        "statement": "State Bank of India operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "Brookfield Asset Management has headquarters in Canada.",
+        "label": 1
+    },
+    {
+        "statement": "Amazon.com has headquarters in Italy.",
+        "label": 0
+    },
+    {
+        "statement": "Intel operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Westpac Banking has headquarters in Australia.",
+        "label": 1
+    },
+    {
+        "statement": "Bank of Nova Scotia operates in the industry of IT Software & Services.",
+        "label": 0
+    },
+    {
+        "statement": "Univlever operates in the industry of household & personal products.",
+        "label": 1
+    },
+    {
+        "statement": "RBC has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "Comcast has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Target has headquarters in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "KDDI engages in the telecommunications business..",
+        "label": 1
+    },
+    {
+        "statement": "Telefonica operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Chubb operates in the industry of insurance.",
+        "label": 1
+    },
+    {
+        "statement": "Barclays has headquarters in United Kingdom.",
+        "label": 1
+    },
+    {
+        "statement": "America Movil is a holding company, which engages in the provision of a portfolio of transportation, e-commerce, and business services..",
+        "label": 0
+    },
+    {
+        "statement": "UBS Group has headquarters in Switzerland.",
+        "label": 1
+    },
+    {
+        "statement": "GlaxoSmithKline operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "China Shenhua Energy operates in the industry of materials.",
+        "label": 1
+    },
+    {
+        "statement": "FedEx operates in the industry of transportation.",
+        "label": 1
+    },
+    {
+        "statement": "Petrobras operates in the industry of oil & gas operations.",
+        "label": 1
+    },
+    {
+        "statement": "Berkshire Hathaway provides property and casualty insurance and reinsurance, utilities and energy, freight rail transportation, finance, manufacturing, retailing, and services..",
+        "label": 1
+    },
+    {
+        "statement": "Volkswagen Group has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "Medtronic operates in the industry of health care equipment & services.",
+        "label": 1
+    },
+    {
+        "statement": "Mitsubishi UFJ Financial Group operates as a holding company, which provides financial services through its subsidiaries..",
+        "label": 1
+    },
+    {
+        "statement": "Credit Agricole operates as a holding company that engages in the management of its group companies..",
+        "label": 0
+    },
+    {
+        "statement": "Micron Technology engages in the provision of innovative memory and storage solutions..",
+        "label": 1
+    },
+    {
+        "statement": "British American Tobacco has headquarters in India.",
+        "label": 0
+    },
+    {
+        "statement": "Hon Hai Precision is a holding company, which engages in the development, manufacture, and marketing of healthcare products..",
+        "label": 0
+    },
+    {
+        "statement": "China Mobile operates in the industry of Consumer Durables.",
+        "label": 0
+    },
+    {
+        "statement": "Siemens has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "Raytheon Technologies engages in the provision of aerospace and defense systems and services for commercial, military and government customers..",
+        "label": 1
+    },
+    {
+        "statement": "HCA Healthcare has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Japan Post Holdings operates in the industry of insurance.",
+        "label": 1
+    },
+    {
+        "statement": "CNOOC operates in the industry of Insurance.",
+        "label": 0
+    },
+    {
+        "statement": "The Home Depot operates in the industry of Food, Drink & Tobacco.",
+        "label": 0
+    },
+    {
+        "statement": "Walmart is a holding company that engages in the provision of telecommunications media and technology service..",
+        "label": 0
+    },
+    {
+        "statement": "Samsung Group engages in the exploration, production, refining and sale of oil, gas, electricity and chemicals..",
+        "label": 0
+    },
+    {
+        "statement": "Procter & Gamble has headquarters in Luxembourg.",
+        "label": 0
+    },
+    {
+        "statement": "Microsoft engages in the provision of global health services..",
+        "label": 0
+    },
+    {
+        "statement": "ANZ is a software industrial company, which offers industry specific solutions to aerospace and automotive products and services..",
+        "label": 0
+    },
+    {
+        "statement": "Visa engages in the provision of digital payment services. It also facilitates global commerce through the transfer of value and information among global network of consumers, merchants, financial institutions, businesses, strategic partners, and government entities..",
+        "label": 1
+    },
+    {
+        "statement": "Mercedes-Benz Group operates in the industry of Aerospace & Defense.",
+        "label": 0
+    },
+    {
+        "statement": "Bank of Montreal has headquarters in Japan.",
+        "label": 0
+    },
+    {
+        "statement": "UBS Group engages in oil and gas exploration, production, and distribution activities..",
+        "label": 0
+    },
+    {
+        "statement": "Toronto-Dominion Bank has headquarters in Canada.",
+        "label": 1
+    },
+    {
+        "statement": "Dow is a materials science company, combining science and technology to develop innovative solutions..",
+        "label": 1
+    },
+    {
+        "statement": "GlaxoSmithKline is a healthcare company that engages in the research, development and manufacture of pharmaceutical medicines, vaccines and consumer healthcare products..",
+        "label": 1
+    },
+    {
+        "statement": "Sanofi has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "Honda Motor has headquarters in Japan.",
+        "label": 1
+    },
+    {
+        "statement": "Itochu operates in the industry of Transportation.",
+        "label": 0
+    },
+    {
+        "statement": "China State Construction Engineering operates in the industry of Telecommunications Services.",
+        "label": 0
+    },
+    {
+        "statement": "PNC Financial Services has headquarters in Japan.",
+        "label": 0
+    },
+    {
+        "statement": "Bristol Myers Squibb operates in the industry of drugs & biotechnology.",
+        "label": 1
+    },
+    {
+        "statement": "Verizon Communications operates in the industry of Conglomerates.",
+        "label": 0
+    },
+    {
+        "statement": "Accenture has headquarters in Ireland.",
+        "label": 1
+    },
+    {
+        "statement": "Anthem operates in the industry of drugs & biotechnology.",
+        "label": 1
+    },
+    {
+        "statement": "Allianz operates in the industry of insurance.",
+        "label": 1
+    },
+    {
+        "statement": "Charles Schwab Corporation is a savings and loan holding company, which engages in the provision of wealth management, securities brokerage, banking, asset management, custody, and financial advisory services..",
+        "label": 1
+    },
+    {
+        "statement": "Sanofi has headquarters in France.",
+        "label": 1
+    },
+    {
+        "statement": "Santander has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "Anthem provides life, hospital and medical insurance plans..",
+        "label": 1
+    },
+    {
+        "statement": "Airbus Group has headquarters in Netherlands.",
+        "label": 1
+    },
+    {
+        "statement": "Berkshire Hathaway has headquarters in China.",
+        "label": 0
+    },
+    {
+        "statement": "Johnson & Johnson provides insurance and financial services to individual and institutional customers..",
+        "label": 0
+    },
+    {
+        "statement": "Verizon Communications operates in the industry of telecommunications services.",
+        "label": 1
+    },
+    {
+        "statement": "Medtronic is a holding company, which engages in the development, manufacture, and marketing of healthcare products..",
+        "label": 0
+    },
+    {
+        "statement": "Tesla operates in the industry of Transportation.",
+        "label": 0
+    },
+    {
+        "statement": "Chubb operates as a holding company, which engages in the provision of commercial and personal property and casualty insurance, personal accident and supplemental health insurance (A&H), reinsurance, and life insurance..",
+        "label": 1
+    },
+    {
+        "statement": "Canadian Imperial Bank of Commerce operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "Mitsubishi UFJ Financial Group operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "China Vanke operates in the industry of Consumer Durables.",
+        "label": 0
+    },
+    {
+        "statement": "China Citic Bank operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "KDDI has headquarters in Japan.",
+        "label": 1
+    },
+    {
+        "statement": "Zurich Insurance has headquarters in Switzerland.",
+        "label": 1
+    },
+    {
+        "statement": "E.ON has headquarters in France.",
+        "label": 0
+    },
+    {
+        "statement": "Glencore has headquarters in Switzerland.",
+        "label": 1
+    },
+    {
+        "statement": "ING Group engages in the manufacture and sale of electrical equipment..",
+        "label": 0
+    },
+    {
+        "statement": "British American Tobacco operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Electricite de France has headquarters in Russia.",
+        "label": 0
+    },
+    {
+        "statement": "Coca-Cola provides insurance and financial services to individual and institutional customers..",
+        "label": 0
+    },
+    {
+        "statement": "Citigroup operates in the industry of diversified financials.",
+        "label": 1
+    },
+    {
+        "statement": "Toyota Motor engages in the development, design, manufacture, and sale of electronic equipment, instruments, devices, game consoles, and software for consumers, professionals and industrial markets..",
+        "label": 0
+    },
+    {
+        "statement": "Target operates in the industry of Food, Drink & Tobacco.",
+        "label": 0
+    },
+    {
+        "statement": "Broadcom operates in the industry of Capital Goods.",
+        "label": 0
+    },
+    {
+        "statement": "China State Construction Engineering engages in the provision of analytical instruments, equipment, reagents and consumables, software and services for research, analysis, discovery and diagnostics..",
+        "label": 0
+    },
+    {
+        "statement": "United Parcel Service has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "MetLife operates in the industry of Consumer Durables.",
+        "label": 0
+    },
+    {
+        "statement": "China Telecom is a health care services company, which engages in operating hospitals, freestanding surgery centers and emergency rooms, and urgent care centers..",
+        "label": 0
+    },
+    {
+        "statement": "PetroChina operates in the industry of oil & gas operations.",
+        "label": 1
+    },
+    {
+        "statement": "Siemens has headquarters in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Sanofi operates in the industry of drugs & biotechnology.",
+        "label": 1
+    },
+    {
+        "statement": "Novartis has headquarters in Switzerland.",
+        "label": 1
+    },
+    {
+        "statement": "Nippon Telegraph & Telephone has headquarters in Japan.",
+        "label": 1
+    },
+    {
+        "statement": "Bank of China operates in the industry of Conglomerates.",
+        "label": 0
+    },
+    {
+        "statement": "Mitsubishi engages in the exploration, production, transportation and marketing of crude oil, bitumen, natural gas, natural gas liquids and liquefied natural gas on a worldwide basis..",
+        "label": 0
+    },
+    {
+        "statement": "Walt Disney has headquarters in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Charles Schwab Corporation engages in the development and sale of properties..",
+        "label": 0
+    },
+    {
+        "statement": "Hon Hai Precision operates in the industry of Consumer Durables.",
+        "label": 0
+    },
+    {
+        "statement": "Vale has headquarters in China.",
+        "label": 0
+    },
+    {
+        "statement": "General Motors engages in the provision of healthcare services..",
+        "label": 0
+    },
+    {
+        "statement": "China Mobile has headquarters in Hong Kong.",
+        "label": 1
+    },
+    {
+        "statement": "Hyundai Motor operates in the industry of consumer durables.",
+        "label": 1
+    },
+    {
+        "statement": "Bank of Nova Scotia engages in the provision of aerospace and defense systems and services for commercial, military and government customers..",
+        "label": 0
+    },
+    {
+        "statement": "ConocoPhillips engages in the provision of banking and financial services..",
+        "label": 0
+    },
+    {
+        "statement": "ArcelorMittal engages in the manufacturing and distribution of equipment used in agriculture, construction, forestry, and turf care..",
+        "label": 0
+    },
+    {
+        "statement": "RBC operates in the industry of Insurance.",
+        "label": 0
+    },
+    {
+        "statement": "ConocoPhillips engages in the exploration, production, transportation and marketing of crude oil, bitumen, natural gas, natural gas liquids and liquefied natural gas on a worldwide basis..",
+        "label": 1
+    },
+    {
+        "statement": "Charles Schwab Corporation has headquarters in Japan.",
+        "label": 0
+    },
+    {
+        "statement": "Manulife operates in the industry of Diversified Financials.",
+        "label": 0
+    },
+    {
+        "statement": "Rio Tinto engages in the exploration, mining, and processing of mineral resources..",
+        "label": 1
+    },
+    {
+        "statement": "Itau Unibanco Holding operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "Walgreens engages in the provision of drug store services..",
+        "label": 1
+    },
+    {
+        "statement": "Wells Fargo engages in the discovery, development, manufacture and sale of a broad and diversified line of healthcare products..",
+        "label": 0
+    },
+    {
+        "statement": "Taiwan Semiconductor Manufacturing Company has headquarters in Taiwan.",
+        "label": 1
+    },
+    {
+        "statement": "Deere & Company operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Itochu engages in oil and natural gas production..",
+        "label": 0
+    },
+    {
+        "statement": "Intel operates in the industry of semiconductors.",
+        "label": 1
+    },
+    {
+        "statement": "Tokio Marine Holdings has headquarters in Japan.",
+        "label": 1
+    },
+    {
+        "statement": "PNC Financial Services is a holding company, which engages in the provision of financial services..",
+        "label": 1
+    },
+    {
+        "statement": "Industrial Bank engages in owning and operating of general merchandise stores..",
+        "label": 0
+    },
+    {
+        "statement": "National Australia Bank has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "China Merchants Bank operates in the industry of Consumer Durables.",
+        "label": 0
+    },
+    {
+        "statement": "Bank of Nova Scotia engages in the provision of financial products and services, including personal, commercial, corporate, and investment banking..",
+        "label": 1
+    },
+    {
+        "statement": "Anglo American has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "Danaher engages in the provision of insurance and investment advisory services..",
+        "label": 0
+    },
+    {
+        "statement": "HCA Healthcare operates in the industry of Transportation.",
+        "label": 0
+    },
+    {
+        "statement": "Equinor has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "Saudi Arabian Oil Company (Saudi Aramco) has headquarters in Switzerland.",
+        "label": 0
+    },
+    {
+        "statement": "Sony operates in the industry of consumer durables.",
+        "label": 1
+    },
+    {
+        "statement": "Prudential Financial has headquarters in China.",
+        "label": 0
+    },
+    {
+        "statement": "Truist Financial has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Deutsche Post has headquarters in Switzerland.",
+        "label": 0
+    },
+    {
+        "statement": "FedEx has headquarters in Taiwan.",
+        "label": 0
+    },
+    {
+        "statement": "Taiwan Semiconductor Manufacturing Company has headquarters in China.",
+        "label": 0
+    },
+    {
+        "statement": "Broadcom has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Roche Holding operates as a research healthcare company..",
+        "label": 1
+    },
+    {
+        "statement": "Canadian Imperial Bank of Commerce has headquarters in Canada.",
+        "label": 1
+    },
+    {
+        "statement": "Shanghai Pudong Development Bank is a materials science company, combining science and technology to develop innovative solutions..",
+        "label": 0
+    },
+    {
+        "statement": "Intesa Sanpaolo engages in the provision of financial products and banking services..",
+        "label": 1
+    },
+    {
+        "statement": "China Construction Bank engages in the research, production and distribution of pharmaceutical products..",
+        "label": 0
+    },
+    {
+        "statement": "Mitsui operates in the industry of Retailing.",
+        "label": 0
+    },
+    {
+        "statement": "Canadian Imperial Bank of Commerce has headquarters in Brazil.",
+        "label": 0
+    },
+    {
+        "statement": "SAP is an investment holding company that engages in the exploration, development, production and sale of crude oil, natural gas and other petroleum products through its subsidiaries..",
+        "label": 0
+    },
+    {
+        "statement": "HDFC Bank has headquarters in India.",
+        "label": 1
+    },
+    {
+        "statement": "Merck & Co. operates in the industry of Telecommunications Services.",
+        "label": 0
+    },
+    {
+        "statement": "Walgreens operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "MetLife provides insurance and financial services to individual and institutional customers..",
+        "label": 1
+    },
+    {
+        "statement": "Lloyds Banking Group has headquarters in United Kingdom.",
+        "label": 1
+    },
+    {
+        "statement": "CNOOC is an investment holding company that engages in the exploration, development, production and sale of crude oil, natural gas and other petroleum products through its subsidiaries..",
+        "label": 1
+    },
+    {
+        "statement": "LukOil engages in the exploration, production, refining, marketing and distribution of oil..",
+        "label": 1
+    },
+    {
+        "statement": "Coca-Cola operates in the industry of food, drink & tobacco.",
+        "label": 1
+    },
+    {
+        "statement": "Intesa Sanpaolo operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "Duke Energy is a financial services company, which engages in the provision of a wide range of banking and financial services..",
+        "label": 0
+    },
+    {
+        "statement": "CITIC operates in the industry of trading companies.",
+        "label": 1
+    },
+    {
+        "statement": "Roche Holding is a media, entertainment and communications company that engages in the provision of video, Internet and phone services..",
+        "label": 0
+    },
+    {
+        "statement": "Industrial and Commercial Bank of China operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "China Telecom operates in the industry of Materials.",
+        "label": 0
+    },
+    {
+        "statement": "AT&T is a holding company that engages in the provision of telecommunications media and technology service..",
+        "label": 1
+    },
+    {
+        "statement": "Coca-Cola has headquarters in South Korea.",
+        "label": 0
+    },
+    {
+        "statement": "Deutsche Telekom has headquarters in France.",
+        "label": 0
+    },
+    {
+        "statement": "Allianz has headquarters in Brazil.",
+        "label": 0
+    },
+    {
+        "statement": "AbbVie (ABBV) has headquarters in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "BlackRock operates in the industry of Materials.",
+        "label": 0
+    },
+    {
+        "statement": "Anheuser-Busch InBev has headquarters in Belgium.",
+        "label": 1
+    },
+    {
+        "statement": "Agricultural Bank of China engages in the provision of banking and financial services..",
+        "label": 0
+    },
+    {
+        "statement": "Pfizer operates in the industry of drugs & biotechnology.",
+        "label": 1
+    },
+    {
+        "statement": "UnitedHealth Group engages in the provision of financial services..",
+        "label": 0
+    },
+    {
+        "statement": "SoftBank has headquarters in France.",
+        "label": 0
+    },
+    {
+        "statement": "Merck & Co. engages in the provision of banking and financial services..",
+        "label": 0
+    },
+    {
+        "statement": "Morgan Stanley operates as a global financial services company..",
+        "label": 1
+    },
+    {
+        "statement": "Moller - Maersk engages in the provision of financial and insurance services..",
+        "label": 0
+    },
+    {
+        "statement": "American International Group operates in the industry of Insurance.",
+        "label": 0
+    },
+    {
+        "statement": "Munich Reinsurance operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Allianz operates in the industry of Drugs & Biotechnology.",
+        "label": 0
+    },
+    {
+        "statement": "Lowe's operates in the industry of Media.",
+        "label": 0
+    },
+    {
+        "statement": "PepsiCo engages in the provision of analytical instruments, equipment, reagents and consumables, software and services for research, analysis, discovery and diagnostics..",
+        "label": 0
+    },
+    {
+        "statement": "HDFC Bank engages in the provision of banking and financial services, including commercial banking and treasury operations..",
+        "label": 1
+    },
+    {
+        "statement": "PetroChina engages in the petroleum related products, services and activities..",
+        "label": 1
+    },
+    {
+        "statement": "Thermo Fisher Scientific engages in the provision of analytical instruments, equipment, reagents and consumables, software and services for research, analysis, discovery and diagnostics..",
+        "label": 1
+    },
+    {
+        "statement": "BP operates in the industry of oil & gas operations.",
+        "label": 1
+    },
+    {
+        "statement": "Charles Schwab Corporation operates in the industry of diversified financials.",
+        "label": 1
+    },
+    {
+        "statement": "E.ON has headquarters in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Deere & Company operates in the industry of capital goods.",
+        "label": 1
+    },
+    {
+        "statement": "China Citic Bank has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "Itau Unibanco Holding operates as a research healthcare company..",
+        "label": 0
+    },
+    {
+        "statement": "AIA Group engages in the design, manufacture and sale of computer products and technologies..",
+        "label": 0
+    },
+    {
+        "statement": "Fubon Financial engages in the provision of broadband communications services..",
+        "label": 0
+    },
+    {
+        "statement": "Postal Savings Bank of China engages in the provision of banking and related financial services..",
+        "label": 1
+    },
+    {
+        "statement": "Stellantis engages in distribution of natural gas and energy related services..",
+        "label": 0
+    },
+    {
+        "statement": "China Construction Bank engages in the provision of a wide range of financial services to corporate and personal customers..",
+        "label": 1
+    },
+    {
+        "statement": "Glencore operates in the industry of materials.",
+        "label": 1
+    },
+    {
+        "statement": "Broadcom has headquarters in United Kingdom.",
+        "label": 0
+    },
+    {
+        "statement": "CVS Health engages in the provision of healthcare services..",
+        "label": 1
+    },
+    {
+        "statement": "Univlever has headquarters in Japan.",
+        "label": 0
+    },
+    {
+        "statement": "Public Joint Stock Company Gazprom operates in the industry of Insurance.",
+        "label": 0
+    },
+    {
+        "statement": "Abbott Laboratories has headquarters in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Lowe's operates in the industry of retailing.",
+        "label": 1
+    },
+    {
+        "statement": "Santander operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "Agricultural Bank of China engages in the provision of international commercial banking and financial services..",
+        "label": 1
+    },
+    {
+        "statement": "Bank of China operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "America Movil operates in the industry of Consumer Durables.",
+        "label": 0
+    },
+    {
+        "statement": "China Mobile operates in the industry of telecommunications services.",
+        "label": 1
+    },
+    {
+        "statement": "Itochu has headquarters in Japan.",
+        "label": 1
+    },
+    {
+        "statement": "Mercedes-Benz Group engages in the production and distribution of cars, trucks and vans..",
+        "label": 1
+    },
+    {
+        "statement": "China Petroleum & Chemical operates in the industry of Oil & Gas Operations.",
+        "label": 0
+    },
+    {
+        "statement": "SoftBank operates in the industry of Diversified Financials.",
+        "label": 0
+    },
+    {
+        "statement": "Walt Disney engages in the manufacture and sale of automobiles and motorcycles..",
+        "label": 0
+    },
+    {
+        "statement": "Tokio Marine Holdings has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "China Vanke engages in the discovery, development, licensing, manufacture, marketing, distribution and sale of biopharmaceutical products..",
+        "label": 0
+    },
+    {
+        "statement": "Shell operates in the industry of Consumer Durables.",
+        "label": 0
+    },
+    {
+        "statement": "Alibaba Group has headquarters in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Santander operates in the industry of Consumer Durables.",
+        "label": 0
+    },
+    {
+        "statement": "Commonwealth Bank of Australia operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "E.ON is a holding company, which engages in the development, manufacture, and marketing of healthcare products..",
+        "label": 0
+    },
+    {
+        "statement": "Charter Communications engages in the provision of broadband communications services..",
+        "label": 1
+    },
+    {
+        "statement": "Saudi Arabian Oil Company (Saudi Aramco) engages in the exploration, production, transportation, and sale of crude oil and natural gas..",
+        "label": 1
+    },
+    {
+        "statement": "Citigroup has headquarters in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Mitsui engages in the general trading business..",
+        "label": 1
+    },
+    {
+        "statement": "China Life Insurance engages in the provision of healthcare coverage, software and data consultancy services..",
+        "label": 0
+    },
+    {
+        "statement": "Charter Communications has headquarters in Canada.",
+        "label": 0
+    },
+    {
+        "statement": "China Construction Bank has headquarters in China.",
+        "label": 1
+    },
+    {
+        "statement": "BASF operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Alphabet has headquarters in South Korea.",
+        "label": 0
+    },
+    {
+        "statement": "Berkshire Hathaway operates in the industry of Transportation.",
+        "label": 0
+    },
+    {
+        "statement": "Public Joint Stock Company Gazprom has headquarters in China.",
+        "label": 0
+    },
+    {
+        "statement": "Lockheed Martin operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Stellantis engages in the design, engineering, manufacturing, distribution and sale of automobiles and light commercial vehicles, engines, transmission systems, automotive-related components, metallurgical products and production systems..",
+        "label": 1
+    },
+    {
+        "statement": "Deutsche Telekom operates in the industry of telecommunications services.",
+        "label": 1
+    },
+    {
+        "statement": "AT&T has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Accenture operates in the industry of Oil & Gas Operations.",
+        "label": 0
+    },
+    {
+        "statement": "Moller - Maersk has headquarters in Denmark.",
+        "label": 1
+    },
+    {
+        "statement": "Mitsui has headquarters in China.",
+        "label": 0
+    },
+    {
+        "statement": "Goldman Sachs Group operates in the industry of Insurance.",
+        "label": 0
+    },
+    {
+        "statement": "China Telecom has headquarters in China.",
+        "label": 1
+    },
+    {
+        "statement": "Japan Post Holdings has headquarters in Japan.",
+        "label": 1
+    },
+    {
+        "statement": "Lloyds Banking Group is a holding company that engages in the provision of financial products and services..",
+        "label": 0
+    },
+    {
+        "statement": "United Parcel Service has headquarters in Japan.",
+        "label": 0
+    },
+    {
+        "statement": "IBM operates in the industry of it software & services.",
+        "label": 1
+    },
+    {
+        "statement": "Toronto-Dominion Bank engages in the provision of financial products and services..",
+        "label": 0
+    },
+    {
+        "statement": "Banco Bradesco has headquarters in Brazil.",
+        "label": 1
+    },
+    {
+        "statement": "Allianz engages in the provision of insurance and investment advisory services..",
+        "label": 1
+    },
+    {
+        "statement": "Industrial Bank has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "Commonwealth Bank of Australia has headquarters in Australia.",
+        "label": 1
+    },
+    {
+        "statement": "Intesa Sanpaolo has headquarters in Brazil.",
+        "label": 0
+    },
+    {
+        "statement": "BBVA is a banking services company, which engages in the provision of banking services to individuals, companies, and institutions..",
+        "label": 0
+    },
+    {
+        "statement": "Amazon.com operates in the industry of Semiconductors.",
+        "label": 0
+    },
+    {
+        "statement": "SK Hynix engages in the manufacture and sale of semiconductor products..",
+        "label": 1
+    },
+    {
+        "statement": "Oracle has headquarters in Ireland.",
+        "label": 0
+    },
+    {
+        "statement": "UBS Group operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "Tokio Marine Holdings engages in the management of its group companies which are in the insurance business..",
+        "label": 1
+    },
+    {
+        "statement": "Santander engages in the provision of banking and financial services..",
+        "label": 0
+    },
+    {
+        "statement": "Bank of America is a bank and financial holding company, which engages in the provision of banking and nonbank financial services..",
+        "label": 1
+    },
+    {
+        "statement": "ConocoPhillips operates in the industry of oil & gas operations.",
+        "label": 1
+    },
+    {
+        "statement": "Deutsche Telekom operates in the industry of Telecommunications Services.",
+        "label": 0
+    },
+    {
+        "statement": "Reliance Industries operates in the industry of gas & oil operations.",
+        "label": 1
+    },
+    {
+        "statement": "Samsung Group operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Microsoft operates in the industry of it software & services.",
+        "label": 1
+    },
+    {
+        "statement": "Meta Platforms engages in the provision of banking and financial services..",
+        "label": 0
+    },
+    {
+        "statement": "SAP operates in the industry of Oil & Gas Operations.",
+        "label": 0
+    },
+    {
+        "statement": "LukOil operates as a holding company that engages in the provision of insurance and asset management services..",
+        "label": 0
+    },
+    {
+        "statement": "Taiwan Semiconductor Manufacturing Company operates in the industry of semiconductors.",
+        "label": 1
+    },
+    {
+        "statement": "LVMH Moet Hennessy Louis Vuitton has headquarters in France.",
+        "label": 1
+    },
+    {
+        "statement": "Mercedes-Benz Group operates as an integrated oil and gas company..",
+        "label": 0
+    },
+    {
+        "statement": "Johnson & Johnson operates in the industry of drugs & biotechnology.",
+        "label": 1
+    },
+    {
+        "statement": "U.S. Bancorp engages in the manufacture and sale of motor vehicles and parts..",
+        "label": 0
+    },
+    {
+        "statement": "Hitachi has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Bank of Montreal engages in the design, manufacture and sale of computer products and technologies..",
+        "label": 0
+    },
+    {
+        "statement": "Medtronic has headquarters in Hong Kong.",
+        "label": 0
+    },
+    {
+        "statement": "BNP Paribas has headquarters in France.",
+        "label": 1
+    },
+    {
+        "statement": "China Petroleum & Chemical operates in the industry of oil & gas operations.",
+        "label": 1
+    },
+    {
+        "statement": "IBM engages in the exploration, mining, and processing of mineral resources..",
+        "label": 0
+    },
+    {
+        "statement": "China Petroleum & Chemical has headquarters in South Korea.",
+        "label": 0
+    },
+    {
+        "statement": "Mizuho Financial has headquarters in Japan.",
+        "label": 1
+    },
+    {
+        "statement": "AXA operates as a holding company that engages in the provision of insurance and asset management services..",
+        "label": 1
+    },
+    {
+        "statement": "Cisco Systems operates in the industry of technology hardware & equipment.",
+        "label": 1
+    },
+    {
+        "statement": "Bank of Communications operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "Honda Motor operates in the industry of Chemicals.",
+        "label": 0
+    },
+    {
+        "statement": "Allianz has headquarters in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Duke Energy has headquarters in United Kingdom.",
+        "label": 0
+    },
+    {
+        "statement": "HDFC Bank operates as a global financial services company..",
+        "label": 0
+    },
+    {
+        "statement": "Munich Reinsurance has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "PetroChina has headquarters in South Korea.",
+        "label": 0
+    },
+    {
+        "statement": "U.S. Bancorp operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Danaher has headquarters in China.",
+        "label": 0
+    },
+    {
+        "statement": "Mizuho Financial has headquarters in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Equinor has headquarters in Norway.",
+        "label": 1
+    },
+    {
+        "statement": "Toyota Motor operates in the industry of consumer durables.",
+        "label": 1
+    },
+    {
+        "statement": "Walmart has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Univlever operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Charles Schwab Corporation has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Sumitomo Mitsui Financial is a holding company that engages in the management of its subsidiaries that provide financial services..",
+        "label": 1
+    },
+    {
+        "statement": "Caterpillar has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Enbridge engages in the provision of gas and oil businesses..",
+        "label": 1
+    },
+    {
+        "statement": "Anthem operates in the industry of Health Care Equipment & Services.",
+        "label": 0
+    },
+    {
+        "statement": "Cisco Systems engages in the design, manufacture, and sale of Internet Protocol based networking products and services related to the communications and information technology industry..",
+        "label": 1
+    },
+    {
+        "statement": "Walgreens operates in the industry of retailing.",
+        "label": 1
+    },
+    {
+        "statement": "China Merchants Bank operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "Duke Energy operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "ING Group engages in the provision of banking, investments, life and non-life insurance, and retirement and asset management services..",
+        "label": 1
+    },
+    {
+        "statement": "Oracle engages in the design, manufacture and sale of computer products and technologies..",
+        "label": 0
+    },
+    {
+        "statement": "Banco Bradesco operates in the industry of Semiconductors.",
+        "label": 0
+    },
+    {
+        "statement": "Bank of Nova Scotia operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "Mitsubishi has headquarters in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Berkshire Hathaway operates as a financial holding company, which engages in the provision of banking services to individuals, businesses and municipalities..",
+        "label": 0
+    },
+    {
+        "statement": "National Australia Bank is a materials science company, combining science and technology to develop innovative solutions..",
+        "label": 0
+    },
+    {
+        "statement": "Westpac Banking operates in the industry of banking.",
+        "label": 1
+    },
+    {
+        "statement": "Japan Post Holdings operates as a holding company, which provides financial services through its subsidiaries..",
+        "label": 0
+    },
+    {
+        "statement": "ING Group operates in the industry of Materials.",
+        "label": 0
+    },
+    {
+        "statement": "Goldman Sachs Group has headquarters in China.",
+        "label": 0
+    },
+    {
+        "statement": "Volkswagen Group has headquarters in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Poly Developments & Holdings Group operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Enel engages in the electricity generation and distribution and distribution of natural gas..",
+        "label": 1
+    },
+    {
+        "statement": "Visa has headquarters in Switzerland.",
+        "label": 0
+    },
+    {
+        "statement": "Petrobras engages in shipping, energy, transportation, offshore drilling, and retail activities..",
+        "label": 0
+    },
+    {
+        "statement": "Commonwealth Bank of Australia operates in the industry of Insurance.",
+        "label": 0
+    },
+    {
+        "statement": "Danaher operates as a medical company, which designs, manufactures, and markets professional, medical, industrial and commercial products and services..",
+        "label": 1
+    },
+    {
+        "statement": "Bristol Myers Squibb has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "China Citic Bank is a commercial bank, which engages in the provision of corporate and personal banking services..",
+        "label": 1
+    },
+    {
+        "statement": "Amazon.com has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Mercedes-Benz Group operates in the industry of consumer durables.",
+        "label": 1
+    },
+    {
+        "statement": "CVS Health has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "Accenture provides financial products and services..",
+        "label": 0
+    },
+    {
+        "statement": "Cisco Systems operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Industrial and Commercial Bank of China engages in the development, design, manufacture, and sale of electronic equipment, instruments, devices, game consoles, and software for consumers, professionals and industrial markets..",
+        "label": 0
+    },
+    {
+        "statement": "BBVA has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "Mitsubishi UFJ Financial Group is a commercial bank, which engages in the provision of corporate and personal banking services..",
+        "label": 0
+    },
+    {
+        "statement": "JPMorgan Chase operates in the industry of diversified financials.",
+        "label": 1
+    },
+    {
+        "statement": "Fubon Financial operates in the industry of Capital Goods.",
+        "label": 0
+    },
+    {
+        "statement": "British American Tobacco British American Tobacco Acts as a financing subsidiary/special purpose entity..",
+        "label": 1
+    },
+    {
+        "statement": "Walmart engages in retail and wholesale business..",
+        "label": 1
+    },
+    {
+        "statement": "Bristol Myers Squibb operates in the industry of Food, Drink & Tobacco.",
+        "label": 0
+    },
+    {
+        "statement": "Amazon.com engages in the provision of online retail shopping services..",
+        "label": 1
+    },
+    {
+        "statement": "LukOil operates in the industry of Oil & Gas Operations.",
+        "label": 0
+    },
+    {
+        "statement": "Microsoft has headquarters in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Wells Fargo operates in the industry of Diversified Financials.",
+        "label": 0
+    },
+    {
+        "statement": "Merck & Co. has headquarters in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Walmart operates in the industry of Retailing.",
+        "label": 0
+    },
+    {
+        "statement": "ArcelorMittal has headquarters in Luxembourg.",
+        "label": 1
+    },
+    {
+        "statement": "Exxon Mobil engages in the provision of banking and financial services..",
+        "label": 0
+    },
+    {
+        "statement": "Airbus Group operates in the industry of aerospace & defense.",
+        "label": 1
+    },
+    {
+        "statement": "SAP has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "Commonwealth Bank of Australia engages in the provision of banking and financial services..",
+        "label": 1
+    },
+    {
+        "statement": "BlackRock has headquarters in Russia.",
+        "label": 0
+    },
+    {
+        "statement": "Shanghai Pudong Development Bank has headquarters in China.",
+        "label": 1
+    },
+    {
+        "statement": "Canadian Imperial Bank of Commerce is a financial institution, which engages in the provision of banking and wealth management services..",
+        "label": 1
+    },
+    {
+        "statement": "Cisco Systems has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "PetroChina has headquarters in China.",
+        "label": 1
+    },
+    {
+        "statement": "Deere & Company has headquarters in Saudi Arabia.",
+        "label": 0
+    },
+    {
+        "statement": "State Bank of India engages in the electricity generation and distribution and distribution of natural gas..",
+        "label": 0
+    },
+    {
+        "statement": "The Home Depot has headquarters in Switzerland.",
+        "label": 0
+    },
+    {
+        "statement": "AXA has headquarters in United States.",
+        "label": 0
+    },
+    {
+        "statement": "Airbus Group engages in the provision of telecommunications services..",
+        "label": 0
+    },
+    {
+        "statement": "Cigna Corporation has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "RBC engages in the provision of financial services..",
+        "label": 0
+    },
+    {
+        "statement": "Bank of Montreal operates in the industry of Oil & Gas Operations.",
+        "label": 0
+    },
+    {
+        "statement": "BASF has headquarters in Japan.",
+        "label": 0
+    },
+    {
+        "statement": "Poly Developments & Holdings Group operates in the industry of construction.",
+        "label": 1
+    },
+    {
+        "statement": "Zurich Insurance operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Enbridge operates in the industry of oil & gas operations.",
+        "label": 1
+    },
+    {
+        "statement": "Tencent Holdings engages in the provision of energy solutions..",
+        "label": 0
+    },
+    {
+        "statement": "Bank of Communications engages in the provision of electricity, natural gas, and energy related services..",
+        "label": 0
+    },
+    {
+        "statement": "Hyundai Motor engages in owning and operating of general merchandise stores..",
+        "label": 0
+    },
+    {
+        "statement": "BP has headquarters in United Kingdom.",
+        "label": 1
+    },
+    {
+        "statement": "Rosneft operates in the industry of oil & gas operations.",
+        "label": 1
+    },
+    {
+        "statement": "HCA Healthcare operates as an investment holding company..",
+        "label": 0
+    },
+    {
+        "statement": "Anglo American engages in the provision of healthcare services..",
+        "label": 0
+    },
+    {
+        "statement": "Postal Savings Bank of China engages in the provision of life, annuity, accident, and health insurance..",
+        "label": 0
+    },
+    {
+        "statement": "Iberdrola is a holding company, which engages in the provision of insurance products and related services..",
+        "label": 0
+    },
+    {
+        "statement": "Enbridge engages in the provision of banking, investments, life and non-life insurance, and retirement and asset management services..",
+        "label": 0
+    },
+    {
+        "statement": "Manulife is a financial services company that engages in the provision of financial protection and wealth management products and services..",
+        "label": 1
+    },
+    {
+        "statement": "BASF has headquarters in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "BASF operates in the industry of chemicals.",
+        "label": 1
+    },
+    {
+        "statement": "ArcelorMittal is a holding company, which engages in steelmaking and mining activities..",
+        "label": 1
+    },
+    {
+        "statement": "GlaxoSmithKline operates in the industry of drugs & biotechnology.",
+        "label": 1
+    },
+    {
+        "statement": "U.S. Bancorp operates as a bank holding company that offers financial services, including lending and depository services, cash management, foreign exchange and trust and investment management..",
+        "label": 1
+    },
+    {
+        "statement": "Pfizer operates in the industry of Insurance.",
+        "label": 0
+    },
+    {
+        "statement": "Walgreens engages in the provision of management consulting, technology, and outsourcing services..",
+        "label": 0
+    },
+    {
+        "statement": "Dow is a holding company that engages in the provision of telecommunication services..",
+        "label": 0
+    },
+    {
+        "statement": "Credit Agricole engages in the provision of banking and financial services..",
+        "label": 1
+    },
+    {
+        "statement": "Thermo Fisher Scientific has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "American Express operates as a bank holding company that engages in the business of providing retail banking, credit cards, corporate and investment banking and wealth management services..",
+        "label": 0
+    },
+    {
+        "statement": "Rio Tinto has headquarters in Australia.",
+        "label": 1
+    },
+    {
+        "statement": "ING Group has headquarters in Netherlands.",
+        "label": 1
+    },
+    {
+        "statement": "Sanofi engages in the research, production and distribution of pharmaceutical products..",
+        "label": 1
+    },
+    {
+        "statement": "VINCI engages in the design, building, finance and management of facilities for transport systems, public and private buildings and urban development and water, energy and communication networks..",
+        "label": 1
+    },
+    {
+        "statement": "Tencent Holdings has headquarters in United Kingdom.",
+        "label": 0
+    },
+    {
+        "statement": "U.S. Bancorp has headquarters in United States.",
+        "label": 1
+    },
+    {
+        "statement": "China Merchants Bank engages in oil and natural gas production..",
+        "label": 0
+    },
+    {
+        "statement": "Samsung Group engages in the manufacturing and selling of electronics and computer peripherals..",
+        "label": 1
+    },
+    {
+        "statement": "BHP Group operates in the industry of materials.",
+        "label": 1
+    },
+    {
+        "statement": "Comcast operates in the industry of Banking.",
+        "label": 0
+    },
+    {
+        "statement": "Comcast has headquarters in Taiwan.",
+        "label": 0
+    },
+    {
+        "statement": "Prudential Financial engages in the exploration, production, transportation and marketing of crude oil, bitumen, natural gas, natural gas liquids and liquefied natural gas on a worldwide basis..",
+        "label": 0
+    },
+    {
+        "statement": "Hon Hai Precision engages in the design, development and manufacturing of nanotechnology, heat transfer, wireless connectivity and material sciences products..",
+        "label": 1
+    },
+    {
+        "statement": "Eni operates in the industry of oil & gas operations.",
+        "label": 1
+    },
+    {
+        "statement": "CITIC is an investment holding company, which engages in finance, energy, engineering, manufacturing, and real estate businesses..",
+        "label": 1
+    },
+    {
+        "statement": "China Shenhua Energy engages in the production and sale of coal and electricity..",
+        "label": 1
+    }
+]

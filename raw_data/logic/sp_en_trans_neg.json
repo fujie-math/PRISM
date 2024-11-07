@@ -1,0 +1,1418 @@
+[
+    {
+        "statement": "The Spanish word 'con' does not mean 'to speak'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'uno' does not mean 'one'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'tener' does not mean 'to have'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'caliente' does not mean 'hot'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'palabra' does not mean 'word'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'pero' does not mean 'but'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'o' does not mean 'octopus'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'de' does not mean 'now'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'y' does not mean 'and'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'otro' does not mean 'hot'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'hacer' does not mean 'lost'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'tiempo' does not mean 'market'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'decir' does not mean 'order'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'conjunto' does not mean 'son'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'tres' does not mean 'three'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'querer' does not mean 'of'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'aire' does not mean 'silver'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'jugar' does not mean 'to play'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'poner' does not mean 'whale'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'casa' does not mean 'to make'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'leer' does not mean 'to read'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'mano' does not mean 'too'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'grande' does not mean 'large'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'tierra' does not mean 'land'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'grande' does not mean 'to ask'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'alto' does not mean 'space'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'preguntar' does not mean 'to describe'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'hombre' does not mean 'simple'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'luz' does not mean 'week'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'madre' does not mean 'mother'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'mundo' does not mean 'zebra'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'cerca' does not mean 'dog'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'construir' does not mean 'to build'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'padre' does not mean 'special'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'nuevo' does not mean 'always'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'parte' does not mean 'part'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'lugar' does not mean 'place'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'vivir' does not mean 'sheep'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'espalda' does not mean 'back'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'bueno' does not mean 'good'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'dar' does not mean 'before'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'nombre' does not mean 'name'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'muy' does not mean 'temperature'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'pensar' does not mean 'to think'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'ayudar' does not mean 'to help'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'antes' does not mean 'before'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'derecho' does not mean 'summer'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'viejo' does not mean 'old'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'demasiado' does not mean 'too'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'mismo' does not mean 'to write'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'todo' does not mean 'all'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'usar' does not mean 'to fight'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'entonces' does not mean 'corner'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'escribir' does not mean 'to write'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'largo' does not mean 'history'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'hacer' does not mean 'neck'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'cosa' does not mean 'thing'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'ver' does not mean 'to see'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'dos' does not mean 'enemy'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'venir' does not mean 'to know'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'persona' does not mean 'person'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'saber' does not mean 'happy'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'agua' does not mean 'water'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'primero' does not mean 'first'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'lado' does not mean 'equal'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'ahora' does not mean 'now'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'encontrar' does not mean 'person'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'cabeza' does not mean 'head'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'respuesta' does not mean 'bread'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'escuela' does not mean 'school'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'crecer' does not mean 'to grow'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'aprender' does not mean 'light'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'planta' does not mean 'cloud'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'sol' does not mean 'sun'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'cuatro' does not mean 'to imagine'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'ojo' does not mean 'order'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'nunca' does not mean 'to hear'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'ciudad' does not mean 'city'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'cruzar' does not mean 'pig'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'granja' does not mean 'woman'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'historia' does not mean 'office'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'mar' does not mean 'sea'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'dibujar' does not mean 'to draw'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'izquierda' does not mean 'never'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'tarde' does not mean 'hand'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'mientras' does not mean 'while'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'noche' does not mean 'night'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'vida' does not mean 'life'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'norte' does not mean 'north'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'libro' does not mean 'industry'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'llevar' does not mean 'end'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'ciencia' does not mean 'to buy'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'comer' does not mean 'to eat'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'amigo' does not mean 'friend'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'escuchar' does not mean 'market'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'caballo' does not mean 'horse'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'cara' does not mean 'name'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'madera' does not mean 'to have'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'abierto' does not mean 'open'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'parecer' does not mean 'to seem'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'blanco' does not mean 'to think'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'caminar' does not mean 'to walk'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'ejemplo' does not mean 'example'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'papel' does not mean 'paper'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'grupo' does not mean 'group'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'siempre' does not mean 'month'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'carta' does not mean 'nothing'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'coche' does not mean 'car'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'segundo' does not mean 'hello'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'suficiente' does not mean 'enough'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'llano' does not mean 'chair'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'chica' does not mean 'to eat'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'joven' does not mean 'hot'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'listo' does not mean 'ready'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'rojo' does not mean 'red'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'lista' does not mean 'list'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'sentir' does not mean 'to build'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'pronto' does not mean 'to die'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'cuerpo' does not mean 'body'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'perro' does not mean 'dog'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'familia' does not mean 'family'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'directo' does not mean 'to eat'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'medir' does not mean 'to carry'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'negro' does not mean 'black'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'corto' does not mean 'letter'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'clase' does not mean 'class'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'viento' does not mean 'wind'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'medio' does not mean 'large'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'roca' does not mean 'rock'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'orden' does not mean 'old'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'fuego' does not mean 'fire'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'sur' does not mean 'south'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'problema' does not mean 'problem'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'pieza' does not mean 'duck'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'pasar' does not mean 'to pass'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'rey' does not mean 'king'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'multiplicar' does not mean 'to multiply'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'nada' does not mean 'nothing'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'rueda' does not mean 'sister'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'fuerza' does not mean 'force'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'azul' does not mean 'eye'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'decidir' does not mean 'to give'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'luna' does not mean 'letter'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'isla' does not mean 'island'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'pie' does not mean 'lake'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'sistema' does not mean 'nature'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'ocupado' does not mean 'busy'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'prueba' does not mean 'test'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'barco' does not mean 'hello'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'oro' does not mean 'story'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'seco' does not mean 'book'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'maravilla' does not mean 'bell'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'mil' does not mean 'to eat'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'caliente' does not mean 'iron'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'calor' does not mean 'dry'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'pintar' does not mean 'mouth'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'idioma' does not mean 'moment'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'potencia' does not mean 'power'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'volar' does not mean 'to hear'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'caer' does not mean 'to fall'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'oscuro' does not mean 'dark'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'estrella' does not mean 'star'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'belleza' does not mean 'beauty'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'semana' does not mean 'face'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'desarrollar' does not mean 'to develop'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'libre' does not mean 'free'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'fuerte' does not mean 'dress'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'especial' does not mean 'strong'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'cola' does not mean 'name'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'espacio' does not mean 'to measure'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'cinco' does not mean 'five'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'temprano' does not mean 'early'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'oeste' does not mean 'moment'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'suelo' does not mean 'ground'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'cantar' does not mean 'simple'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'seis' does not mean 'to find'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'diez' does not mean 'ten'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'sencilla' does not mean 'simple'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'guerra' does not mean 'example'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'lento' does not mean 'slow'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'amar' does not mean 'teeth'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'dinero' does not mean 'mouth'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'mapa' does not mean 'map'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'gobernar' does not mean 'to eat'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'voz' does not mean 'voice'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'hermano' does not mean 'silver'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'huevo' does not mean 'egg'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'creer' does not mean 'to fly'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'hablar' does not mean 'to speak'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'hielo' does not mean 'ice'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'ola' does not mean 'wave'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'presente' does not mean 'present'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'brazo' does not mean 'arm'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'bosque' does not mean 'forest'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'ventana' does not mean 'half'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'tienda' does not mean 'insect'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'verano' does not mean 'to push'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'tren' does not mean 'train'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'pierna' does not mean 'leg'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'cielo' does not mean 'old'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'invierno' does not mean 'winter'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'vidrio' does not mean 'to hear'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'vaca' does not mean 'cow'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'suave' does not mean 'skin'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'mes' does not mean 'month'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'feliz' does not mean 'second'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'esperanza' does not mean 'hope'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'flor' does not mean 'market'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'viaje' does not mean 'system'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'oficina' does not mean 'direct'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'recibir' does not mean 'time'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'boca' does not mean 'mouth'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'morir' does not mean 'to die'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'semilla' does not mean 'seed'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'aceite' does not mean 'oil'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'sangre' does not mean 'sun'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'mezclar' does not mean 'to mix'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'perdido' does not mean 'test'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'igual' does not mean 'to imagine'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'elegir' does not mean 'to choose'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'guardar' does not mean 'to save'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'matar' does not mean 'bread'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'hijo' does not mean 'son'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'lago' does not mean 'month'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'momento' does not mean 'moment'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'primavera' does not mean 'wave'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'diccionario' does not mean 'dictionary'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'leche' does not mean 'glass'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'pagar' does not mean 'to pay'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'edad' does not mean 'clock'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'vestido' does not mean 'example'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'nube' does not mean 'to write'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'piedra' does not mean 'stone'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'experimento' does not mean 'dark'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'clave' does not mean 'rose'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'hierro' does not mean 'iron'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'veinte' does not mean 'twenty'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'piel' does not mean 'skin'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'sonrisa' does not mean 'smile'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'ocho' does not mean 'too'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'comprar' does not mean 'dry'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'empujar' does not mean 'to govern'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'siete' does not mean 'seven'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'tercero' does not mean 'third'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'describir' does not mean 'to die'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'cocinero' does not mean 'cook'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'piso' does not mean 'set'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'resultado' does not mean 'result'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'quemar' does not mean 'hot'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'seguro' does not mean 'danger'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'gato' does not mean 'cat'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'siglo' does not mean 'large'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'ley' does not mean 'dog'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'frase' does not mean 'paper'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'arena' does not mean 'sand'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'temperatura' does not mean 'hand'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'dedo' does not mean 'finger'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'industria' does not mean 'industry'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'luchar' does not mean 'heat'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'silla' does not mean 'neighbor'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'peligro' does not mean 'danger'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'fruta' does not mean 'goat'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'soldado' does not mean 'soldier'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'proteger' does not mean 'dry'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'moderno' does not mean 'modern'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'estudiante' does not mean 'student'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'esquina' does not mean 'corner'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'anillo' does not mean 'to love'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'insecto' does not mean 'then'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'historia' does not mean 'history'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'hueso' does not mean 'bone'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'imaginar' does not mean 'to imagine'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'mujer' does not mean 'woman'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'adivinar' does not mean 'war'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'agudo' does not mean 'sharp'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'ala' does not mean 'wing'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'vecino' does not mean 'neighbor'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'poema' does not mean 'to win'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'campana' does not mean 'to connect'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'carne' does not mean 'meat'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'famoso' does not mean 'to believe'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'miedo' does not mean 'fear'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'delgado' does not mean 'thin'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'reloj' does not mean 'clock'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'enviar' does not mean 'to send'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'amarillo' does not mean 'land'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'rosa' does not mean 'rose'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'llegar' does not mean 'insect'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'conectar' does not mean 'to connect'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'grasa' does not mean 'new'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'pan' does not mean 'eye'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'oferta' does not mean 'offer'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'esclavo' does not mean 'slave'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'pato' does not mean 'wolf'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'mercado' does not mean 'market'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'enemigo' does not mean 'enemy'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'bebida' does not mean 'train'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'naturaleza' does not mean 'to buy'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'dientes' does not mean 'hope'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'concha' does not mean 'shell'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'cuello' does not mean 'neck'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'temporada' does not mean 'insect'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'plata' does not mean 'silver'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'rama' does not mean 'back'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'higo' does not mean 'fig'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'hermana' does not mean 'sister'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'guiar' does not mean 'age'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'manzana' does not mean 'hand'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'abrigo' does not mean 'coat'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'tarjeta' does not mean 'bear'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'ganar' does not mean 'to use'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'herramienta' does not mean 'tool'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'olor' does not mean 'smell'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'valle' does not mean 'face'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'continuar' does not mean 'coat'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'vender' does not mean 'to sell'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'nadar' does not mean 'to swim'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'opuesta' does not mean 'dress'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'esposa' does not mean 'wife'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'hombro' does not mean 'shoulder'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'nueve' does not mean 'stone'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'ruido' does not mean 'noise'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'lanzar' does not mean 'to throw'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'gris' does not mean 'history'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'sal' does not mean 'horse'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'nariz' does not mean 'giraffe'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'burro' does not mean 'donkey'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'cabra' does not mean 'money'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'cordero' does not mean 'fat'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'caballo' does not mean 'horse'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'cerdo' does not mean 'wave'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'oveja' does not mean 'sheep'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'pato' does not mean 'shoulder'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'toro' does not mean 'bull'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'vaca' does not mean 'cow'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'conejo' does not mean 'rabbit'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'gato' does not mean 'large'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'perro' does not mean 'dog'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'rana' does not mean 'frog'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'anguila' does not mean 'south'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'ballena' does not mean 'whale'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'calamar' does not mean 'squid'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'pulpo' does not mean 'slow'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'lobo' does not mean 'leg'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'oso' does not mean 'bear'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'zorro' does not mean 'shell'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'mariposa' does not mean 'rose'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'tortuga' does not mean 'dry'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'cebra' does not mean 'to imagine'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'elefante' does not mean 'spring'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'jirafa' does not mean 'giraffe'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'tigre' does not mean 'cow'.",
+        "label": 1
+    },
+    {
+        "statement": "The Spanish word 'hola' does not mean 'hello'.",
+        "label": 0
+    },
+    {
+        "statement": "The Spanish word 'nuevo' does not mean 'new'.",
+        "label": 0
+    }
+]

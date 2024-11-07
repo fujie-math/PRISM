@@ -1,0 +1,2002 @@
+[
+    {
+        "statement": "It is the case both that the Spanish word 'esperanza' means 'hope' and that the Spanish word 'hablar' means 'to speak'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'multiplicar' means 'to multiply' and that the Spanish word 'mes' means 'month'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'industria' means 'industry' and that the Spanish word 'tres' means 'three'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'madera' means 'to have' and that the Spanish word 'leche' means 'glass'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'miedo' means 'fear' and that the Spanish word 'desarrollar' means 'to develop'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'historia' means 'history' and that the Spanish word 'nombre' means 'name'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'jirafa' means 'giraffe' and that the Spanish word 'esperanza' means 'hope'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'roca' means 'rock' and that the Spanish word 'libro' means 'industry'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'pensar' means 'to think' and that the Spanish word 'esperanza' means 'hope'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'decir' means 'order' and that the Spanish word 'pierna' means 'leg'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'diccionario' means 'dictionary' and that the Spanish word 'planta' means 'cloud'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'construir' means 'to build' and that the Spanish word 'dinero' means 'mouth'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'zorro' means 'shell' and that the Spanish word 'conejo' means 'rabbit'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'pronto' means 'to die' and that the Spanish word 'decidir' means 'to give'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'cebra' means 'to imagine' and that the Spanish word 'seco' means 'book'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'conectar' means 'to connect' and that the Spanish word 'roca' means 'rock'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'delgado' means 'thin' and that the Spanish word 'concha' means 'shell'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'pasar' means 'to pass' and that the Spanish word 'nada' means 'nothing'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'hierro' means 'iron' and that the Spanish word 'nombre' means 'name'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'momento' means 'moment' and that the Spanish word 'noche' means 'night'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'esperanza' means 'hope' and that the Spanish word 'rosa' means 'rose'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'hombro' means 'shoulder' and that the Spanish word 'invierno' means 'winter'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'bueno' means 'good' and that the Spanish word 'oferta' means 'offer'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'sur' means 'south' and that the Spanish word 'oferta' means 'offer'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'rosa' means 'rose' and that the Spanish word 'rana' means 'frog'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'recibir' means 'time' and that the Spanish word 'familia' means 'family'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'mientras' means 'while' and that the Spanish word 'oso' means 'bear'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'y' means 'and' and that the Spanish word 'perdido' means 'test'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'pasar' means 'to pass' and that the Spanish word 'voz' means 'voice'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'enemigo' means 'enemy' and that the Spanish word 'lugar' means 'place'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'conjunto' means 'son' and that the Spanish word 'plata' means 'silver'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'joven' means 'hot' and that the Spanish word 'todo' means 'all'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'hablar' means 'to speak' and that the Spanish word 'espalda' means 'back'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'roca' means 'rock' and that the Spanish word 'enviar' means 'to send'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'tener' means 'to have' and that the Spanish word 'abierto' means 'open'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'ejemplo' means 'example' and that the Spanish word 'lanzar' means 'to throw'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'suave' means 'skin' and that the Spanish word 'momento' means 'moment'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'mapa' means 'map' and that the Spanish word 'mercado' means 'market'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'lanzar' means 'to throw' and that the Spanish word 'proteger' means 'dry'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'orden' means 'old' and that the Spanish word 'valle' means 'face'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'imaginar' means 'to imagine' and that the Spanish word 'llano' means 'chair'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'vaca' means 'cow' and that the Spanish word 'prueba' means 'test'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'encontrar' means 'person' and that the Spanish word 'reloj' means 'clock'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'gris' means 'history' and that the Spanish word 'todo' means 'all'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'veinte' means 'twenty' and that the Spanish word 'lugar' means 'place'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'huevo' means 'egg' and that the Spanish word 'guiar' means 'age'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'libre' means 'free' and that the Spanish word 'hijo' means 'son'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'enemigo' means 'enemy' and that the Spanish word 'pronto' means 'to die'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'gobernar' means 'to eat' and that the Spanish word 'hombre' means 'simple'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'naturaleza' means 'to buy' and that the Spanish word 'abrigo' means 'coat'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'cuerpo' means 'body' and that the Spanish word 'parte' means 'part'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'madre' means 'mother' and that the Spanish word 'usar' means 'to fight'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'y' means 'and' and that the Spanish word 'jirafa' means 'giraffe'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'peligro' means 'danger' and that the Spanish word 'presente' means 'present'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'rueda' means 'sister' and that the Spanish word 'tren' means 'train'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'mezclar' means 'to mix' and that the Spanish word 'hueso' means 'bone'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'madre' means 'mother' and that the Spanish word 'viento' means 'wind'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'lago' means 'month' and that the Spanish word 'abrigo' means 'coat'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'oficina' means 'direct' and that the Spanish word 'ver' means 'to see'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'respuesta' means 'bread' and that the Spanish word 'semilla' means 'seed'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'esposa' means 'wife' and that the Spanish word 'grande' means 'large'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'nube' means 'to write' and that the Spanish word 'fuerza' means 'force'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'grupo' means 'group' and that the Spanish word 'dinero' means 'mouth'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'diccionario' means 'dictionary' and that the Spanish word 'miedo' means 'fear'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'isla' means 'island' and that the Spanish word 'elefante' means 'spring'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'grasa' means 'new' and that the Spanish word 'oro' means 'story'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'fuego' means 'fire' and that the Spanish word 'ocho' means 'too'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'moderno' means 'modern' and that the Spanish word 'calamar' means 'squid'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'oferta' means 'offer' and that the Spanish word 'coche' means 'car'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'lanzar' means 'to throw' and that the Spanish word 'tiempo' means 'market'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'voz' means 'voice' and that the Spanish word 'ruido' means 'noise'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'medio' means 'large' and that the Spanish word 'espalda' means 'back'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'enemigo' means 'enemy' and that the Spanish word 'luchar' means 'heat'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'ocupado' means 'busy' and that the Spanish word 'pie' means 'lake'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'mapa' means 'map' and that the Spanish word 'vaca' means 'cow'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'con' means 'to speak' and that the Spanish word 'cosa' means 'thing'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'desarrollar' means 'to develop' and that the Spanish word 'venir' means 'to know'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'soldado' means 'soldier' and that the Spanish word 'bosque' means 'forest'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'diez' means 'ten' and that the Spanish word 'elegir' means 'to choose'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'clase' means 'class' and that the Spanish word 'viejo' means 'old'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'miedo' means 'fear' and that the Spanish word 'presente' means 'present'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'nombre' means 'name' and that the Spanish word 'tierra' means 'land'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'manzana' means 'hand' and that the Spanish word 'sencilla' means 'simple'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'hermana' means 'sister' and that the Spanish word 'ocho' means 'too'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'burro' means 'donkey' and that the Spanish word 'cielo' means 'old'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'ventana' means 'half' and that the Spanish word 'viejo' means 'old'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'rojo' means 'red' and that the Spanish word 'conejo' means 'rabbit'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'esquina' means 'corner' and that the Spanish word 'preguntar' means 'to describe'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'cinco' means 'five' and that the Spanish word 'primero' means 'first'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'palabra' means 'word' and that the Spanish word 'rojo' means 'red'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'luz' means 'week' and that the Spanish word 'sol' means 'sun'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'conjunto' means 'son' and that the Spanish word 'libre' means 'free'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'caminar' means 'to walk' and that the Spanish word 'resultado' means 'result'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'perro' means 'dog' and that the Spanish word 'hablar' means 'to speak'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'ahora' means 'now' and that the Spanish word 'tierra' means 'land'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'caliente' means 'hot' and that the Spanish word 'pierna' means 'leg'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'suelo' means 'ground' and that the Spanish word 'parecer' means 'to seem'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'hueso' means 'bone' and that the Spanish word 'mientras' means 'while'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'rosa' means 'rose' and that the Spanish word 'concha' means 'shell'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'pero' means 'but' and that the Spanish word 'pieza' means 'duck'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'diez' means 'ten' and that the Spanish word 'rosa' means 'rose'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'jugar' means 'to play' and that the Spanish word 'granja' means 'woman'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'rama' means 'back' and that the Spanish word 'hermana' means 'sister'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'arena' means 'sand' and that the Spanish word 'negro' means 'black'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'lobo' means 'leg' and that the Spanish word 'mano' means 'too'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'fuego' means 'fire' and that the Spanish word 'escuela' means 'school'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'cuatro' means 'to imagine' and that the Spanish word 'hacer' means 'lost'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'todo' means 'all' and that the Spanish word 'nariz' means 'giraffe'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'tercero' means 'third' and that the Spanish word 'grupo' means 'group'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'clase' means 'class' and that the Spanish word 'persona' means 'person'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'estudiante' means 'student' and that the Spanish word 'cuello' means 'neck'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'mujer' means 'woman' and that the Spanish word 'parecer' means 'to seem'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'grande' means 'large' and that the Spanish word 'parecer' means 'to seem'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'pensar' means 'to think' and that the Spanish word 'cuerpo' means 'body'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'demasiado' means 'too' and that the Spanish word 'desarrollar' means 'to develop'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'corto' means 'letter' and that the Spanish word 'grupo' means 'group'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'hombro' means 'shoulder' and that the Spanish word 'hombro' means 'shoulder'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'mes' means 'month' and that the Spanish word 'oscuro' means 'dark'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'segundo' means 'hello' and that the Spanish word 'dedo' means 'finger'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'olor' means 'smell' and that the Spanish word 'demasiado' means 'too'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'elegir' means 'to choose' and that the Spanish word 'oeste' means 'moment'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'aprender' means 'light' and that the Spanish word 'reloj' means 'clock'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'perro' means 'dog' and that the Spanish word 'comprar' means 'dry'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'ahora' means 'now' and that the Spanish word 'comer' means 'to eat'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'hueso' means 'bone' and that the Spanish word 'vida' means 'life'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'lugar' means 'place' and that the Spanish word 'clase' means 'class'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'caminar' means 'to walk' and that the Spanish word 'listo' means 'ready'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'corto' means 'letter' and that the Spanish word 'conectar' means 'to connect'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'agudo' means 'sharp' and that the Spanish word 'rueda' means 'sister'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'caer' means 'to fall' and that the Spanish word 'brazo' means 'arm'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'sol' means 'sun' and that the Spanish word 'hielo' means 'ice'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'delgado' means 'thin' and that the Spanish word 'hielo' means 'ice'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'directo' means 'to eat' and that the Spanish word 'temprano' means 'early'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'luchar' means 'heat' and that the Spanish word 'concha' means 'shell'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'grupo' means 'group' and that the Spanish word 'agua' means 'water'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'soldado' means 'soldier' and that the Spanish word 'uno' means 'one'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'leer' means 'to read' and that the Spanish word 'agua' means 'water'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'ciudad' means 'city' and that the Spanish word 'siempre' means 'month'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'burro' means 'donkey' and that the Spanish word 'lanzar' means 'to throw'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'moderno' means 'modern' and that the Spanish word 'anguila' means 'south'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'preguntar' means 'to describe' and that the Spanish word 'caballo' means 'horse'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'peligro' means 'danger' and that the Spanish word 'antes' means 'before'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'esclavo' means 'slave' and that the Spanish word 'cosa' means 'thing'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'ola' means 'wave' and that the Spanish word 'vaca' means 'cow'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'sur' means 'south' and that the Spanish word 'belleza' means 'beauty'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'siempre' means 'month' and that the Spanish word 'rosa' means 'rose'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'siempre' means 'month' and that the Spanish word 'diez' means 'ten'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'caer' means 'to fall' and that the Spanish word 'idioma' means 'moment'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'mezclar' means 'to mix' and that the Spanish word 'oferta' means 'offer'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'higo' means 'fig' and that the Spanish word 'con' means 'to speak'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'esquina' means 'corner' and that the Spanish word 'reloj' means 'clock'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'ojo' means 'order' and that the Spanish word 'bueno' means 'good'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'zorro' means 'shell' and that the Spanish word 'clase' means 'class'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'cuello' means 'neck' and that the Spanish word 'construir' means 'to build'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'caliente' means 'iron' and that the Spanish word 'ayudar' means 'to help'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'plata' means 'silver' and that the Spanish word 'noche' means 'night'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'construir' means 'to build' and that the Spanish word 'nuevo' means 'new'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'escribir' means 'to write' and that the Spanish word 'suelo' means 'ground'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'tiempo' means 'market' and that the Spanish word 'miedo' means 'fear'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'negro' means 'black' and that the Spanish word 'industria' means 'industry'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'viaje' means 'system' and that the Spanish word 'decir' means 'order'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'hermana' means 'sister' and that the Spanish word 'muy' means 'temperature'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'viento' means 'wind' and that the Spanish word 'mar' means 'sea'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'tres' means 'three' and that the Spanish word 'cara' means 'name'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'caer' means 'to fall' and that the Spanish word 'poema' means 'to win'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'noche' means 'night' and that the Spanish word 'carta' means 'nothing'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'ruido' means 'noise' and that the Spanish word 'volar' means 'to hear'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'lugar' means 'place' and that the Spanish word 'tarde' means 'hand'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'barco' means 'hello' and that the Spanish word 'peligro' means 'danger'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'describir' means 'to die' and that the Spanish word 'antes' means 'before'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'de' means 'now' and that the Spanish word 'delgado' means 'thin'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'sol' means 'sun' and that the Spanish word 'viaje' means 'system'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'lanzar' means 'to throw' and that the Spanish word 'industria' means 'industry'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'rey' means 'king' and that the Spanish word 'parte' means 'part'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'jugar' means 'to play' and that the Spanish word 'crecer' means 'to grow'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'viento' means 'wind' and that the Spanish word 'temprano' means 'early'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'mariposa' means 'rose' and that the Spanish word 'calamar' means 'squid'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'historia' means 'history' and that the Spanish word 'amigo' means 'friend'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'amigo' means 'friend' and that the Spanish word 'grupo' means 'group'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'cosa' means 'thing' and that the Spanish word 'abrigo' means 'coat'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'isla' means 'island' and that the Spanish word 'escuchar' means 'market'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'nube' means 'to write' and that the Spanish word 'caliente' means 'hot'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'grupo' means 'group' and that the Spanish word 'leche' means 'glass'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'mil' means 'to eat' and that the Spanish word 'escuela' means 'school'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'mapa' means 'map' and that the Spanish word 'elegir' means 'to choose'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'imaginar' means 'to imagine' and that the Spanish word 'ballena' means 'whale'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'hombro' means 'shoulder' and that the Spanish word 'pero' means 'but'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'papel' means 'paper' and that the Spanish word 'uno' means 'one'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'soldado' means 'soldier' and that the Spanish word 'usar' means 'to fight'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'silla' means 'neighbor' and that the Spanish word 'enviar' means 'to send'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'hermana' means 'sister' and that the Spanish word 'diccionario' means 'dictionary'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'leer' means 'to read' and that the Spanish word 'vaca' means 'cow'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'rueda' means 'sister' and that the Spanish word 'venir' means 'to know'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'de' means 'now' and that the Spanish word 'nombre' means 'name'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'olor' means 'smell' and that the Spanish word 'sal' means 'horse'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'viento' means 'wind' and that the Spanish word 'ala' means 'wing'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'lobo' means 'leg' and that the Spanish word 'bueno' means 'good'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'historia' means 'office' and that the Spanish word 'rana' means 'frog'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'estudiante' means 'student' and that the Spanish word 'negro' means 'black'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'valle' means 'face' and that the Spanish word 'esquina' means 'corner'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'ver' means 'to see' and that the Spanish word 'mercado' means 'market'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'comer' means 'to eat' and that the Spanish word 'dos' means 'enemy'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'hombre' means 'simple' and that the Spanish word 'vender' means 'to sell'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'hola' means 'hello' and that the Spanish word 'sur' means 'south'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'derecho' means 'summer' and that the Spanish word 'pero' means 'but'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'primero' means 'first' and that the Spanish word 'noche' means 'night'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'hola' means 'hello' and that the Spanish word 'creer' means 'to fly'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'invierno' means 'winter' and that the Spanish word 'carne' means 'meat'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'bueno' means 'good' and that the Spanish word 'vaca' means 'cow'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'clase' means 'class' and that the Spanish word 'abrigo' means 'coat'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'coche' means 'car' and that the Spanish word 'carne' means 'meat'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'aprender' means 'light' and that the Spanish word 'muy' means 'temperature'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'pagar' means 'to pay' and that the Spanish word 'noche' means 'night'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'rosa' means 'rose' and that the Spanish word 'ciudad' means 'city'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'dibujar' means 'to draw' and that the Spanish word 'familia' means 'family'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'enviar' means 'to send' and that the Spanish word 'noche' means 'night'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'pagar' means 'to pay' and that the Spanish word 'parecer' means 'to seem'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'conjunto' means 'son' and that the Spanish word 'perdido' means 'test'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'leer' means 'to read' and that the Spanish word 'ayudar' means 'to help'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'llano' means 'chair' and that the Spanish word 'sencilla' means 'simple'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'oscuro' means 'dark' and that the Spanish word 'hueso' means 'bone'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'peligro' means 'danger' and that the Spanish word 'perro' means 'dog'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'parecer' means 'to seem' and that the Spanish word 'delgado' means 'thin'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'ejemplo' means 'example' and that the Spanish word 'pintar' means 'mouth'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'ayudar' means 'to help' and that the Spanish word 'esquina' means 'corner'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'esperanza' means 'hope' and that the Spanish word 'dar' means 'before'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'preguntar' means 'to describe' and that the Spanish word 'reloj' means 'clock'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'estudiante' means 'student' and that the Spanish word 'conectar' means 'to connect'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'vaca' means 'cow' and that the Spanish word 'nunca' means 'to hear'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'pasar' means 'to pass' and that the Spanish word 'piel' means 'skin'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'oro' means 'story' and that the Spanish word 'arena' means 'sand'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'planta' means 'cloud' and that the Spanish word 'nube' means 'to write'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'industria' means 'industry' and that the Spanish word 'joven' means 'hot'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'suelo' means 'ground' and that the Spanish word 'multiplicar' means 'to multiply'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'clase' means 'class' and that the Spanish word 'flor' means 'market'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'oro' means 'story' and that the Spanish word 'temperatura' means 'hand'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'higo' means 'fig' and that the Spanish word 'toro' means 'bull'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'industria' means 'industry' and that the Spanish word 'huevo' means 'egg'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'caballo' means 'horse' and that the Spanish word 'desarrollar' means 'to develop'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'palabra' means 'word' and that the Spanish word 'cantar' means 'simple'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'tiempo' means 'market' and that the Spanish word 'fuego' means 'fire'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'medir' means 'to carry' and that the Spanish word 'mundo' means 'zebra'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'naturaleza' means 'to buy' and that the Spanish word 'recibir' means 'time'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'adivinar' means 'war' and that the Spanish word 'tren' means 'train'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'desarrollar' means 'to develop' and that the Spanish word 'fuerza' means 'force'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'gato' means 'cat' and that the Spanish word 'tren' means 'train'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'dinero' means 'mouth' and that the Spanish word 'caminar' means 'to walk'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'esperanza' means 'hope' and that the Spanish word 'toro' means 'bull'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'delgado' means 'thin' and that the Spanish word 'opuesta' means 'dress'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'siglo' means 'large' and that the Spanish word 'chica' means 'to eat'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'mercado' means 'market' and that the Spanish word 'gobernar' means 'to eat'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'tren' means 'train' and that the Spanish word 'piel' means 'skin'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'ala' means 'wing' and that the Spanish word 'granja' means 'woman'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'semilla' means 'seed' and that the Spanish word 'familia' means 'family'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'plata' means 'silver' and that the Spanish word 'nada' means 'nothing'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'resultado' means 'result' and that the Spanish word 'famoso' means 'to believe'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'delgado' means 'thin' and that the Spanish word 'hombro' means 'shoulder'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'especial' means 'strong' and that the Spanish word 'de' means 'now'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'luchar' means 'heat' and that the Spanish word 'conejo' means 'rabbit'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'tierra' means 'land' and that the Spanish word 'cantar' means 'simple'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'palabra' means 'word' and that the Spanish word 'oferta' means 'offer'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'preguntar' means 'to describe' and that the Spanish word 'comer' means 'to eat'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'azul' means 'eye' and that the Spanish word 'persona' means 'person'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'mar' means 'sea' and that the Spanish word 'toro' means 'bull'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'pierna' means 'leg' and that the Spanish word 'espalda' means 'back'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'siete' means 'seven' and that the Spanish word 'vecino' means 'neighbor'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'esquina' means 'corner' and that the Spanish word 'historia' means 'history'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'tierra' means 'land' and that the Spanish word 'suficiente' means 'enough'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'tren' means 'train' and that the Spanish word 'lago' means 'month'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'edad' means 'clock' and that the Spanish word 'proteger' means 'dry'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'ballena' means 'whale' and that the Spanish word 'calor' means 'dry'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'mapa' means 'map' and that the Spanish word 'veinte' means 'twenty'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'agudo' means 'sharp' and that the Spanish word 'hacer' means 'lost'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'vaca' means 'cow' and that the Spanish word 'oso' means 'bear'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'tres' means 'three' and that the Spanish word 'fruta' means 'goat'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'caballo' means 'horse' and that the Spanish word 'papel' means 'paper'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'peligro' means 'danger' and that the Spanish word 'pagar' means 'to pay'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'pie' means 'lake' and that the Spanish word 'izquierda' means 'never'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'piso' means 'set' and that the Spanish word 'carta' means 'nothing'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'rojo' means 'red' and that the Spanish word 'sencilla' means 'simple'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'grande' means 'large' and that the Spanish word 'peligro' means 'danger'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'estrella' means 'star' and that the Spanish word 'viejo' means 'old'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'tren' means 'train' and that the Spanish word 'oso' means 'bear'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'escribir' means 'to write' and that the Spanish word 'perro' means 'dog'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'caminar' means 'to walk' and that the Spanish word 'viento' means 'wind'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'tren' means 'train' and that the Spanish word 'hola' means 'hello'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'esclavo' means 'slave' and that the Spanish word 'antes' means 'before'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'oveja' means 'sheep' and that the Spanish word 'dar' means 'before'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'frase' means 'paper' and that the Spanish word 'calor' means 'dry'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'toro' means 'bull' and that the Spanish word 'mapa' means 'map'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'verano' means 'to push' and that the Spanish word 'reloj' means 'clock'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'igual' means 'to imagine' and that the Spanish word 'esposa' means 'wife'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'tierra' means 'land' and that the Spanish word 'negro' means 'black'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'fruta' means 'goat' and that the Spanish word 'ocupado' means 'busy'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'grande' means 'large' and that the Spanish word 'industria' means 'industry'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'tren' means 'train' and that the Spanish word 'parte' means 'part'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'leer' means 'to read' and that the Spanish word 'seguro' means 'danger'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'escribir' means 'to write' and that the Spanish word 'morir' means 'to die'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'grasa' means 'new' and that the Spanish word 'leche' means 'glass'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'oveja' means 'sheep' and that the Spanish word 'cielo' means 'old'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'hermana' means 'sister' and that the Spanish word 'tierra' means 'land'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'mezclar' means 'to mix' and that the Spanish word 'enviar' means 'to send'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'gato' means 'large' and that the Spanish word 'pero' means 'but'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'nombre' means 'name' and that the Spanish word 'caliente' means 'hot'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'momento' means 'moment' and that the Spanish word 'persona' means 'person'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'bueno' means 'good' and that the Spanish word 'caballo' means 'horse'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'grupo' means 'group' and that the Spanish word 'toro' means 'bull'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'tienda' means 'insect' and that the Spanish word 'caliente' means 'hot'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'invierno' means 'winter' and that the Spanish word 'industria' means 'industry'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'padre' means 'special' and that the Spanish word 'conectar' means 'to connect'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'suelo' means 'ground' and that the Spanish word 'palabra' means 'word'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'herramienta' means 'tool' and that the Spanish word 'tres' means 'three'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'voz' means 'voice' and that the Spanish word 'oscuro' means 'dark'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'clase' means 'class' and that the Spanish word 'esperanza' means 'hope'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'agua' means 'water' and that the Spanish word 'diez' means 'ten'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'brazo' means 'arm' and that the Spanish word 'oficina' means 'direct'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'hierro' means 'iron' and that the Spanish word 'azul' means 'eye'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'problema' means 'problem' and that the Spanish word 'barco' means 'hello'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'rama' means 'back' and that the Spanish word 'industria' means 'industry'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'conectar' means 'to connect' and that the Spanish word 'ocupado' means 'busy'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'dar' means 'before' and that the Spanish word 'hielo' means 'ice'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'gris' means 'history' and that the Spanish word 'mil' means 'to eat'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'mientras' means 'while' and that the Spanish word 'planta' means 'cloud'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'hola' means 'hello' and that the Spanish word 'libre' means 'free'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'ahora' means 'now' and that the Spanish word 'oso' means 'bear'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'ocupado' means 'busy' and that the Spanish word 'nada' means 'nothing'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'silla' means 'neighbor' and that the Spanish word 'carne' means 'meat'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'enemigo' means 'enemy' and that the Spanish word 'lugar' means 'place'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'ayudar' means 'to help' and that the Spanish word 'rojo' means 'red'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'momento' means 'moment' and that the Spanish word 'negro' means 'black'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'noche' means 'night' and that the Spanish word 'temprano' means 'early'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'nuevo' means 'always' and that the Spanish word 'mismo' means 'to write'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'uno' means 'one' and that the Spanish word 'vidrio' means 'to hear'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'vender' means 'to sell' and that the Spanish word 'derecho' means 'summer'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'veinte' means 'twenty' and that the Spanish word 'vaca' means 'cow'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'esposa' means 'wife' and that the Spanish word 'elegir' means 'to choose'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'cocinero' means 'cook' and that the Spanish word 'cabeza' means 'head'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'hermana' means 'sister' and that the Spanish word 'cruzar' means 'pig'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'creer' means 'to fly' and that the Spanish word 'mercado' means 'market'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'aceite' means 'oil' and that the Spanish word 'guardar' means 'to save'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'tres' means 'three' and that the Spanish word 'semilla' means 'seed'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'caliente' means 'iron' and that the Spanish word 'encontrar' means 'person'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'blanco' means 'to think' and that the Spanish word 'parecer' means 'to seem'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'uno' means 'one' and that the Spanish word 'bueno' means 'good'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'suficiente' means 'enough' and that the Spanish word 'cinco' means 'five'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'semana' means 'face' and that the Spanish word 'persona' means 'person'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'pensar' means 'to think' and that the Spanish word 'y' means 'and'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'prueba' means 'test' and that the Spanish word 'grande' means 'large'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'peligro' means 'danger' and that the Spanish word 'diccionario' means 'dictionary'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'todo' means 'all' and that the Spanish word 'elegir' means 'to choose'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'olor' means 'smell' and that the Spanish word 'sonrisa' means 'smile'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'ruido' means 'noise' and that the Spanish word 'tigre' means 'cow'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'ahora' means 'now' and that the Spanish word 'cinco' means 'five'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'agua' means 'water' and that the Spanish word 'huevo' means 'egg'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'demasiado' means 'too' and that the Spanish word 'lento' means 'slow'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'cabeza' means 'head' and that the Spanish word 'mar' means 'sea'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'olor' means 'smell' and that the Spanish word 'mes' means 'month'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'azul' means 'eye' and that the Spanish word 'recibir' means 'time'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'soldado' means 'soldier' and that the Spanish word 'tres' means 'three'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'describir' means 'to die' and that the Spanish word 'describir' means 'to die'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'ahora' means 'now' and that the Spanish word 'estrella' means 'star'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'potencia' means 'power' and that the Spanish word 'cabra' means 'money'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'diccionario' means 'dictionary' and that the Spanish word 'leer' means 'to read'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'sonrisa' means 'smile' and that the Spanish word 'cabra' means 'money'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'pintar' means 'mouth' and that the Spanish word 'orden' means 'old'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'querer' means 'of' and that the Spanish word 'perro' means 'dog'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'mapa' means 'map' and that the Spanish word 'ojo' means 'order'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'madre' means 'mother' and that the Spanish word 'oscuro' means 'dark'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'demasiado' means 'too' and that the Spanish word 'espalda' means 'back'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'pasar' means 'to pass' and that the Spanish word 'diccionario' means 'dictionary'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'diez' means 'ten' and that the Spanish word 'esposa' means 'wife'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'tener' means 'to have' and that the Spanish word 'flor' means 'market'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'ejemplo' means 'example' and that the Spanish word 'espalda' means 'back'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'agua' means 'water' and that the Spanish word 'guiar' means 'age'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'abrigo' means 'coat' and that the Spanish word 'especial' means 'strong'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'cerdo' means 'wave' and that the Spanish word 'lento' means 'slow'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'joven' means 'hot' and that the Spanish word 'pato' means 'wolf'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'vivir' means 'sheep' and that the Spanish word 'sencilla' means 'simple'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'toro' means 'bull' and that the Spanish word 'caer' means 'to fall'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'esperanza' means 'hope' and that the Spanish word 'seco' means 'book'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'vender' means 'to sell' and that the Spanish word 'soldado' means 'soldier'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'insecto' means 'then' and that the Spanish word 'presente' means 'present'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'mes' means 'month' and that the Spanish word 'construir' means 'to build'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'rojo' means 'red' and that the Spanish word 'mil' means 'to eat'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'pierna' means 'leg' and that the Spanish word 'idioma' means 'moment'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'luchar' means 'heat' and that the Spanish word 'mano' means 'too'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'hierro' means 'iron' and that the Spanish word 'esclavo' means 'slave'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'bebida' means 'train' and that the Spanish word 'boca' means 'mouth'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'cuerpo' means 'body' and that the Spanish word 'todo' means 'all'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'largo' means 'history' and that the Spanish word 'siete' means 'seven'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'vaca' means 'cow' and that the Spanish word 'rama' means 'back'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'hablar' means 'to speak' and that the Spanish word 'agudo' means 'sharp'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'soldado' means 'soldier' and that the Spanish word 'jirafa' means 'giraffe'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'oro' means 'story' and that the Spanish word 'suave' means 'skin'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'lanzar' means 'to throw' and that the Spanish word 'chica' means 'to eat'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'perdido' means 'test' and that the Spanish word 'cuerpo' means 'body'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'abrigo' means 'coat' and that the Spanish word 'tren' means 'train'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'tren' means 'train' and that the Spanish word 'conectar' means 'to connect'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'fuerte' means 'dress' and that the Spanish word 'de' means 'now'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'joven' means 'hot' and that the Spanish word 'lanzar' means 'to throw'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'con' means 'to speak' and that the Spanish word 'oferta' means 'offer'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'seco' means 'book' and that the Spanish word 'mezclar' means 'to mix'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'tierra' means 'land' and that the Spanish word 'escuchar' means 'market'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'fuego' means 'fire' and that the Spanish word 'grande' means 'to ask'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'antes' means 'before' and that the Spanish word 'ventana' means 'half'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'tierra' means 'land' and that the Spanish word 'verano' means 'to push'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'rey' means 'king' and that the Spanish word 'nube' means 'to write'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'huevo' means 'egg' and that the Spanish word 'matar' means 'bread'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'mariposa' means 'rose' and that the Spanish word 'orden' means 'old'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'anillo' means 'to love' and that the Spanish word 'vaca' means 'cow'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'guardar' means 'to save' and that the Spanish word 'medio' means 'large'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'y' means 'and' and that the Spanish word 'recibir' means 'time'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'norte' means 'north' and that the Spanish word 'mundo' means 'zebra'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'brazo' means 'arm' and that the Spanish word 'suficiente' means 'enough'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'vaca' means 'cow' and that the Spanish word 'semana' means 'face'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'diez' means 'ten' and that the Spanish word 'ruido' means 'noise'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'olor' means 'smell' and that the Spanish word 'olor' means 'smell'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'oso' means 'bear' and that the Spanish word 'pensar' means 'to think'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'prueba' means 'test' and that the Spanish word 'plata' means 'silver'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'hielo' means 'ice' and that the Spanish word 'hielo' means 'ice'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'conjunto' means 'son' and that the Spanish word 'nada' means 'nothing'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'lanzar' means 'to throw' and that the Spanish word 'sol' means 'sun'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'antes' means 'before' and that the Spanish word 'valle' means 'face'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'hola' means 'hello' and that the Spanish word 'industria' means 'industry'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'ocho' means 'too' and that the Spanish word 'pato' means 'wolf'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'nombre' means 'name' and that the Spanish word 'suelo' means 'ground'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'comer' means 'to eat' and that the Spanish word 'escuela' means 'school'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'tres' means 'three' and that the Spanish word 'tercero' means 'third'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'ocupado' means 'busy' and that the Spanish word 'luchar' means 'heat'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'escribir' means 'to write' and that the Spanish word 'zorro' means 'shell'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'problema' means 'problem' and that the Spanish word 'ola' means 'wave'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'sol' means 'sun' and that the Spanish word 'dedo' means 'finger'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'conjunto' means 'son' and that the Spanish word 'historia' means 'office'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'dientes' means 'hope' and that the Spanish word 'ventana' means 'half'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'nada' means 'nothing' and that the Spanish word 'semilla' means 'seed'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'hielo' means 'ice' and that the Spanish word 'luz' means 'week'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'luz' means 'week' and that the Spanish word 'soldado' means 'soldier'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'persona' means 'person' and that the Spanish word 'continuar' means 'coat'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'dientes' means 'hope' and that the Spanish word 'mercado' means 'market'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'hombro' means 'shoulder' and that the Spanish word 'hola' means 'hello'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'cinco' means 'five' and that the Spanish word 'grupo' means 'group'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'lugar' means 'place' and that the Spanish word 'resultado' means 'result'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'enemigo' means 'enemy' and that the Spanish word 'nada' means 'nothing'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'ballena' means 'whale' and that the Spanish word 'delgado' means 'thin'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'escribir' means 'to write' and that the Spanish word 'comer' means 'to eat'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'vaca' means 'cow' and that the Spanish word 'familia' means 'family'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'dibujar' means 'to draw' and that the Spanish word 'rojo' means 'red'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'grande' means 'large' and that the Spanish word 'hueso' means 'bone'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'caer' means 'to fall' and that the Spanish word 'mariposa' means 'rose'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'sol' means 'sun' and that the Spanish word 'imaginar' means 'to imagine'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'reloj' means 'clock' and that the Spanish word 'coche' means 'car'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'sol' means 'sun' and that the Spanish word 'fuego' means 'fire'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'papel' means 'paper' and that the Spanish word 'perro' means 'dog'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'fuerza' means 'force' and that the Spanish word 'conjunto' means 'son'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'voz' means 'voice' and that the Spanish word 'enviar' means 'to send'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'elefante' means 'spring' and that the Spanish word 'madera' means 'to have'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'mapa' means 'map' and that the Spanish word 'mar' means 'sea'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'perro' means 'dog' and that the Spanish word 'conectar' means 'to connect'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'nuevo' means 'always' and that the Spanish word 'elegir' means 'to choose'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'historia' means 'history' and that the Spanish word 'ocho' means 'too'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'sol' means 'sun' and that the Spanish word 'viejo' means 'old'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'boca' means 'mouth' and that the Spanish word 'hermana' means 'sister'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'ver' means 'to see' and that the Spanish word 'papel' means 'paper'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'perro' means 'dog' and that the Spanish word 'diccionario' means 'dictionary'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'viento' means 'wind' and that the Spanish word 'rosa' means 'rose'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'temperatura' means 'hand' and that the Spanish word 'herramienta' means 'tool'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'tienda' means 'insect' and that the Spanish word 'lista' means 'list'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'mano' means 'too' and that the Spanish word 'vida' means 'life'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'vender' means 'to sell' and that the Spanish word 'enviar' means 'to send'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'largo' means 'history' and that the Spanish word 'norte' means 'north'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'anillo' means 'to love' and that the Spanish word 'cabra' means 'money'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'higo' means 'fig' and that the Spanish word 'semana' means 'face'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'morir' means 'to die' and that the Spanish word 'ahora' means 'now'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'mar' means 'sea' and that the Spanish word 'padre' means 'special'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'tercero' means 'third' and that the Spanish word 'voz' means 'voice'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'dibujar' means 'to draw' and that the Spanish word 'vender' means 'to sell'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'frase' means 'paper' and that the Spanish word 'oveja' means 'sheep'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'oro' means 'story' and that the Spanish word 'conejo' means 'rabbit'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'ahora' means 'now' and that the Spanish word 'crecer' means 'to grow'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'mapa' means 'map' and that the Spanish word 'clase' means 'class'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'mil' means 'to eat' and that the Spanish word 'libro' means 'industry'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'noche' means 'night' and that the Spanish word 'temprano' means 'early'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'hablar' means 'to speak' and that the Spanish word 'clase' means 'class'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'hermano' means 'silver' and that the Spanish word 'clave' means 'rose'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'cuerpo' means 'body' and that the Spanish word 'herramienta' means 'tool'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'lista' means 'list' and that the Spanish word 'siete' means 'seven'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'lugar' means 'place' and that the Spanish word 'papel' means 'paper'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'lento' means 'slow' and that the Spanish word 'poner' means 'whale'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'cocinero' means 'cook' and that the Spanish word 'pero' means 'but'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'lanzar' means 'to throw' and that the Spanish word 'rosa' means 'rose'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'nombre' means 'name' and that the Spanish word 'herramienta' means 'tool'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'opuesta' means 'dress' and that the Spanish word 'gato' means 'large'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'uno' means 'one' and that the Spanish word 'sentir' means 'to build'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'potencia' means 'power' and that the Spanish word 'nombre' means 'name'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'esclavo' means 'slave' and that the Spanish word 'estrella' means 'star'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'directo' means 'to eat' and that the Spanish word 'izquierda' means 'never'.",
+        "label": 0
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'escribir' means 'to write' and that the Spanish word 'peligro' means 'danger'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'hombro' means 'shoulder' and that the Spanish word 'perro' means 'dog'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'caminar' means 'to walk' and that the Spanish word 'oveja' means 'sheep'.",
+        "label": 1
+    },
+    {
+        "statement": "It is the case both that the Spanish word 'bueno' means 'good' and that the Spanish word 'llevar' means 'end'.",
+        "label": 0
+    }
+]

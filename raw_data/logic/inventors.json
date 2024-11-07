@@ -1,0 +1,1626 @@
+[
+    {
+        "statement": "Edwin Herbert Hall lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Emile Berliner lived in Russia.",
+        "label": 0
+    },
+    {
+        "statement": "Frederick Walton lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "William Congreve lived in Canada.",
+        "label": 0
+    },
+    {
+        "statement": "Gustaf Dal\u00e9n lived in Sweden.",
+        "label": 1
+    },
+    {
+        "statement": "Evangelista Torricelli lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "George Pullman lived in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Marvin Camras lived in France.",
+        "label": 0
+    },
+    {
+        "statement": "William Sturgeon lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Frederick Walton lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Clarence Birdseye lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Gideon Sundback lived in Sweden/the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "John Shepherd-Barron lived in Scotland.",
+        "label": 1
+    },
+    {
+        "statement": "Edwin Link lived in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Chester Carlson lived in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Whitcomb Judson lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Joseph Glidden lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Rudolf Diesel lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Charles Wheatstone lived in France.",
+        "label": 0
+    },
+    {
+        "statement": "John Callcott Horsley lived in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Charles Goodyear lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Lloyd Groff Copeman lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Herbert Akroyd Stuart lived in England.",
+        "label": 1
+    },
+    {
+        "statement": "Herbert Saffir lived in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "August Horch lived in Russia.",
+        "label": 0
+    },
+    {
+        "statement": "Joseph Marie Jacquard lived in the Netherlands.",
+        "label": 0
+    },
+    {
+        "statement": "David Edward Hughes lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Yoshua Bengio lived in Canada.",
+        "label": 1
+    },
+    {
+        "statement": "Ferdinand Carr\u00e9 lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Rudolf K\u00e1lm\u00e1n lived in Hungary.",
+        "label": 1
+    },
+    {
+        "statement": "Charles Fritts lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Narinder Singh Kapany lived in India.",
+        "label": 1
+    },
+    {
+        "statement": "Archimedes lived in Ancient Greece.",
+        "label": 1
+    },
+    {
+        "statement": "Gottlieb Daimler lived in France.",
+        "label": 0
+    },
+    {
+        "statement": "Fritz Pfleumer lived in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Arthur Fry lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Fridtjof Nansen lived in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Semyon Kirlian lived in Russia.",
+        "label": 1
+    },
+    {
+        "statement": "Ignazio Porro lived in Italy.",
+        "label": 1
+    },
+    {
+        "statement": "Paul Gottlieb Nipkow lived in Denmark.",
+        "label": 0
+    },
+    {
+        "statement": "Edwin H. Land lived in Sweden.",
+        "label": 0
+    },
+    {
+        "statement": "Lester Wire lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "L\u00e1szl\u00f3 B\u00edr\u00f3 lived in Hungary.",
+        "label": 1
+    },
+    {
+        "statement": "George Eastman lived in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Galileo Galilei lived in Italy.",
+        "label": 1
+    },
+    {
+        "statement": "John Atanasoff lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Benjamin Franklin lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Sir Sandford Fleming lived in Canada.",
+        "label": 1
+    },
+    {
+        "statement": "Robert Moog lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "George Washington Carver lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "James Clerk Maxwell lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Hans Lippershey lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Fridtjof Nansen lived in Norway.",
+        "label": 1
+    },
+    {
+        "statement": "Sir Sandford Fleming lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Willis Carrier lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Joseph-Armand Bombardier lived in Canada.",
+        "label": 1
+    },
+    {
+        "statement": "Earle Dickson lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Luther George Simjian lived in Turkey/the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Herbert Saffir lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Ignazio Porro lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Wallace Carothers lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "John Wesley Hyatt lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "James Dyson lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Candace Pert lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "David Schwarz lived in France.",
+        "label": 0
+    },
+    {
+        "statement": "Walter Hunt lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Samuel Morse lived in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Yvonne Brill lived in Canada.",
+        "label": 1
+    },
+    {
+        "statement": "Guglielmo Marconi lived in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Shinya Yamanaka lived in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Carl Sontheimer lived in Switzerland.",
+        "label": 0
+    },
+    {
+        "statement": "Sergey Brin and Larry Page lived in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Percy Spencer lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Henry Bessemer lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Ruth Handler lived in the Netherlands.",
+        "label": 0
+    },
+    {
+        "statement": "Richard Leach Maddox lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Alfred Nobel lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Thomas Wedgwood lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Frank Bunker Gilbreth lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Benjamin Holt lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Josephine Cochrane lived in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Godfrey Hounsfield lived in Denmark.",
+        "label": 0
+    },
+    {
+        "statement": "Antoine Lavoisier lived in France.",
+        "label": 1
+    },
+    {
+        "statement": "Carlos Glidden lived in Scotland.",
+        "label": 0
+    },
+    {
+        "statement": "Maria Telkes lived in Hungary/the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Robert Adler lived in Austria/the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "James Watt lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Edwin Link lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Igor Sikorsky lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Sir Humphry Davy lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Nikolai Basov lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Edwin H. Land lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Cai Lun lived in Italy.",
+        "label": 0
+    },
+    {
+        "statement": "Mary Walton lived in France.",
+        "label": 0
+    },
+    {
+        "statement": "Joseph Aspdin lived in Switzerland.",
+        "label": 0
+    },
+    {
+        "statement": "James Watt lived in Scotland.",
+        "label": 1
+    },
+    {
+        "statement": "Ernest Swinton lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Jean-Bernard-L\u00e9on Foucault lived in France.",
+        "label": 1
+    },
+    {
+        "statement": "Gordon Gould lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Leonardo da Vinci lived in Poland/France.",
+        "label": 0
+    },
+    {
+        "statement": "Ernesto Blanco lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "George Cayley lived in Canada.",
+        "label": 0
+    },
+    {
+        "statement": "John von Neumann lived in Hungary/the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Gideon Sundback lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Ruth Benerito lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Robert Moog lived in Austria/the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Luther George Simjian lived in Norway.",
+        "label": 0
+    },
+    {
+        "statement": "Ralph H. Baer lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "John Gorrie lived in Italy.",
+        "label": 0
+    },
+    {
+        "statement": "Michael Faraday lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Lloyd Groff Copeman lived in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Philo Farnsworth lived in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Alan Turing lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Elisha Gray lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "\u00c9douard-L\u00e9on Scott de Martinville lived in France.",
+        "label": 1
+    },
+    {
+        "statement": "Zhores Alferov lived in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Leon Theremin lived in Russia.",
+        "label": 1
+    },
+    {
+        "statement": "Rudolf Diesel lived in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Elisha Otis lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "L\u00e1szl\u00f3 B\u00edr\u00f3 lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Valdemar Poulsen lived in Denmark.",
+        "label": 1
+    },
+    {
+        "statement": "James Murray Spangler lived in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Joseph Aspdin lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Hans Berger lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Philo Farnsworth lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Ralph Benjamin lived in Italy.",
+        "label": 0
+    },
+    {
+        "statement": "Florence Parpart lived in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Marvin Camras lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Charles Babbage lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Charles Francis Richter lived in France.",
+        "label": 0
+    },
+    {
+        "statement": "Ami Argand lived in Switzerland.",
+        "label": 1
+    },
+    {
+        "statement": "Kwolek lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Richard Gatling lived in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Luther Simjian lived in Turkey/the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Joseph Bramah lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Hans Geiger lived in Austria/the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Alexander Graham Bell lived in Scotland/Canada/the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Blaise Pascal lived in Poland/France.",
+        "label": 0
+    },
+    {
+        "statement": "Charles Macintosh lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Narinder Singh Kapany lived in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Bette Nesmith Graham lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "\u00c9douard-L\u00e9on Scott de Martinville lived in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Orville and Wilbur Wright lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Richard Leach Maddox lived in Austria.",
+        "label": 0
+    },
+    {
+        "statement": "Hans Oersted lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Charles Cros lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "R. Buckminster Fuller lived in Scotland.",
+        "label": 0
+    },
+    {
+        "statement": "Willis Carrier lived in Italy.",
+        "label": 0
+    },
+    {
+        "statement": "Charles Cros lived in France.",
+        "label": 1
+    },
+    {
+        "statement": "Thomas Savery lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Bartolomeo Cristofori lived in Italy.",
+        "label": 1
+    },
+    {
+        "statement": "Louis Pasteur lived in France.",
+        "label": 1
+    },
+    {
+        "statement": "Frederick G. Creed lived in Sweden.",
+        "label": 0
+    },
+    {
+        "statement": "Alexander Fleming lived in France.",
+        "label": 0
+    },
+    {
+        "statement": "Florence Parpart lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Henri Giffard lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Paul Gottlieb Nipkow lived in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Hippolyte M\u00e8ge-Mouri\u00e8s lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Josephine Cochrane lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Mary Anderson lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Otis Boykin lived in France.",
+        "label": 0
+    },
+    {
+        "statement": "John Callcott Horsley lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Jack Kilby lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Samuel Fox lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Hans Berger lived in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Ernest Swinton lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Andr\u00e9-Jacques Garnerin lived in France.",
+        "label": 1
+    },
+    {
+        "statement": "Alexander Fleming lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Hans Goldschmidt lived in the Netherlands.",
+        "label": 0
+    },
+    {
+        "statement": "Willem Einthoven lived in France.",
+        "label": 0
+    },
+    {
+        "statement": "Garrett Morgan lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Richard Trevithick lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Georges Claude lived in Italy.",
+        "label": 0
+    },
+    {
+        "statement": "Sir Isaac Newton lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "William Kelly lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Thomas Wedgwood lived in Finland.",
+        "label": 0
+    },
+    {
+        "statement": "Nils Bohlin lived in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Albert Ghiorso lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "George de Mestral lived in Switzerland.",
+        "label": 1
+    },
+    {
+        "statement": "Carlos Glidden lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "William Congreve lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "John Logie Baird lived in Japan.",
+        "label": 0
+    },
+    {
+        "statement": "Edouard Benedictus lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Alec Jeffreys lived in France.",
+        "label": 0
+    },
+    {
+        "statement": "Arthur Pitney lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Giovanni Caselli lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "John Gorrie lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Robert Chesebrough lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Johannes Gutenberg lived in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Maria Telkes lived in Hungary.",
+        "label": 0
+    },
+    {
+        "statement": "Yoshiro Nakamatsu lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Chester Carlson lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "George Pullman lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "George Cayley lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "John Bardeen lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Orville and Wilbur Wright lived in France.",
+        "label": 0
+    },
+    {
+        "statement": "Archimedes lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Johannes Gutenberg lived in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "George Eastman lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Hans Lippershey lived in the Netherlands.",
+        "label": 1
+    },
+    {
+        "statement": "Carl Elsener lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "John Boyd Dunlop lived in France.",
+        "label": 0
+    },
+    {
+        "statement": "Heinrich Hertz lived in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Leonardo da Vinci lived in Italy.",
+        "label": 1
+    },
+    {
+        "statement": "Nikolai Basov lived in the Soviet Union.",
+        "label": 1
+    },
+    {
+        "statement": "Wilhelm Conrad R\u00f6ntgen lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Guglielmo Marconi lived in Italy.",
+        "label": 1
+    },
+    {
+        "statement": "Christian Huygens lived in the Netherlands.",
+        "label": 1
+    },
+    {
+        "statement": "Robert Adler lived in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "John Walker lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Grace Hopper lived in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "James West lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Charles Townes lived in Russia.",
+        "label": 0
+    },
+    {
+        "statement": "Sir Frank Whittle lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "John Ambrose Fleming lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Gottlieb Daimler lived in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Frederick McKinley Jones lived in Japan.",
+        "label": 0
+    },
+    {
+        "statement": "William Sturgeon lived in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Igor Tamm lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Frank Julian Sprague lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "George Antheil lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "William Kelly lived in France.",
+        "label": 0
+    },
+    {
+        "statement": "Alva J. Fisher lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Louis Pasteur lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Thomas Edison lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Joseph Glidden lived in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Tim Berners-Lee lived in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Carl Wilhelm Siemens lived in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Ralph Benjamin lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "George Devol lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Igor Tamm lived in Russia.",
+        "label": 1
+    },
+    {
+        "statement": "Philipp Reis lived in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Edmund Cartwright lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Heinrich G\u00f6bel lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Yoshua Bengio lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "John Kay lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Marie Curie lived in Poland/France.",
+        "label": 1
+    },
+    {
+        "statement": "Mary Phelps Jacob lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Valdemar Poulsen lived in Scotland.",
+        "label": 0
+    },
+    {
+        "statement": "John Harrison lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "John Ericsson lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "James Starley lived in Sweden/the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Charles Tellier lived in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Fritz Pfleumer lived in Canada/the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Clyde Tombaugh lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Nicolas Appert lived in Russia.",
+        "label": 0
+    },
+    {
+        "statement": "Felix Hoffmann lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Joseph Henry lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Alexander Graham Bell lived in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Robert Noyce lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Charles Francis Richter lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Hans Oersted lived in Denmark.",
+        "label": 1
+    },
+    {
+        "statement": "Nils Bohlin lived in Sweden.",
+        "label": 1
+    },
+    {
+        "statement": "Alec Jeffreys lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "John T. Parsons lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Otis Boykin lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Charles Strite lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Alessandro Volta lived in Italy.",
+        "label": 1
+    },
+    {
+        "statement": "Ruth Handler lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Georges Claude lived in France.",
+        "label": 1
+    },
+    {
+        "statement": "Hedy Lamarr lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Alfred Nobel lived in Sweden.",
+        "label": 1
+    },
+    {
+        "statement": "John Ambrose Fleming lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Charles Strite lived in Italy.",
+        "label": 0
+    },
+    {
+        "statement": "John Ericsson lived in Sweden.",
+        "label": 1
+    },
+    {
+        "statement": "Elisha Otis lived in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Gordon Gould lived in Canada.",
+        "label": 0
+    },
+    {
+        "statement": "Christopher Cockerell lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Sir Charles Parsons lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Henry Ford lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Rudolf K\u00e1lm\u00e1n lived in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Joseph Swan lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Richard Gatling lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Ferdinand von Zeppelin lived in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Karl Benz lived in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "James Starley lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "August Horch lived in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Charles Macintosh lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Heinrich G\u00f6bel lived in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Marie Curie lived in Hungary.",
+        "label": 0
+    },
+    {
+        "statement": "Igor Sikorsky lived in Ukraine/the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Gustaf Dal\u00e9n lived in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Eli Whitney lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Hippolyte M\u00e8ge-Mouri\u00e8s lived in France.",
+        "label": 1
+    },
+    {
+        "statement": "Ada Lovelace lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Spencer Silver lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Leon Theremin lived in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Emile Berliner lived in Germany/the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Charles Wheatstone lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Birut\u00e9 Galdikas lived in France.",
+        "label": 0
+    },
+    {
+        "statement": "Samuel Fox lived in France.",
+        "label": 0
+    },
+    {
+        "statement": "Grace Hopper lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Birut\u00e9 Galdikas lived in Canada.",
+        "label": 1
+    },
+    {
+        "statement": "Daisuke Inoue lived in Japan.",
+        "label": 1
+    },
+    {
+        "statement": "Albert Ghiorso lived in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Karl Landsteiner lived in Austria.",
+        "label": 1
+    },
+    {
+        "statement": "Joseph Henry lived in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Galileo Galilei lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Linus Torvalds lived in Finland.",
+        "label": 1
+    },
+    {
+        "statement": "Ami Argand lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Andr\u00e9-Jacques Garnerin lived in the Netherlands.",
+        "label": 0
+    },
+    {
+        "statement": "Levi Strauss lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Alessandro Volta lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Edouard Benedictus lived in France.",
+        "label": 1
+    },
+    {
+        "statement": "Arthur Fry lived in France.",
+        "label": 0
+    },
+    {
+        "statement": "Charles Townes lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Ralph H. Baer lived in France.",
+        "label": 0
+    },
+    {
+        "statement": "Reginald Fessenden lived in Canada/the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Antoine Lavoisier lived in Austria.",
+        "label": 0
+    },
+    {
+        "statement": "Joseph Engelberger lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Karl Landsteiner lived in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Reginald Fessenden lived in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "John Shepherd-Barron lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Frank Bunker Gilbreth lived in Russia.",
+        "label": 0
+    },
+    {
+        "statement": "Daisuke Inoue lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "John Kay lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Tim Berners-Lee lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Charles Francis Jenkins lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Jean-Bernard-L\u00e9on Foucault lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Wilhelm Conrad R\u00f6ntgen lived in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Christian Huygens lived in Scotland.",
+        "label": 0
+    },
+    {
+        "statement": "Ada Lovelace lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Philo Taylor Farnsworth lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Sergey Brin and Larry Page lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Hans Geiger lived in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Evangelista Torricelli lived in Italy.",
+        "label": 1
+    },
+    {
+        "statement": "Herbert Akroyd Stuart lived in Russia.",
+        "label": 0
+    },
+    {
+        "statement": "Daniel Fahrenheit lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Shinya Yamanaka lived in Japan.",
+        "label": 1
+    },
+    {
+        "statement": "Giovanni Caselli lived in Italy.",
+        "label": 1
+    },
+    {
+        "statement": "Charles Francis Jenkins lived in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "Hedy Lamarr lived in Austria/the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Frederick McKinley Jones lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "James Hargreaves lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "David Schwarz lived in Croatia.",
+        "label": 1
+    },
+    {
+        "statement": "Konrad Zuse lived in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Jacob Perkins lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Arthur Pitney lived in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "John Boyd Dunlop lived in Scotland.",
+        "label": 1
+    },
+    {
+        "statement": "Charles Babbage lived in Hungary/the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Hans von Ohain lived in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "John von Neumann lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Christopher Cockerell lived in France.",
+        "label": 0
+    },
+    {
+        "statement": "R. Buckminster Fuller lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Thomas Tompion lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Vint Cerf lived in Italy.",
+        "label": 0
+    },
+    {
+        "statement": "Nicolas Appert lived in France.",
+        "label": 1
+    },
+    {
+        "statement": "Wallace Carothers lived in Denmark.",
+        "label": 0
+    },
+    {
+        "statement": "Carl Sontheimer lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Karl Benz lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Konrad Zuse lived in Poland/France.",
+        "label": 0
+    },
+    {
+        "statement": "James Clerk Maxwell lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Nikola Tesla lived in Germany.",
+        "label": 0
+    },
+    {
+        "statement": "James Murray Spangler lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "John Wesley Hyatt lived in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Hans Goldschmidt lived in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Carl Elsener lived in Switzerland.",
+        "label": 1
+    },
+    {
+        "statement": "Vint Cerf lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Charles Tellier lived in France.",
+        "label": 1
+    },
+    {
+        "statement": "Elisha Gray lived in Austria/the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "George de Mestral lived in Canada.",
+        "label": 0
+    },
+    {
+        "statement": "Sir Charles Parsons lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Henry Bessemer lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "James Dyson lived in Canada.",
+        "label": 0
+    },
+    {
+        "statement": "Jack Kilby lived in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Joseph Marie Jacquard lived in France.",
+        "label": 1
+    },
+    {
+        "statement": "Carl Wilhelm Siemens lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Sir Humphry Davy lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Philipp Reis lived in Finland.",
+        "label": 0
+    },
+    {
+        "statement": "Samuel Colt lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Bartolomeo Cristofori lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Mary Walton lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Felix Hoffmann lived in Germany.",
+        "label": 1
+    },
+    {
+        "statement": "Lester Wire lived in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Frederick G. Creed lived in Canada.",
+        "label": 1
+    },
+    {
+        "statement": "Hans von Ohain lived in Canada.",
+        "label": 0
+    },
+    {
+        "statement": "Elihu Thomson lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Yvonne Brill lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Pierre Curie lived in France.",
+        "label": 1
+    },
+    {
+        "statement": "James Hargreaves lived in Sweden.",
+        "label": 0
+    },
+    {
+        "statement": "Nikolay Slavyanov lived in Russia.",
+        "label": 1
+    },
+    {
+        "statement": "Dr. Robert Gallo lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Charles Goodyear lived in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Samuel Morse lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Daniel Fahrenheit lived in Poland/Germany.",
+        "label": 1
+    },
+    {
+        "statement": "John Logie Baird lived in Scotland.",
+        "label": 1
+    },
+    {
+        "statement": "Henri Giffard lived in France.",
+        "label": 1
+    },
+    {
+        "statement": "Eugene Polley lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Zhores Alferov lived in Russia.",
+        "label": 1
+    },
+    {
+        "statement": "Ferdinand Carr\u00e9 lived in France.",
+        "label": 1
+    },
+    {
+        "statement": "Richard Trevithick lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Edmund Cartwright lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "John Walker lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Semyon Kirlian lived in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Blaise Pascal lived in France.",
+        "label": 1
+    },
+    {
+        "statement": "Mary Phelps Jacob lived in Ukraine/the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Luther Simjian lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Benjamin Rubin lived in the U.S.",
+        "label": 1
+    },
+    {
+        "statement": "Willem Einthoven lived in the Netherlands.",
+        "label": 1
+    },
+    {
+        "statement": "Godfrey Hounsfield lived in the U.K.",
+        "label": 1
+    },
+    {
+        "statement": "Yoshiro Nakamatsu lived in Japan.",
+        "label": 1
+    },
+    {
+        "statement": "Sir Isaac Newton lived in the U.S.",
+        "label": 0
+    },
+    {
+        "statement": "Ferdinand von Zeppelin lived in France.",
+        "label": 0
+    },
+    {
+        "statement": "Auguste and Louis Lumi\u00e8re lived in France.",
+        "label": 1
+    },
+    {
+        "statement": "Thomas Edison lived in the U.K.",
+        "label": 0
+    },
+    {
+        "statement": "Cai Lun lived in China.",
+        "label": 1
+    }
+]

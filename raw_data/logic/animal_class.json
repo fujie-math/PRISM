@@ -1,0 +1,658 @@
+[
+    {
+        "statement": "The salmon is a fish.",
+        "label": 1
+    },
+    {
+        "statement": "The frog is a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The lobster is a crustacean.",
+        "label": 1
+    },
+    {
+        "statement": "The raccoon is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The horse is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The giant anteater is a fish.",
+        "label": 0
+    },
+    {
+        "statement": "The aardvark is a fish.",
+        "label": 0
+    },
+    {
+        "statement": "The hummingbird is a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The armadillo is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The bee is a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The gorilla is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The cheetah is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The zebra is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The tapir is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The rabbit is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The platypus is a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The moose is a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The kangaroo is a crustacean.",
+        "label": 0
+    },
+    {
+        "statement": "The camel is a amphibian.",
+        "label": 0
+    },
+    {
+        "statement": "The lion is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The deer is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The penguin is a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The seahorse is a fish.",
+        "label": 1
+    },
+    {
+        "statement": "The chicken is a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The mongoose is a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The cassowary is a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The goat is a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The tuna is a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The swan is a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The peacock is a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The walrus is a mollusk.",
+        "label": 0
+    },
+    {
+        "statement": "The seagull is a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The cow is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The flamingo is a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The sparrow is a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The panda is a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The aardvark is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The slug is a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The horse is a mollusk.",
+        "label": 0
+    },
+    {
+        "statement": "The rabbit is a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The tarantula is a arachnid.",
+        "label": 1
+    },
+    {
+        "statement": "The rat is a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The slug is a mollusk.",
+        "label": 1
+    },
+    {
+        "statement": "The hippopotamus is a reptile.",
+        "label": 0
+    },
+    {
+        "statement": "The porcupine is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The sea turtle is a fish.",
+        "label": 0
+    },
+    {
+        "statement": "The manta ray is a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The parrot is a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The parrot is a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The deer is a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The cow is a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The salmon is a reptile.",
+        "label": 0
+    },
+    {
+        "statement": "The chimpanzee is a fish.",
+        "label": 0
+    },
+    {
+        "statement": "The skunk is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The axolotl is a reptile.",
+        "label": 0
+    },
+    {
+        "statement": "The frog is a amphibian.",
+        "label": 1
+    },
+    {
+        "statement": "The camel is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The goldfish is a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The penguin is a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The armadillo is a reptile.",
+        "label": 0
+    },
+    {
+        "statement": "The koala is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The lion is a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The bat is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The eagle is a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The beaver is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The gecko is a reptile.",
+        "label": 1
+    },
+    {
+        "statement": "The dolphin is a crustacean.",
+        "label": 0
+    },
+    {
+        "statement": "The elephant is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The crocodile is a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The peacock is a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The otter is a fish.",
+        "label": 0
+    },
+    {
+        "statement": "The cheetah is a insect.",
+        "label": 0
+    },
+    {
+        "statement": "The hyena is a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The tarantula is a insect.",
+        "label": 0
+    },
+    {
+        "statement": "The squirrel is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The chimpanzee is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The rat is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The hedgehog is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The cat is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The hyena is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The gecko is a crustacean.",
+        "label": 0
+    },
+    {
+        "statement": "The ostrich is a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The snake is a reptile.",
+        "label": 1
+    },
+    {
+        "statement": "The shark is a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The iguana is a reptile.",
+        "label": 1
+    },
+    {
+        "statement": "The beaver is a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The swan is a reptile.",
+        "label": 0
+    },
+    {
+        "statement": "The panda is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The bee is a insect.",
+        "label": 1
+    },
+    {
+        "statement": "The llama is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The flamingo is a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The tuna is a fish.",
+        "label": 1
+    },
+    {
+        "statement": "The wolverine is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The goldfish is a fish.",
+        "label": 1
+    },
+    {
+        "statement": "The zebra is a fish.",
+        "label": 0
+    },
+    {
+        "statement": "The polar bear is a fish.",
+        "label": 0
+    },
+    {
+        "statement": "The whale is a fish.",
+        "label": 0
+    },
+    {
+        "statement": "The seagull is a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The bison is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The platypus is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The cat is a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The mongoose is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The wolverine is a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The squirrel is a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The lobster is a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The cassowary is a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The hamster is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The tiger is a amphibian.",
+        "label": 0
+    },
+    {
+        "statement": "The alpaca is a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The koala is a fish.",
+        "label": 0
+    },
+    {
+        "statement": "The jellyfish is a cnidarian.",
+        "label": 1
+    },
+    {
+        "statement": "The shark is a fish.",
+        "label": 1
+    },
+    {
+        "statement": "The gazelle is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The octopus is a fish.",
+        "label": 0
+    },
+    {
+        "statement": "The dolphin is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The tortoise is a reptile.",
+        "label": 1
+    },
+    {
+        "statement": "The leopard is a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The bison is a amphibian.",
+        "label": 0
+    },
+    {
+        "statement": "The dog is a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The axolotl is a amphibian.",
+        "label": 1
+    },
+    {
+        "statement": "The hamster is a fish.",
+        "label": 0
+    },
+    {
+        "statement": "The tortoise is a cnidarian.",
+        "label": 0
+    },
+    {
+        "statement": "The iguana is a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The eagle is a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The hippopotamus is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The jellyfish is a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The chicken is a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The raccoon is a mollusk.",
+        "label": 0
+    },
+    {
+        "statement": "The octopus is a mollusk.",
+        "label": 1
+    },
+    {
+        "statement": "The otter is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The walrus is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The hummingbird is a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The giraffe is a crustacean.",
+        "label": 0
+    },
+    {
+        "statement": "The narwhal is a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The vulture is a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The llama is a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The dog is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The hedgehog is a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The snake is a fish.",
+        "label": 0
+    },
+    {
+        "statement": "The rhinoceros is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The moose is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The tiger is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The ostrich is a fish.",
+        "label": 0
+    },
+    {
+        "statement": "The porcupine is a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The leopard is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The gorilla is a amphibian.",
+        "label": 0
+    },
+    {
+        "statement": "The whale is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The gazelle is a mollusk.",
+        "label": 0
+    },
+    {
+        "statement": "The bat is a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The pigeon is a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The rhinoceros is a reptile.",
+        "label": 0
+    },
+    {
+        "statement": "The seahorse is a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The crocodile is a reptile.",
+        "label": 1
+    },
+    {
+        "statement": "The narwhal is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The vulture is a fish.",
+        "label": 0
+    },
+    {
+        "statement": "The giraffe is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The elephant is a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The skunk is a reptile.",
+        "label": 0
+    },
+    {
+        "statement": "The sparrow is a bird.",
+        "label": 1
+    },
+    {
+        "statement": "The goat is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The tapir is a bird.",
+        "label": 0
+    },
+    {
+        "statement": "The pigeon is a mammal.",
+        "label": 0
+    },
+    {
+        "statement": "The kangaroo is a mammal.",
+        "label": 1
+    },
+    {
+        "statement": "The alpaca is a mammal.",
+        "label": 1
+    }
+]
