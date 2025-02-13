@@ -194,6 +194,7 @@ if __name__ == '__main__':
     parser.add_argument("--setup_seed", default=0, type=int)
     parser.add_argument("--output_path", default="../../output/", type=str)
     parser.add_argument("--data_path", default="../../hd_data_prompt/true/llama2chat7b/", type=str)
+#    parser.add_argument("--data_path", default="../../hd_data/true/llama2chat7b/", type=str)
     parser.add_argument("--train_number", default=0, type=int)
 
     parser.add_argument("--input_size", default=4096, type=int)
