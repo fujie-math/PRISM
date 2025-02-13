@@ -2,7 +2,7 @@
 
 
 
-Welcome to the GitHub repository for our latest paper, titled **"Prompt-Guided Internal States for Hallucination Detection of Large Language Models"**.
+Welcome to the official GitHub repository for our latest research on hallucination detection in Large Language Models (LLMs), titled **"Prompt-Guided Internal States for Hallucination Detection of Large Language Models"**.
 
 
 
@@ -48,11 +48,12 @@ First, navigate to the `./generate_data` folder:
 cd ./generate_data
 ```
 In this folder, there are four Python files, responsible for generating the raw internal states of text in a specified LLM, along with internal states that include a prompt template, for the **True-False** and **LogicStruct** datasets.
+
 For example:
 ```
 python gen_true_prompt.py
 ```
-Running this code will automatically generate the internal states for all texts in the **True-False** dataset, incorporating the pre-defined prompt template, as follows:
+Running this code will automatically generate the prompt-guided internal states, for all texts in the **True-False** dataset incorporating the pre-defined prompt template as follows:
 ```
 "Does the statement '{s}' accurately reflect the truth?"
 ```
@@ -68,6 +69,7 @@ You can modify the prompt template, language model and save path in the file.
 
 
 In the `train` folder, we construct classifiers using the previous proposed **MM** and **SAPLMA** methods, and perform generalization tests on the **True-False** and **LogicStruct** datasets.
+
 For example:
 ```
 cd ./train/logic/
@@ -102,7 +104,7 @@ In the `effect` folder, we use some simple mathematical tools to analyze the eff
 cd ./effect/prompt_1_hd/
 python gen_prompt_1_hd.py
 ```
-First, we enter the `./effect/prompt_1_hd/` folder to generate the prompt-guided internal states used in our paper, and store them in this folder.
+First, you should generate the prompt-guided internal states used in our paper, and store them in this folder.
 ```
 cd ./effect/
 python plot.py
