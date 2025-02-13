@@ -86,7 +86,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("--output_path", default="../../output/", type=str)
     parser.add_argument("--data_path", default="../../hd_data_prompt/true/llama2chat7b/", type=str)
-    
+#    parser.add_argument("--data_path", default="../../hd_data/true/llama2chat7b/", type=str)
     parser.add_argument("--train_number", default=0, type=int)
     parser.add_argument("--device", default="cuda:0", type=str)
     
