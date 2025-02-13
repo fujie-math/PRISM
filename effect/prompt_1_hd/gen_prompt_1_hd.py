@@ -4,11 +4,8 @@ import torch
 import json
 from tqdm import tqdm
 from transformers import LlamaForCausalLM, LlamaTokenizer, AutoModelForCausalLM, AutoTokenizer
-os.environ["CUDA_VISIBLE_DEVICES"] = "1,2"
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
-model_type = "7b"
-model_family = "llamachat"
-print(f"{model_family}{model_type}")
 
 model_path = "meta-llama/Llama-2-7b-chat-hf"
   

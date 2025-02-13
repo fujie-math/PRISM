@@ -210,7 +210,7 @@ if __name__ == '__main__':
     parser.add_argument("--lr", default=1e-3, type=float)
     parser.add_argument("--wd", default=0.0, type=float)
     parser.add_argument("--dropout", default=0.2, type=float)
-    parser.add_argument("--device", default="cuda:4", type=str)
+    parser.add_argument("--device", default="cuda:0", type=str)
     
     args = parser.parse_args()    
     

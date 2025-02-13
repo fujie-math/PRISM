@@ -75,6 +75,7 @@ data_path_2 = "../hd_data/true/llama2chat7b"
 
 data_types = data_type_1 
 data_paths = [data_path_1] * len(data_type_1)
+#data_paths = [data_path_2] * len(data_type_1)
 
 average_directions = compute_average_directions(data_types, data_paths)
 

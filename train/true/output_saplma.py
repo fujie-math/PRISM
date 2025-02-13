@@ -21,6 +21,7 @@ for i in range(3):
     setup_seed = str(i)
     data_path = "../../hd_data_prompt/true/llama2chat7b/"
     output_path = "../../output/"
+    os.makedirs(output_path, exist_ok=True)
     input_size = str(4096)
     base_args = [
         "python", script_name,
@@ -33,7 +34,7 @@ for i in range(3):
         "--lr", "1e-3",
         "--wd", "0.0",
         "--dropout", "0.2",
-        "--device", "cuda:4"
+        "--device", "cuda:0"
     ]
 
 
@@ -41,10 +42,8 @@ for i in range(3):
 
         args = base_args + ["--train_number", str(train_number)]
 
-
         process = subprocess.Popen(args, stdout=subprocess.PIPE, stderr=subprocess.PIPE, universal_newlines=True)
         stdout, stderr = process.communicate()
-
 
         results = [None] * 6
         results[train_number] = None 
@@ -62,9 +61,7 @@ for i in range(3):
                 except Exception as e:
                     print(f"Error parsing line: {line} - {e}")
 
-
         sheet.append(results)
-
 
     row_count = sheet.max_row
     col_count = sheet.max_column
@@ -77,7 +74,6 @@ for i in range(3):
             row_avg = round(np.mean(values), 4)
             sheet.cell(row=row, column=col_count + 1, value=row_avg)
 
-
     col_averages = []
     for col in range(1, col_count + 1):
         values = [sheet.cell(row=row, column=col).value for row in range(2, row_count + 1)]
@@ -85,7 +81,6 @@ for i in range(3):
         if values:
             col_avg = round(np.mean(values), 4)
             sheet.cell(row=row_count + 1, column=col, value=col_avg)
-
 
     all_values = []
     for row in range(2, row_count + 1):

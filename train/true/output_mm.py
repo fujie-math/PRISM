@@ -6,7 +6,6 @@ from openpyxl import Workbook
 import numpy as np
 
 
-
 wb = Workbook()
 sheet = wb.active
 sheet.title = "Training Results"
@@ -19,11 +18,12 @@ sheet.append(headers)
 script_name = "train_mm.py" 
 data_path = "../../hd_data_prompt/true/llama2chat7b/"
 output_path = "../../output/"
+os.makedirs(output_path, exist_ok=True)
 base_args = [
     "python", script_name,
     "--output_path", output_path,
     "--data_path", data_path,
-    "--device", "cuda:4"
+    "--device", "cuda:0"
 ]
 
 
@@ -31,10 +31,8 @@ for train_number in range(6):
 
     args = base_args + ["--train_number", str(train_number)]
 
-
     process = subprocess.Popen(args, stdout=subprocess.PIPE, stderr=subprocess.PIPE, universal_newlines=True)
     stdout, stderr = process.communicate()
-
 
     results = [None] * 6
     results[train_number] = None 
@@ -50,7 +48,6 @@ for train_number in range(6):
                 results[index] = round(accuracy, 4)
             except Exception as e:
                 print(f"Error parsing line: {line} - {e}")
-
 
     sheet.append(results)
 
@@ -82,6 +79,7 @@ for row in range(2, row_count + 1):
         value = sheet.cell(row=row, column=col).value
         if value is not None:
             all_values.append(value)
+
 
 if all_values:
     overall_avg = round(np.mean(all_values),4)

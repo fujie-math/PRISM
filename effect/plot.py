@@ -30,14 +30,12 @@ data_path_1 = "../hd_data/true/llama2chat7b"
 data_path_2 = "./prompt_1_hd/"
 
 
-
 def prepare_data(data_path, data_type):
     pca_data = []
     for n, dt in enumerate(data_type):
         data = get_data(data_path, dt)
         pca_data += data
     return pca_data
-
 
 
 fig, axes = plt.subplots(3, 4, figsize=(14, 9))
@@ -110,7 +108,6 @@ for i, dt in enumerate(data_type):
     ax2.plot(x_vals_2, y_vals_2, color='black', linewidth=1, linestyle='--')
 
 
-
 legend1 = scatter_1.legend_elements()[0]
 legend2 = scatter_2.legend_elements()[0]
 
@@ -126,4 +123,4 @@ labels = labels1 + labels2
 fig.legend(handles, labels, title="Labels", loc="upper right")
 
 plt.subplots_adjust(wspace=0.1, hspace=0.3)
-plt.show()
+plt.savefig('pca1.pdf')
