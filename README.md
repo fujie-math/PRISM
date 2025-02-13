@@ -75,12 +75,12 @@ For example:
 cd ./train/logic/
 python train_mm.py
 ```
-The code above trains a classifier using the **MM** method on the affirmative statements in the **LogicStruct** dataset and tests it on the other three grammatical structures. You can configure the internal states reading path within the file. By default, it reads the pre-generated prompt-guided internal states, which will give the experimental results of the **PRISM-MM** method. If the internal states of the original text are read, it will give the results of the original **MM** method.
+The code above trains a classifier using the **MM** method on the affirmative statements in the **LogicStruct** dataset and tests it on the other three grammatical structures. You can configure the internal states reading path within the file by setting the `data_path`. By default, it reads the pre-generated prompt-guided internal states, which will give the experimental results of the **PRISM-MM** method. If the internal states of the original text are read, it will give the results of the original **MM** method.
 ```
 cd ./train/true/
 python output_saplma.py
 ```
-The code above will execute the `train_saplma.py` file under three different random number sets, and the results for each set will be saved as a `Excel` file in the newly created `.\output` folder. The generated `Excel` file will contain the following data:	
+The code above will execute the `train_saplma.py` file under three different random number sets, and the results for each set will be saved as a `Excel` file in a newly created `.\output` folder. The generated `Excel` file will contain data in the following format:	
 
 |             | animals   | cities    | companies | elements  | facts    | inventions|           |
 | ----------- | --------- | --------- | --------- | --------- | -------- | --------- | --------- |
