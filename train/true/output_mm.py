@@ -17,6 +17,7 @@ sheet.append(headers)
 
 script_name = "train_mm.py" 
 data_path = "../../hd_data_prompt/true/llama2chat7b/"
+#data_path = "../../hd_data/true/llama2chat7b/"
 output_path = "../../output/"
 os.makedirs(output_path, exist_ok=True)
 base_args = [
