@@ -20,6 +20,7 @@ for i in range(3):
     script_name = "train_saplma.py" 
     setup_seed = str(i)
     data_path = "../../hd_data_prompt/true/llama2chat7b/"
+    #data_path = "../../hd_data/true/llama2chat7b/"
     output_path = "../../output/"
     os.makedirs(output_path, exist_ok=True)
     input_size = str(4096)
