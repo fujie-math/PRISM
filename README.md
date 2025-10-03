@@ -1,6 +1,6 @@
 # PRISM: Prompt-Guided Internal States for Hallucination Detection of Large Language Models
 
-
+**News: This work has been published at the Main conference of ACL 2025!**
 
 Welcome to the official GitHub repository for our latest research on hallucination detection in Large Language Models (LLMs), titled **"Prompt-Guided Internal States for Hallucination Detection of Large Language Models"**.
 
